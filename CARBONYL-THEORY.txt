@@ -1,0 +1,1024 @@
+### **Page 119**
+
+## **Carbonyl Compounds**
+
+### **1.0 Classification And General Introduction**
+
+Organic Compounds having $>C=O$ group are called carbonyl compounds and $>C=O$ group is known as carbonyl or oxo group. It's general formula is $C_n H_{2n} O$ (n = 1, 2, 3......). Carbonyl compounds are grouped into two categories.
+
+**(a) Aldehydes:** Aldehyde group is $-\stackrel{\huge\text{O}}{||}{\text{C}}-H$ (also known as formyl group). It is a monovalent group.
+
+**(b) Ketones:** The carbonyl group ($>C=O$) is a Ketonic group when its both the valencies are satisfied by alkyl group. It is a bivalent group.
+
+**Structure**
+In $>C=O$ compounds C-atom is $sp^2$ hybridised which forms two $\sigma$ bonds with C and H-atom respectively and one $\sigma$ bond with oxygen atom. The unhybridised atomic orbital of C-atom and the parallel 2p orbital of oxygen atom give the $\pi$ bond in $>C=O$ group.
+
+Due to electro-negativity difference in C & O atoms, the $>C=O$ group is polar.
+$>\overset{\delta+}{C} = \overset{\delta-}{O}$ Hence aldehydes and Ketones posses dipole moment.
+
+---
+
+### **2.0 GENERAL METHODS OF PREPARATION**
+
+### **2.1 For BOTH ALDEHYDES AND KETONES**
+
+#### **(a) By Oxidation (or dehydrogenation) of Alcohols**
+(a) By $K_2Cr_2O_7 / H_2SO_4$
+Oxidation of primary alcohols gives aldehyde and oxidation of secondary alcohols gives Ketones. Here, ($K_2Cr_2O_7 / H_2SO_4$) is a strong oxidising agent.
+
+$RCH_2OH \xrightarrow{K_2Cr_2O_7 / H_2SO_4 (dil)} RCHO$ (Aldehyde)
+
+$R-\underset{OH}{\underset{|}{CH}}-R \xrightarrow{K_2Cr_2O_7 / H_2SO_4} R-\stackrel{\huge\text{O}}{||}{\text{C}}-R$ (Ketone)
+
+Aldehydes are quite susceptible to further oxidation to acids -
+$RCH_2OH \xrightarrow{[O]} R-CHO \xrightarrow{[O]} R-COOH$
+Thus oxidation of primary alcohols is made at the temperature much above the boiling point of aldehyde and thus aldehydes are vapourised out and prevented from being oxidised.
+**Note:** Aldehydes can be prepared from 1°-alcohols, secondary alcohols can be oxidized to ketones, by oxidation with pyridinium chlorochromate (PCC) in $CH_2Cl_2$ solvent, pyridinium dichromate (PDC) and with Collin's reagent ($CrO_3$ . pyridin + sol)
+
+#### **(b) Oppenauer Oxidation**
+The oxidation of secondary alcohols to ketones by heating them with specific reagent: ($[(CH_3)_3CO]_3Al$) (Aluminium t-butoxide) in presence of acetone. Primary alcohols may also be oxidized to aldehydes, if acetone is replaced by a better hydrogen acceptor, (e.g. p-benzoquinone), the equilibrium can be controlled by the amount of acetone, an excess of which favours the oxidation of the alcohol.
+
+$R_2CHOH + CH_3-\stackrel{\huge\text{O}}{||}{\text{C}}-CH_3 \rightleftharpoons [(CH_3)_3CO]_3Al \rightleftharpoons R_2C=O + CH_3-\underset{OH}{\underset{|}{CH}}-CH_3$
+2° Alcohol $\quad$ Acetone $\quad\quad\quad\quad\quad\quad\quad\quad$ Ketone $\quad$ Isopropyl alcohol
+
+$RCH_2OH + \text{[p-Benzoquinone]} \xrightarrow{[(CH_3)_3CO]_3Al} R-CHO + \text{[Quinol]}$
+1° Alcohol $\quad$ Quinone $\quad\quad\quad\quad\quad\quad\quad\quad$ Aldehyde $\quad$ Quinol
+
+---
+### **Page 120**
+
+**Note:** The reaction is the reverse of Meerwein-Ponndorf -Verley reduction.
+
+#### **(c) By Cu/300°C**
+
+$CH_3CH_2OH \xrightarrow{Cu, 300^\circ C} CH_3CHO$ (Acetaldehyde)
+
+$CH_3-\underset{OH}{\underset{|}{CH}}-CH_3 \xrightarrow{Cu, 300^\circ C} CH_3-\stackrel{\huge\text{O}}{||}{\text{C}}-CH_3$ (Acetone)
+
+$CH_3-\overset{CH_3}{\overset{|}{C\\|}}-OH \\ \ \ \ \ CH_3 \xrightarrow{Cu, 300^\circ C} CH_3-\overset{CH_3}{\overset{|}{C}}=CH_2 + H_2O$ (Isobutylene)
+
+---
+
+### **2.2 PREPARATION OF Carbonyl Compound By ALKALINE Hydrolysis Of Geminal Dihalide**
+Terminal gem-dihalides on hydrolysis give aldehydes while the non-terminal dihalides give ketone.
+
+$CH_3CH(Cl)_2 \xrightarrow{KOH(aq)} [CH_3CH(OH)_2] \xrightarrow{-H_2O} CH_3CHO$
+Terminal gem-dihalide $\quad\quad\quad$ [unstable] $\quad\quad\quad$ Acetaldehyde
+
+$CH_3C(Cl)_2CH_3 \xrightarrow{KOH(aq)} [CH_3C(OH)_2CH_3] \xrightarrow{-H_2O} CH_3-\stackrel{\huge\text{O}}{||}{\text{C}}-CH_3$
+$\quad\quad\quad\quad\quad\quad\quad\quad$ [unstable] $\quad\quad\quad$ Acetone
+
+---
+
+### **2.3 By Oxidation of diols**
+With periodic acid ($HIO_4$) or lead tetra acetate ($(CH_3COO)_4Pb$) vicinal diols gets oxidised to form carbonyl compounds.
+
+$R-\underset{OH}{\underset{|}{CH}}-\underset{OH}{\underset{|}{CH}}-R' + HIO_4 \rightarrow RCHO + R'CHO + HIO_3 + H_2O$
+
+$R_2\underset{OH}{\underset{|}{C}}-\underset{OH}{\underset{|}{C}}R'_2 + HIO_4 \rightarrow R-\stackrel{\huge\text{O}}{||}{\text{C}}-R + R'-\stackrel{\huge\text{O}}{||}{\text{C}}-R' + HIO_3 + H_2O$
+
+---
+
+### **2.4 By Ozonolysis of alkenes**
+This reaction is used to determine the position of the double bond in alkene.
+
+$RCH=CH_2 + O_3 \rightarrow [R-CH(O)-O-CH_2(O-O)]_{\text{Ozonide}} \xrightarrow{H_2O, Zn} RCHO + HCHO$
+
+$R_2C=CH_2 + O_3 \rightarrow [R_2C(O)-O-CH_2(O-O)]_{\text{Ozonide}} \xrightarrow{H_2O, Zn} R_2C=O + HCHO$
+
+---
+
+### **Page 121**
+
+### **2.5 From Alkyne**
+
+#### **(a) Preparations Of Carbonyl Compounds From Hydrolysis Of Alkyne (Kucherov Reaction):**
+With dil $H_2SO_4$ & 1% $HgSO_4$ at 60-80°C.
+
+$CH \equiv CH + H_2O \xrightarrow{Hg^{2+}} [CH_2=CHOH] \xrightarrow{\text{Tautomerism}} CH_3-\overset{\large\text{O}}{\overset{||}{C}}-H$
+
+*   **Other alkynes give ketone**
+
+$CH_3C \equiv CH + H_2O \rightarrow [CH_3-\overset{OH}{\overset{|}{\text{C}}}=CH_2]_{\text{enol}} \rightleftharpoons CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3$
+
+#### **(b) Hydroboration-oxidation :** Reaction with $B_2H_6$, $2BH_3$ or $R_2BH$ give dialkyl borane.
+
+$R-C \equiv C-H + R_2BH \rightarrow R-CH=CHBR_2 \xrightarrow{H_2O_2, OH^-} [RCH=CHOH] \xrightarrow{\text{Tautomerism}} R-CH_2-\overset{\large\text{O}}{\overset{||}{\text{C}}}-H + R_2BOH$
+
+$CH_3-C \equiv C-CH_3 + R_2BH \rightarrow CH_3-CH=\overset{BR_2}{\overset{|}{\text{C}}}-CH_3 \xrightarrow{H_2O_2, OH^-}$
+$R_2BOH + [CH_3-CH=\overset{OH}{\overset{|}{\text{C}}}-CH_3] \rightarrow CH_3-CH_2-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3$
+
+$$
+\boxed{
+\begin{align*}
+\text{1-alkyne gives} &\rightarrow \text{aldehyde} \\
+\text{other alkyne} &\rightarrow \text{ketone}
+\end{align*}
+}
+$$
+
+### **2.6 By hydrolysis of carbonyl derivatives**
+
+$R-CH=N-OH \xrightarrow{H_2O/H^+} R-CHO + NH_2-OH$
+(Aldoxime) $\quad\quad\quad\quad$ (Aldehyde) (Hydroxyl amine)
+
+$R_2C=N-OH \xrightarrow{H_2O/H^+} R_2C=O + NH_2-OH$
+(Ketoxime) $\quad\quad\quad\quad$ (Ketone)
+
+$R-\underset{OR'}{\overset{OR'}{\underset{|}{C}}}H \xrightarrow{H_2O/H^+} R-\overset{\large\text{O}}{\overset{||}{C}}-H + 2R'OH$
+(Acetal) $\quad\quad\quad\quad\quad$ (Aldehyde) (Alcohol)
+
+$R_2\underset{OR'}{\overset{OR'}{\underset{|}{C}}} \xrightarrow{H_2O/H^+} R_2C=O + 2R'OH$
+(Ketal) $\quad\quad\quad\quad\quad$ (Ketone) (Alcohol)
+
+### **2.7 From b-keto acids**
+The decarboxylation reaction takes place via formation of six membered ring transition state.
+
+**(a)** $H\overset{\large\text{O}}{\overset{||}{C}}OCH_2COOH \xrightarrow{110^\circ C} CH_3CHO + CO_2$
+
+**(b)** $CH_3-\overset{\large\text{O}}{\overset{||}{C}}-\overset{\alpha}{C}H_2-\overset{\beta}{C}OOH \xrightarrow{\Delta} CH_3-\overset{\large\text{O}}{\overset{||}{C}}-CH_3 + CO_2$
+
+---
+
+### **Page 122**
+
+### **3.0 FOR ALDEHYDES ONLY**
+
+### **3.1 Reduction of acyl chlorides, esters and nitriles**
+Acyl chlorides, esters and nitriles can be reduced to aldehydes by treating them with lithium-tri-tert-butoxyaluminium hydride ($LiAlH[OC(CH_3)_3]_3$) and DIBAL-H(di iso propyl aluminium hydride) at – 78°C.
+
+$R-\overset{\large\text{O}}{\overset{||}{C}}-Cl \xrightarrow{\text{(i)} LiAlH[OC(CH_3)_3]_3} \xrightarrow{\text{(ii)} H_2O} R-\overset{\large\text{O}}{\overset{||}{C}}-H$
+
+Both esters and nitriles can be reduced to aldehydes by DIBAL-H. Reduction must be carried out at low temperatures. Hydrolysis of the intermediates gives the aldehyde.
+
+(i) $R-\overset{\large\text{O}}{\overset{||}{C}}-OR' \xrightarrow{\text{(i) DIBAL-H, Hexane, -78°C}} \xrightarrow{\text{(ii)} H_2O} R-\overset{\large\text{O}}{\overset{||}{C}}-H$
+
+(ii) $R-C \equiv N \xrightarrow{\text{(i) DIBAL-H, Hexane, -78°C}} \xrightarrow{\text{(ii)} H_2O} R-\overset{\large\text{O}}{\overset{||}{C}}-H$
+
+### **3.2 Rosenmund's reduction**
+Quinoline or sulphur act as a poisoned catalyst, controls the further reduction of aldehyde to alcohols.
+
+$RCOCl + H_2 \xrightarrow{Pd / BaSO_4, \text{Quinoline or sulphur}} RCHO + HCl$
+
+$RCOCl + H_2 \xrightarrow{Pd} RCHO \rightarrow RCH_2OH$
+Formaldehyde can not be prepared by this method.
+
+**Example:** $C_2H_5COCl + H_2 \xrightarrow{Pd / BaSO_4, \text{Quinoline or sulphur}} C_2H_5CHO + HCl$
+$\quad$ Propionyl Chloride $\quad\quad\quad\quad\quad\quad\quad\quad\quad$ Propanal
+
+### **3.3 Stephen's reduction**
+Alkyl cyanides are reduced by $SnCl_2$ and $HCl$.
+
+$R-C \equiv N \xrightarrow{SnCl_2 / HCl} R-CH=NH \xrightarrow{H_3O^+} RCHO + NH_3$
+
+$C_2H_5-C \equiv N \xrightarrow{SnCl_2 / HCl} C_2H_5CH=NH \xrightarrow{H_3O^+} C_2H_5CHO + NH_3$
+
+### **3.4 Oxo reaction or hydroformylation**
+
+$CH_2=CH_2 + CO+H_2 \xrightarrow{Co, 150^\circ C, \text{Water gas}} CH_3CH_2CHO$
+
+$CH_3-CH=CH_2 + CO+H_2 \xrightarrow{Co, 150^\circ C} CH_3CH_2CH_2CHO + CH_3-\underset{CHO}{\underset{|}{C}}H-CH_3$
+
+**Note:** In this reaction symmetrical alkene gives 1 aldehyde while unsymmetrical alkene gives isomeric aldehyde (Chain isomers).
+
+### **3.5 Preparation of Aromatic Aldehydes**
+
+**1. Gattermann-Koch reaction / Gattermann-Koch aldehyde synthesis**
+$\text{[Benzene]} \xrightarrow{\text{1. CO, HCl}} \xrightarrow{\text{2. } AlCl_3} \text{[Benzaldehyde]}$
+
+**2. Gattermann aldehyde synthesis**
+$\text{[Benzene]} \xrightarrow{\text{1. HCN, HCl}} \xrightarrow{\text{2. } AlCl_3} \text{[Benzaldehyde]}$
+
+---
+
+### **Page 123**
+
+### **Etard's Reaction**
+
+**3. Etard's reaction**
+$\text{[Toluene]} \xrightarrow{1. CrO_2Cl_2} \xrightarrow{2. H_2O} \text{[Benzaldehyde]}$
+
+### **4.0 FOR KETONES ONLY**
+
+### **4.1 From Grignard's reagent**
+
+$RMgX + R'-C \equiv N \rightarrow R'-\overset{R}{\overset{|}{\text{C}}}=NMgX \xrightarrow{2H_2O} R'-\overset{\large\text{O}}{\overset{||}{C}}-R + NH_3 + Mg\underset{OH}{\underset{|}{X}}$
+
+### **4.2 Preparation of Ketone From Acyl Chloride (dialkyl Cadmium)**
+$R_2Cd$ (dialkyl Cadmium) is an organometallic compound.
+
+$RCOCl + R_2'Cd \rightarrow R\overset{\large\text{O}}{\overset{||}{C}}R' + R'CdCl$
+
+**Example:**
+$CH_3COCl + (C_2H_5)_2Cd \rightarrow CH_3-\overset{\large\text{O}}{\overset{||}{C}}-C_2H_5 + C_2H_5CdCl$
+
+**Note:**
+This reaction is superior than Grignard Reaction because the ketones formed, further reacts with Grignard reagent to form 3° alcohols.
+
+### **4.3 From $R_2CuLi$**
+
+$R_2CuLi + R'COCl \rightarrow R'\overset{\large\text{O}}{\overset{||}{C}}R + RCu + LiCl$
+
+### **4.4 By hydrolysis of Aceto Acetic Ester (AAE)**
+
+$CH_3-\overset{\large\text{O}}{\overset{||}{C}}-CH_2-\overset{\large\text{O}}{\overset{||}{C}}-OC_2H_5 \xrightarrow{H_3O^\oplus, -C_2H_5OH} CH_3-\overset{\large\text{O}}{\overset{||}{C}}-\overset{\alpha}{C}H_2-\overset{\beta}{C}OOH \xrightarrow{\Delta, -CO_2} CH_3-\overset{\large\text{O}}{\overset{||}{C}}-CH_3$
+$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad (\beta\text{-keto acid}) \quad\quad\quad\quad\quad\quad\quad\quad$ (Acetone)
+
+**Ex:**
+$CH_3-\overset{\large\text{O}}{\overset{||}{C}}-CH_2-\overset{\large\text{O}}{\overset{||}{C}}-OC_2H_5 \xrightarrow{H_3O^\oplus, -C_2H_5OH} CH_3-\overset{\large\text{O}}{\overset{||}{C}}-\overset{\alpha}{C}H_2-\overset{\beta}{C}OOH \xrightarrow{\Delta, -CO_2} CH_3-\overset{\large\text{O}}{\overset{||}{C}}-CH_2-CH_3$
+$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad (\beta\text{-keto acid}) \quad\quad\quad\quad\quad\quad\quad\quad$ (Butanone)
+
+### **5.0 OTHER METHODS FOR ALDEHYDE AND KETONE**
+
+### **5.1 From dry distillation of Calcium and Barium Carboxylate Salts**
+
+**(A)**
+$
+\begin{matrix} \text{R COO} \\ \text{R COO} \end{matrix} \rangle \text{Ca} + \text{Ca} \langle \begin{matrix} \text{O}-\overset{\large\text{O}}{\overset{||}{\text{C}}}-\text{H} \\ \text{O}-\overset{\large\text{O}}{\overset{||}{\text{C}}}-\text{H} \end{matrix}
+\xrightarrow{\Delta} 2RCHO + 2CaCO_3
+$
+
+---
+### **Page 124**
+
+(B) $\begin{matrix} \text{H COO} \\ \text{H COO} \end{matrix} \rangle \text{Ca} \xrightarrow{\Delta} \text{HCHO} + CaCO_3$
+$\quad$ Calcium formate $\quad$ (Also $R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-R$ and HCHO formed)
+
+(C) $\begin{matrix} \text{R COO} \\ \text{R COO} \end{matrix} \rangle \text{Ca} \xrightarrow{\Delta} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-R + CaCO_3$
+$\quad$ Calcium-alkanoate $\quad$ Ketone
+
+Calcium salts of acids other then formic acid on heating together gives ketone
+
+(D) $\begin{matrix} \text{R COO} \\ \text{R COO} \end{matrix} \rangle \text{Ca} + \text{Ca} \langle \begin{matrix} \text{O}-\overset{\large\text{O}}{\overset{||}{\text{C}}}-R' \\ \text{O}-\overset{\large\text{O}}{\overset{||}{\text{C}}}-R' \end{matrix} \xrightarrow{\Delta} 2R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-R' + 2CaCO_3$
+$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad$ Ketone
+
+To prepare ethyl methyl ketone Calcium acetate and Calcium propionate are used :
+
+(E) $\begin{matrix} CH_3-OCO \\ CH_3-OCO \end{matrix} \rangle \text{Ca} + \text{Ca} \langle \begin{matrix} \text{O}-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_2CH_3 \\ \text{O}-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_2CH_3 \end{matrix} \xrightarrow{\Delta} 2 \ CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-C_2H_5 + 2CaCO_3$
+$\quad$ Calcium Acetate $\quad$ Calcium propionate $\quad\quad\quad$ Ethyl methyl ketone
+
+### **5.2 By Thermal decomposition of carboxylic acids (By heating with MnO)**
+Vapour of carboxylic acids when passed over MnO/300°C give carbonyl compounds
+
+$2 \ HCOOH \xrightarrow{MnO, 300^\circ C} HCHO + H_2O + CO_2$
+
+$2 \ CH_3COOH \xrightarrow{MnO, 300^\circ C} CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3 + CO_2 + H_2O$
+
+$RCOOH + HCOOH \xrightarrow{MnO, 300^\circ C} RCHO + CO_2 + H_2O$
+
+$RCOOH + R'COOH \xrightarrow{MnO, 300^\circ C} R\overset{\large\text{O}}{\overset{||}{\text{C}}}R' + CO_2 + H_2O$
+
+### **5.3 Wacker Process**
+$CH_2=CH_2 + PdCl_2 + H_2O \xrightarrow{CuCl_2} CH_3CHO + Pd + HCl$
+
+$RCH=CH_2 + PdCl_2 + H_2O \xrightarrow{CuCl_2} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3 + Pd + HCl$
+
+---
+
+### **BEGINNER'S BOX-1**
+**1.** $\text{[Cyclohexanol]} \xrightarrow{\text{Aluminium tert. butoxide, acetone}} A$. In the above reaction A is :
+
+(A) [Cyclohexene] $\quad$ (B) [Cyclohexanone] $\quad$ (C) [Cyclohex-2-en-1-one] $\quad$ (D) [4-Methylcyclohex-2-en-1-one]
+
+---
+### **Page 125**
+
+**2.** $\text{[1,2-Cyclohexanediol]} \xrightarrow{MnO_2} A$. A is :
+
+(A) [Cyclohexanedione] $\quad$ (B) [2-Hydroxycyclohexanone] $\quad$ (C) [Adipaldehyde] $\quad$ (D) [2-Hydroxycyclohexene-1-one]
+
+**3.** Acetophenone can be obtained by the distillation of:
+(A) $(C_6H_5COO)_2Ca$
+(B) $(CH_3COO)_2Ca$
+(C) $(C_6H_5COO)_2Ca$ and $(CH_3COO)_2Ca$
+(D) $(C_6H_5COO)_2Ca$ and $(HCOO)_2Ca$
+
+**4.** Gem dihalide on hydrolysis gives:
+(A) Vic diol
+(B) Gem diol
+(C) Carbonyl compound
+(D) Carboxylic acid
+
+**5.** Acetal or ketal is:
+(A) Vic dialkoxy compound
+(B) $\alpha, \omega$-dialkoxy compound
+(C) $\alpha$-alkoxy alcohol
+(D) Gem dialkoxy compound
+
+**6.** $Et-\overset{\large\text{O}}{\overset{||}{\text{C}}}-Me$ is prepared as one of the products by dry distillation of calcium salt of which of the following acids
+(A) ethanoic acid and methanoic acid
+(B) Propanoic acid and methanoic acid
+(C) Propanoic acid and ethanoic acid
+(D) None of these
+
+**7.** $\text{[Aryl Ketone]} \xrightarrow{R} \text{[Aryl Alkane]}$
+Which of the following can be used as R in the above reaction :
+(A) $LiAlH_4$
+(B) $Ni/H_2$
+(C) $Pd/BaSO_4/CaCO_3/H_2$
+(D) $NaBH_4$
+
+### **6.0 Physical Properties of Carbonyl Compounds :**
+*   **Solubility**
+    Aldehyde and ketones having upto 3 carbons (formaldehyde, acetaldehyde and propionaldehyde and acetone) are quite soluble in water due to polarity of $>C=O$ bond and can form H—bond with water molecule. Aldehydes and ketones having equal to or more than five carbons are insoluble in water.
+    
+    $>\overset{\delta-}{C=O} \cdot\cdot\cdot\cdot H^{\delta+}-O^{\delta-}_{\Large H^{\delta+}}$
+    
+    H-bonding
+    
+    Solubility $\propto \frac{1}{\text{Molecular weight}}$
+    
+*   **Boiling point**
+    Boiling point $\propto$ Molecular weight
+    
+    Boiling point order is - **Alcohol > Carbonyl compounds > Alkane**
+    
+    This is because in alcohols intermolecular H-bonding is present but in carbonyl compounds H-bonding doesn't exist, instead dipole-dipole attraction and vander waal force of attraction is present. Alkanes are non polar.
+    
+    $>\overset{\delta+}{C}=\overset{\delta-}{O} \cdot\cdot\cdot\cdot \overset{\delta+}{C}=\overset{\delta-}{O}>$
+
+---
+### **Page 126**
+
+### **7.0 CHEMICAL PROPERTIES**
+
+### **7.1 Nucleophilic Addition Reactions of Carbonyl Compounds**
+Due to strong electronegativity of oxygen, the mobile $\pi$ electrons pulled strongly towards oxygen, leaving the carbon atom deficient of electrons.
+
+$>\text{C=O} \leftrightarrow >\overset{\oplus}{\text{C}}-\overset{\ominus}{\text{O}}$
+
+Carbon is thus readily attacked by $\overset{\ominus}{Nu}$. The negatively charged oxygen is attacked by electron deficient (electrophile) $E^+$.
+
+$>C=O$ bond in carbonyl group is stronger than C=C bond in alkanes.
+
+| Bond       | Bond Energy   | Bond       | Bond Energy   |
+|------------|---------------|------------|---------------|
+| C—O        | 84.0 K Cals   | C—C        | 83.1 K Cals   |
+| C=O        | 178 K Cals    | C=C        | 146 K Cals    |
+
+**(Reactivity of carbonyl group $\propto$ Magnitude of +ve charge)**
+
+### **7.2 Nucleophilic Addition Reactions**
+*   **Addition of HCN**
+    $>\text{C=O} + \text{HCN} \rightarrow >\underset{CN}{\underset{|}{\text{C}}}-\text{OH}$ (Cyanohydrin)
+    
+    The cyanohydrin product can further react:
+    - $\xrightarrow{H_2O, \text{Partial hydrolysis}} >\underset{CONH_2}{\underset{|}{\text{C}}}-\text{OH}$ ($\alpha$-Hydroxy amide)
+    - $\xrightarrow{H_3O^\oplus, \text{Complete hydrolysis}} >\underset{COOH}{\underset{|}{\text{C}}}-\text{OH}$ ($\alpha$-Hydroxy acid)
+    - $\xrightarrow{Ni, H_2} >\underset{CH_2NH_2}{\underset{|}{\text{C}}}-\text{OH}$ ($\beta$-Amino alcohol)
+    
+*   **Addition of NaHSO$_3$**
+    This reaction is utilized for the separation of carbonyl compounds from non - carbonyl compounds.
+    
+    $>\text{C=O} + \text{NaHSO}_3 \rightarrow >\underset{SO_3Na}{\underset{|}{\text{C}}}-\text{OH} \xrightarrow{H_3O^\oplus} \text{Carbonyl compounds. *(Regenerated)}}$
+    Sodium bi sulphite $\quad$ Bisulphite compound (Crystalline)
+    
+    **Mechanism:**
+    $\text{NaHSO}_3 \rightleftharpoons \text{Na}^+ + \text{HSO}_3^-$
+    $\text{HSO}_3^- \rightleftharpoons \text{H}^+ + \text{SO}_3^{2-}$
+    
+    $>\text{C=O} + \text{SO}_3^{2-} \xrightarrow{\text{slow}} >\underset{SO_3^\ominus}{\underset{|}{\text{C}}}-\text{O}^\ominus \xrightarrow{\text{H}^+, \text{fast}} >\underset{SO_3^\ominus}{\underset{|}{\text{C}}}-\text{OH} \xrightarrow{\text{Na}^+} >\underset{SO_3Na}{\underset{|}{\text{C}}}-\text{OH}$
+    
+    Only Aldehyde and Methyl Ketones can give this reaction.
+
+---
+### **Page 127**
+
+*   **Reaction with ammonia derivatives**
+    These are condensation or addition elimination reaction. These reactions proceed well in weakly acidic medium.
+    $>\text{C=O} + \text{H}_2\text{N-Z} \rightarrow >\text{C=N-Z} + \text{H}_2\text{O}$
+    Addition - elimination (Condensation)
+    
+*   **Mechanism**
+    $>\text{C=O} + \text{H}_2\overset{\bullet\bullet}{\text{N}}\text{Z} \rightleftharpoons >\underset{OH}{\underset{|}{\text{C}}}-\overset{\oplus}{\text{N}}\text{H}_2\text{Z} \xrightarrow{\text{IMPE}} >\underset{OH}{\underset{|}{\text{C}}}-\overset{\bullet\bullet}{\text{N}}\text{HZ} \xrightarrow{-\text{H}_2\text{O}} >\text{C}=\overset{\oplus}{\text{N}}\text{HZ} \xrightarrow{-\text{H}^\oplus} >\text{C=NZ}$
+    
+*   **Reactions of Carbonyl group with Ammonia derivatives (Z)**
+    
+    $R_2C=O + H_2N-NH-\text{[2,4-dinitrophenyl]} \rightarrow R_2C=NNH-\text{[2,4-dinitrophenyl]}$
+    2,4-DNP (Brady's reagent) $\quad$ (2, 4 - dinitro phenyl hydrazone)
+    
+    $R_2C=O + H_2NNHCONH_2 \rightarrow R_2C=NNHCONH_2$
+    (Semi Carbazone)
+    
+    $R_2C=O + H_2NOH \rightarrow R_2C=NOH$ (Aldoxime)
+    
+    $R_2C=O + H_2NNH_2 \rightarrow R_2C=NNH_2$ (Hydrazone)
+    
+    $R_2C=O + H_2NNHC_6H_5 \rightarrow R_2C=NNHC_6H_5$ (Phenyl hydrazone)
+    
+*   **Ammonia derivatives (NH$_2$Z)**
+    - Z = -OH $\rightarrow$ $NH_2OH$ (Hydroxyl amine)
+    - Z = -NH$_2$ $\rightarrow$ $NH_2NH_2$ (hydrazine)
+    - Z = -NHC$_6$H$_5$ $\rightarrow$ $NH_2NHC_6H_5$ (Phenyl hydrazine)
+    - Z = $-NH-\text{[2,4-dinitrophenyl]} \rightarrow NH_2-NH-\text{[2,4-dinitrophenyl]}$ 2, 4-Dinitro phenyl hydrazine (DNP) Brady's reagent.
+    - Z = -NHCONH$_2$ $\rightarrow$ $NH_2NHCONH_2$ Semi Carbazide.
+
+---
+### **Page 128**
+
+*   **Nucleophilic Addition of Alcohol**
+    $R_2C=O + ROH \xrightarrow{HCl(g)} R_2\underset{OR}{\underset{|}{\text{C}}}-OH \xrightarrow{ROH, HCl(g)} R_2\underset{OR}{\underset{|}{\text{C}}}-OR$
+    $\quad\quad\quad\quad\quad\quad\quad$ Hemi-acetal $\quad\quad\quad\quad\quad\quad\quad$ Acetal
+    
+    $R_2C=O + 2ROH \xrightarrow{HCl(g)} R_2\underset{OR}{\underset{|}{\text{C}}}-OR + H_2O$
+    $\quad\quad\quad\quad\quad\quad\quad\quad\quad$ Ketal
+    
+    **Note:** Acetal / ketal is formed only in acidic medium. Hemiacetal is formed in acidic as well as basic medium. As a result, acetals are stable in basic medium and unstable in acidic medium.
+    
+*   **Reaction with glycol (group protection)**
+    $>\text{C=O} + \underset{H-O-CH_2}{\underset{|}{\text{H-O-CH_2}}} \xrightarrow{H^\oplus} >\text{C}\langle \begin{matrix} \text{O}-CH_2 \\ \text{O}-CH_2 \end{matrix}$
+    (neutral) $\quad\quad\quad$ Cyclic acetal / ketal
+    
+*   **Reaction with sodium alkynide**
+    $>\text{C=O} + HC\equiv C^\ominus Na^\oplus \rightarrow >\underset{C\equiv CH}{\underset{|}{\text{C}}}-O^\ominus Na^\oplus \xrightarrow{\text{Acid}} >\underset{C\equiv CH}{\underset{|}{\text{C}}}-OH$
+    Sodium Alkynide $\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad$ Acetylinic alcohol
+    
+*   **Nucleophilic Addition of H$_2$O**
+    It is a reversible reaction.
+    
+    $>\text{C=O} + H_2O \xrightarrow{\text{Weak acid,}-H_2O} >\underset{OH}{\underset{|}{\text{C}}}-OH$
+    $\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad$ unstable hydrate (neutral)
+    
+    **HCHO, chloral, hexafluoroacetone are some of the compounds which form stable hydrates.**
+    
+### **4.0 OXIDATION OF CARBONYL COMPOUNDS**
+
+**1. Tollen's Reagent**
+    $RCHO + [Ag(NH_3)_2]OH \xrightarrow{\Delta} RCOOH + NH_3 + Ag$
+    Aldehyde acts as reducing agent, they can reduce mild oxidizing agents like Tollen's Reagent. Tollen's test Gentle Heating for 20 to 25 mins.
+    
+**2. Fehling's Solutions**
+    Fehling's A $\quad$ Fehling's B
+    aq. $CuSO_4$ $\quad$ Alk. solution of Roschelve salt (sodium potassium tartrate)
+    
+    $\text{Structure of Roschelve salt complex with Cu}^{2+}$:
+    $\underset{COOK}{\underset{|}{\text{CH}}-OH} - \underset{H-O}{\underset{|}{\text{O}}-H} \dots Cu^{2+} \dots \underset{O-H}{\underset{|}{\text{H}-O}} - \underset{OH}{\underset{|}{\text{CH}}-COONa}$
+    
+    It is a carrier for $Cu^{2+}$ as it make reversible complex with $Cu^{2+}$
+    This test is also used is Blood and Urine test.
+    
+    $RCHO + Cu^{2+} \xrightarrow{H_2O, \Delta} RCOOH + Cu^\oplus \rightarrow RCOO^\ominus + Cu_2O (\text{red ppt.})$
+
+---
+### **Page 129**
+
+**3. Benedict's Test**
+    Sodium Citrate + NaOH + NaHCO$_3$ + CuSO$_4$
+    
+    $RCHO + Cu^{2+} \xrightarrow{H_2O, \Delta} RCOOH + Cu^\oplus \rightarrow RCOO^\ominus + Cu_2O (\text{red ppt.})$
+    
+**4. Reaction with HgCl$_2$**
+    $RCHO + HgCl_2 + H_2O \xrightarrow{\Delta} RCOOH + 2HCl + Hg_2Cl_2 \downarrow$
+    $RCHO + Hg_2Cl_2 + H_2O \xrightarrow{\Delta} RCOOH + 2HCl + 2Hg \downarrow \text{greyish solution}$
+    
+**5. Schiff's Reagent**
+    Schiff's Reagent is an aq. solution of following base decolourised by passing SO$_2$. Aldehyde restore pink colour of Schiff's reagent.
+    
+    $\text{[p-Rosaniline Hydrochloride]} \xrightarrow{SO_2} \text{Colourless solution (Schiff's Reagent)} \xrightarrow{RCHO, \Delta} RCOOH + \text{Pink colour}$
+    Magenta colour (Fuschin)
+    
+    Ketons are not easy to oxidize so they do not give these 5 tests. These five tests can be used to distinguish aldehyde and ketones. Both gives 2,4 DNP test.
+    
+    **Oxidation of ketones (with strong oxidising agent acidic KMnO$_4$, K$_2$Cr$_2$O$_7$ etc.):** Ketones undergo oxidation under drastic conditions.
+    During the oxidation of ketones, there is breaking of carbon-carbon bond between $\alpha$-carbon and carbonyl carbon. In this process both carbons convert into carboxylic groups. This leads to the formation of two moles of monocarboxylic acids.
+    
+    **Case - I : Oxidation of Symmetrical ketones :**
+    $CH_3-CH_2-CH_2-\overset{\large\text{O}}{\overset{||}{\text{C}}} \ \vdots \ CH_2-CH_2-CH_3 \xrightarrow{[O]} CH_3-CH_2-COOH + CH_3-CH_2-COOH$
+    C = 7 $\quad\quad\quad$ C = 4 $\quad\quad\quad$ C = 3
+    $\quad\quad\quad$ COOH $\quad\quad\quad$ Total number of C'S = 4 + 3 = 7 ?
+    
+    Thus number of carbons in any product is less than the number of carbons in ketone.
+    
+    **Capy - II : Oxidation of unsymmetrical ketones (Poff's rule) :** In case of unsymmetrical ketones, those R bond break in which alkyl group has more number of carbons. This rule is known as **Poff's Rule.**
+    
+    $CH_3-CH_2-\overset{\large\text{O}}{\overset{||}{\text{C}}} \ \vdots \ CH_2-CH_3 \xrightarrow{[O]} CH_3-CH_2-COOH + CH_3-CH_2-COOH$
+
+---
+### **Page 130**
+
+**Case - III : Oxidation of cyclic ketones :** Formation of dibasic acid takes place from cyclic ketones. In this case number of carbons in ketone and dibasic carboxylic acid is always same.
+
+$\text{[Cyclohexanone]} \xrightarrow{[O]} HOOC-(CH_2)_4-COOH$
+
+**Note :** If both $\alpha$-carbons are not identical then ;
+$\text{[2-Methylcyclohexanone]} \xrightarrow{[O]} HOOC-(CH_2)_4-COOH$
+
+**Allylic oxidation (SeO$_2$)**
+$SeO_2$ is a selective oxidizing agent with converts -CH$_2$- group adjacent to carbonyl group into carbonyl group. The reagent, in general, oxidises active methylene and methyl groups to ketonic and aldehydic groups respectively.
+
+$CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3 \xrightarrow{SeO_2} CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-\overset{\large\text{O}}{\overset{||}{\text{C}}}-H \xrightarrow{SeO_2} CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CHO$
+
+Double bonds, triple bonds and aromatic rings may also activate the methylene group.The methylene or methyl group $\alpha$ to the most highly substituted end of the double bond is hydroxylated according to the order of preference of oxidation $CH_2 > CH_3 > CH$ groups.
+
+$CH_2=CH-CH_3 \xrightarrow{SeO_2} CH_2=CH-CH_2OH$
+Rate of reactivity order
+$2^\circ C-H > 1^\circ C-H > 3^\circ C-H$
+
+$CH_3-CH=CH-CH_2-CH_3 \xrightarrow{SeO_2} CH_3-CH=CH-\underset{OH}{\underset{|}{C}}H-CH_3$
+
+$\text{[1-Methylcyclohexene]} \xrightarrow{SeO_2} \text{[3-Methylcyclohex-2-en-1-ol]}$
+
+$\text{[Limonene]} \xrightarrow{SeO_2} \text{[Carveol]}$
+
+**Baeyer Villiger Oxidation**
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-R' \xrightarrow{RCO_3H} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OR' + RCOOH$
+
+Migratory order for above reaction,
+-H > $3^\circ$ > $2^\circ \sim$ -Ph > $1^\circ$ > -Me
+
+---
+### **Page 131**
+
+**GOLDEN KEY POINTS**
+*   **Central Acetaldehyde ($H_3C-CHO$) reactions:**
+    *   $\xrightarrow{H_2N-NH_2} H_3C-\overset{H}{\overset{|}{\text{C}}}=N-NH_2 \xrightarrow{H_2N-NH_2} H_3C-\overset{H}{\overset{|}{\text{C}}}=N-N=\overset{H}{\overset{|}{\text{C}}}-CH_3$
+        (A) Hydrazone $\quad\quad\quad\quad$ (B) Azine
+    *   $\xrightarrow{Ag(NH_3)_2OH} Ag + CH_3-COO^\ominus + NH_3$ (Silver mirror test)
+    *   $\xrightarrow{Cu_2O + OH^\ominus} Cu_2O \downarrow \text{Red} + A: Cu_2O \text{ B: } Na_2CO_3/Citrate/CuSO_4$ (Fehling Sol)
+    *   $\xrightarrow{Pinacol} \rightarrow$ [structure shows acetone to pinacol: $CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3 \xrightarrow{Mg/Hg, H_2O} (CH_3)_2\underset{OH}{\underset{|}{\text{C}}}-\underset{OH}{\underset{|}{\text{C}}}(CH_3)_2$]
+    *   $\xrightarrow{\text{M. P. V. Reduction}} CH_3CH_2OH$
+    *   $\xrightarrow{Zn(Hg)/HCl \text{ or } H_2N-NH_2/EtO^{\ominus}Na^{\oplus}} CH_3-CH_3$
+    *   $\xrightarrow{3 \text{ moles}, \text{Conc.} H_2SO_4} \text{Paraldehyde}$
+    *   $\xrightarrow{4 \text{ moles}, \text{Conc.} H_2SO_4, 273K} \text{Metaldehyde}$
+*   **Formaldehyde ($H_2C=O$) reactions:**
+    *   $\xrightarrow{\text{Evaporation}} (CH_2O)_n \text{H}_2\text{O}$ Paraformaldehyde
+    *   $\xrightarrow{\text{Room Temp}} \text{Metaformaldehyde}$ (trimer)
+*   **Acetone ($H_3C-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3$) reactions:**
+    *   $\xrightarrow{H-C\equiv N} H_3C-\underset{CN}{\underset{|}{\overset{OH}{\overset{|}{\text{C}}}}}-CH_3$
+    *   $\xrightarrow{NaHSO_3, H_2O} H_3C-\underset{SO_3^\ominus Na^\oplus}{\underset{|}{\overset{OH}{\overset{|}{\text{C}}}}}-CH_3$ (White crystal Bisulphite adduct)
+    *   $\xrightarrow{C_2H_5OH} H_3C-\underset{O-C_2H_5}{\underset{|}{\overset{OH}{\overset{|}{\text{C}}}}}-CH_3 \rightarrow H_3C-\underset{O-C_2H_5}{\underset{|}{\overset{O-C_2H_5}{\overset{|}{\text{C}}}}}-CH_3$
+    *   $\xrightarrow{\text{Glycerol}} \text{Cyclic ketal with glycerol}$
+    *   $\xrightarrow{NH_2OH, \text{pH 4.5 to 5.2}} H_3C-\underset{CH_3}{\underset{|}{\text{C}}}=N-OH$
+    *   $\xrightarrow{NH_2-NH-Ph, \text{pH 4.5 to 5.2}} H_3C-\underset{CH_3}{\underset{|}{\text{C}}}=N-NH-Ph$
+    *   $\xrightarrow{NH_2-NH-C(=NH)-NH_2} H_3C-\underset{CH_3}{\underset{|}{\text{C}}}=N-NH-C(=NH)-NH_2$
+    *   $\xrightarrow{H-NEt_2, \text{Reflux}} H_2C=\overset{CH_3}{\overset{|}{\text{C}}}-NEt_2$ (Enamine)
+    *   $\xrightarrow{Et_3N, \text{Dry HCl}} \text{No reaction}$
+    *   $\xrightarrow{NH_3} NH_2-\overset{CH_3}{\overset{|}{\text{C}}}=\overset{NH}{\overset{|}{\text{C}}}-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3$ (Diacetone amine)
+    *   $\xrightarrow{Ph_3P=CH_2, \text{DMSO}} H_3C-\overset{CH_3}{\overset{|}{\text{C}}}=CH_2$ (Wittig Reaction)
+    *   $\xrightarrow{NaOI} \text{Haloform reaction} \rightarrow CHI_3 + CH_3-C(=O)ONa$
+*   **Reduction Reactions of Crotonaldehyde ($CH_3-CH=CH-CHO$):**
+    *   $\xrightarrow{LiAlH_4 / Et_2O} H_3C-CH_2-CH_2-CH_2-OH$
+    *   $\xrightarrow{NaBH_4 / EtOH} H_3C-CH=CH-CH_2-OH$
+    *   $\xrightarrow{Na/EtOH} H_3C-CH_2-CH_2-CH_2-OH$
+    *   $\xrightarrow{NH_2NH_2 / H_2O_2} H_3C-CH_2-CH_2-CH_3$
+
+---
+### **Page 132**
+
+### **BEGINNER'S BOX-2**
+**1.** Cyanohydrin formation constant will be highest for :
+(A) [p-Nitrobenzaldehyde]
+(B) [p-Methoxybenzaldehyde]
+(C) [p-(N,N-dimethylamino)benzaldehyde]
+(D) [Methyl p-formylbenzoate]
+
+**2.** In the given reaction :
+$C_6H_5-\overset{\large\text{O}}{\overset{||}{\text{C}}}-H \xrightarrow{NH_2OH/H^\oplus} [X]$
+[X] will be:
+(A) Only syn oxime
+(B) Only anti oxime
+(C) mixture of syn and anti oxime
+(D) secondary amide
+
+**3.** Cyanohydrin of which compound on hydrolysis will give lactic acid?
+(A) $C_6H_5CHO$
+(B) HCHO
+(C) $CH_3CHO$
+(D) $CH_3-CH_2-CHO$
+
+**4.** Which one of the following, forms relatively more stable gem diol ?
+(A) HCHO
+(B) $CH_3CHO$
+(C) $CH_3COCH_3$
+(D) $C_6H_5COCH_3$
+
+**5.** Which is the major product of the following reaction ?
+$\text{[Cyclopentanone]} \xrightarrow{NH_2OH, \text{pH 4 to 6}}$
+(A) [Cyclopentanone oxime with OH and NHOH on same carbon]
+(B) [Cyclopentanone oxime with OH and ONH2 on same carbon]
+(C) [1-(ethoxy)-1-hydroxycyclopentane]
+(D) [Cyclopentanone oxime]
+
+**6.** Which of the following compound will given positive Tollens test
+(A) $CH_3CHO$
+(B) [$\alpha$-hydroxy ketone structure]
+(C) $CH_3CH_2CH_2CH=OCH_3$
+(D) $CH_3-\underset{OCH_3}{\underset{|}{\overset{OH}{\overset{|}{\text{C}}}}}-OCH_3$
+
+**7.** Which of the following compounds is oxidised to prepare ethylmethylketone ?
+(A) 2-Propanol
+(B) tert-Butanol
+(C) 2-Butanol
+(D) All of these
+
+---
+### **Page 133**
+
+**8.** What will be the product of the following reaction
+$Ph-\underset{Me}{\underset{|}{C}}H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-Me \xrightarrow{RCO_3H} ?$
+(A) $Ph-CH(Me)-O-C(=O)-Me$
+(B) $Ph-C(=O)-CH(Me)_2$
+(C) $Ph-CH(Me)-OCOOMe$
+(D) None of these
+
+**9.** Fehling solution gives red precipitate with:
+(A) Aromatic aldehyde
+(B) Aliphatic aldehyde
+(C) Ketones
+(D) $\alpha$-hydroxy ketones
+
+**10.** Silver mirror test with Tollens reagent is given by :
+(A) $C_6H_5CHO$
+(B) Ph-NH-OH
+(C) $C_6H_5-CH_2-C(=O)-CH_2OH$
+(D) $CH_3CHO$
+
+**11.** Schiff's reagent gives pink colour with :
+(A) Acetaldehyde
+(B) Formic acid
+(C) Acetic acid
+(D) Methyl acetate
+
+---
+### **ALDOL & SIMILAR KIND OF REACTION**
+
+### **1.0 NAMED REACTIONS**
+### **1.1 ALDOL CONDENSATION**
+The $\alpha$-hydrogen of carbonyl compounds are acidic due to the fact that the anion (enolate ion) is stabilized by resonance.
+
+$\underset{(3\alpha \text{ Hydrogens})}{CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-H} \xrightarrow{OH^\ominus (\text{base})} \underset{(\text{enolate anion})}{[^{\ominus}CH_2-\overset{\large\text{O}}{\overset{||}{\text{C}}}-H \leftrightarrow CH_2=\overset{\large O^{\ominus}}{\overset{|}{\text{C}}}-H]}$
+
+**Base catalysed Aldol**
+In aqueous base, two acetaldehyde molecules react to form $\beta$-hydroxy aldehyde called aldol. The reaction is called Aldol condensation. The enolate ion is the intermediate in the aldol condensation of aldehyde and ketone. Acetaldehyde for instance, forms a dimeric product aldol in presence of a dilute base ($\approx$ 10% NaOH)
+
+$2CH_3CHO \xrightarrow{\overset{\ominus}{O}H / HOH, 5^\circ C} CH_3-\underset{OH}{\underset{|}{C}}H-CH_2-CHO \xrightarrow{\Delta, -H_2O} CH_3-CH=CH-CHO$
+$\quad\quad\quad\quad\quad\quad\quad\quad$ $\beta$-hydroxy butyraldehyde (Aldol)
+
+I will now transcribe the requested pages, maintaining the integrity of the content and structure.
+
+---
+### **Page 134**
+
+**Mechanism:**
+$H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-\underset{H}{\underset{|}{C}}H_2 \rightleftharpoons H-\overset{\ominus O}{\overset{|}{\text{C}}}=\underset{H}{\underset{|}{C}}H_2 \xrightarrow{rds} H-\overset{\ominus O}{\overset{|}{\text{C}}}-CH_2-\overset{H}{\overset{|}{\text{C}}}H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-\text{H} \xrightarrow{H-O-H} H-\underset{OH}{\underset{|}{C}}H-CH_2-CH_2-CH_2-\overset{\ominus O}{\overset{|}{\text{C}}}H \rightarrow \text{Aldol}$
+
+$H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-C=CH-CH_3 \xleftarrow{-OH^\ominus} H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-\overset{\ominus O}{\underset{|}{\text{C}}}H-CH=CH-CH_3 \xleftrightarrow{OH^\ominus} H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-\underset{H}{\underset{|}{\overset{\ominus O}{\underset{|}{\text{C}}}}}-CH-CH-CH_3$
+
+Aldols are stable and may be isolated. They, however can be dehydrated easily by heating the basic reaction mixture or by a separate acid catalyzed reaction. Thus if the above reaction is heated the product is dehydrated to 2-butenal (crotonaldehyde).
+
+**Acid catalysed Aldol**
+In acid catalysed aldol condensation enol form of carbonyl is the nucelophile in place of enolate.
+**Mechanism**
+$CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3 \xrightarrow{H^+ / H_2O, \Delta} CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH=C(CH_3)_2$
+($\alpha, \beta$ unsaturated carbonyl compound)
+
+$CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3 \xrightarrow{H^+} CH_3-\overset{\oplus OH}{\overset{||}{\text{C}}}-CH_3 \rightleftharpoons CH_3-\overset{OH}{\overset{|}{\text{C}}}=CH_2$
+$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad (\text{Enol form})$
+
+$\text{Enol} + \text{Protonated Ketone} \rightarrow \text{Protonated Adduct} \xrightarrow{-H^+} \text{Adduct}$
+$CH_3-\overset{OH}{\overset{|}{\text{C}}}=CH_2 + CH_3-\overset{\oplus OH}{\overset{||}{\text{C}}}-CH_3 \rightleftharpoons CH_3-\overset{OH}{\overset{|}{\text{C}}}-CH_2-\overset{OH}{\overset{|}{\text{C}}}(CH_3)_2$
+
+$\text{Adduct} \xrightarrow{-H_2O, -H^+} CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH=C(CH_3)_2$
+
+---
+### **Page 135**
+
+### **BEGINNER'S BOX-3**
+**1.** Write the product and mechanism for given reactions.
+(i) $CH_3-CH_2-CHO \xrightarrow{\text{Dil NaOH}} (A) \xrightarrow{\Delta} (B)$
+(ii) $\text{[Cyclohexanone]} = O \xrightarrow{\text{Dil NaOH}} (C)$
+(iii) $C_6H_5-CH_2-CHO \xrightarrow{\text{Dil NaOH}} (D)$
+(iv) $\text{[Cyclopentanone]} \xrightarrow{\text{Dil NaOH}} (E) \xrightarrow{\Delta} (F)$
+(v) $C_6H_5-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3 \xrightarrow{\text{Dil NaOH}} (G) \xrightarrow{\Delta} (H)$
+
+**2.** Identify the intramolecular aldol product ?
+(i) $CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_2-CH_2-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3 \xrightarrow{\text{Dil NaOH}} (A) \xrightarrow{\Delta} (B)$
+(ii) $\text{[Heptane-2,6-dione]} \xrightarrow{\text{Dil NaOH}} (E) \xrightarrow{\Delta} (F)$
+
+**3.** Find out the total number of possible aldol products (including and excluding stereo products).
+(i) $C_2H_5-CHO + CH_3-CHO \xrightarrow{NaOH/HOH, 5^\circ C}$
+(ii) $CH_3-CH=O + CH_3-CH_2-CHO \xrightarrow{NaOH/HOH, 5^\circ C}$
+
+### **1.2 CANNIZARO REACTION**
+This reaction is given by aldehyde having no $\alpha$- hydrogen in the presence of conc. NaOH/$\Delta$ or KOH/$\Delta$.
+$H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-H \xrightarrow{KOH, \Delta} H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O^-K^+ + CH_3OH$
+
+**Mechanism :**
+$H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-H + OH^- \rightleftharpoons H-\underset{OH}{\underset{|}{\overset{O^-}{\underset{|}{\text{C}}}}}-H \xrightarrow{HCHO, rds} CH_3O^- + H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O^- \rightarrow CH_3OH + H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O^-$
+
+In the presence of a very strong concentration of alkali, aldehyde first forms a, doubly charged anion (I) from which a hydride anion is transferred to the second molecule of the aldehyde to form acid and an alkoxide ion. Subsequently, the alkoxide ion acquires a proton from the solvent.
+$H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-H \xrightarrow{OH^-, \Delta} H-\underset{OH}{\underset{|}{\overset{O^-}{\underset{|}{\text{C}}}}}-H \text{ (I)}$
+$H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-H + \text{(I)} \rightarrow H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O^- + H-\overset{H}{\overset{|}{\underset{H}{\underset{|}{\text{C}}}}}-O^-$
+$HCH_2O^- + H_2O \rightarrow HCH_2OH + OH^-$
+From solvent
+
+---
+### **Page 136**
+
+### **1.3 CLAISEN CONDENSATION**
+Esters undergo S$_N$AE Reaction, when attacked by a Nu$^-$ generated by the interaction of a base (usually base related to the Alkoxy anion of ester) with one of the molecule of ester and this Nu$^-$ attacks on another molecule. The reaction over all is considered as condensation of ester known as claisen ester condensation.
+$2 Me-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OR \xrightarrow{\text{(i) }RONa} \xrightarrow{\text{(ii) Acidification}} Me-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_2-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OR$ ($\beta$-keto ester)
+
+**Mechanism :**
+$CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OR \xrightarrow{^{\ominus}OR'} Me-\overset{\ominus O}{\overset{|}{\text{C}}}(OR)(OR') \rightarrow Me-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_2-COOR$
+
+The mechanism involves enolate formation, nucleophilic attack, and elimination of alkoxide. The final product is a $\beta$-keto ester. The driving force is the deprotonation of the $\beta$-keto ester to form a resonance-stabilized enolate.
+$Na^\oplus [^{\ominus}Me-C=CH-COOR] \xrightarrow{\text{Acidification}} Me-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_2-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OR$
+
+Some times, when two ester group are present within the molecule then intramolecular condensation occurs and cyclization is caused, thus it is known as Dieckmann cyclization or Dieckmann's condensation.
+
+### **1.4 PERKIN REACTION**
+In Perkin reaction, condensation has been observed between aromatic aldehydes and aliphatic acid anhydrides in the presence of sodium or potassium salt of corresponding acid of that anhydride, to yield $\alpha, \beta$ - unsaturated aromatic acids.
+$C_6H_5-CHO + (CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}})_2O \xrightarrow{\text{(i) }CH_3COONa, \Delta} \xrightarrow{\text{(ii) }H^+/H_2O} C_6H_5-CH=CH-COOH + CH_3COOH$
+
+**Mech.**
+$(CH_3CO)_2O \rightleftharpoons ^{\ominus}CH_2-CO-O-COCH_3 + H^+$
+The anion attacks the aldehyde, followed by cyclization, elimination, and hydrolysis to yield the final product. The full mechanism involves multiple steps leading to a $\beta$-Hydroxy acid intermediate, which then dehydrates.
+$Ph-CH(OH)-CH_2-CO-O-COCH_3 \rightarrow Ph-CH(OH)-CH_2-COOH \xrightarrow{\Delta, -H_2O} Ph-CH=CH-COOH$
+($\beta$-Hydroxy acid)
+
+---
+### **Page 137**
+
+(1) This reaction takes place between two molecules of aldehydes.
+(2) Reaction is catalysed by aluminum ethoxide.
+(3) This is a two-step reaction, i.e., redox reaction followed by ester formation. Thus this reaction is extension of Cannizaro reaction.
+
+$R-CHO + R-CHO \xrightarrow{(C_2H_5O)_3Al, \Delta} R-CH_2-O-\overset{\large\text{O}}{\overset{||}{\text{C}}}-R$
+
+**Mechanism :**
+The mechanism involves coordination of the aldehyde to the aluminum ethoxide, followed by a hydride transfer from one aldehyde molecule to another, similar to the Cannizzaro reaction, ultimately forming an ester.
+$R-CH_2-O-\overset{\large\text{O}}{\overset{||}{\text{C}}}-R + Al(OC_2H_5)_3$
+Ester
+
+### **1.6 KNOEVENAGEL CONDENSATION**
+Reaction of active methylene group with aldehyde & Ketones is known as knoevenagel reaction.
+$RCHO + CH_2(Z)_2 \xrightarrow{\text{Pyridine or piperidine}} RCH=C(COOR)_2 \xrightarrow{\text{(i) }H_2O/H^\oplus} \xrightarrow{\text{(ii) }\Delta, -CO_2} R-CH=CH-COOH$
+
+**Z can be**
+CHO, COOMe, CN, NO$_2$, COR, SOR, SO$_2$R, SO$_2$OR etc.
+
+**Mechanism :**
+The base (e.g., piperidine) removes a proton from the active methylene compound to form a carbanion. This carbanion then acts as a nucleophile, attacking the carbonyl carbon of the aldehyde. The resulting adduct eliminates water to form the $\alpha, \beta$-unsaturated product.
+
+$R-CH=C(COOR)_2 \xrightarrow{\text{(i) }H_2O/H^\oplus} \xrightarrow{\text{(ii) }\Delta, -CO_2} R-CH=CHCOOH$
+High reactivity of the methylene group of the active methylene compound prevents self-condensation of the aldehyde.
+
+---
+### **Page 138**
+
+### **1.7 REFORMATSKY REACTION**
+$\alpha$-halo esters when treated with Zn it gives organometallic halo ester which provides the attacking Nu for the another reactant, which is a carbonyl compound. When Nu$^-$ attacks on carbonyl compound it gives an intermediate which upon acidic hydrolysis followed by heating, results in formation of $\alpha, \beta$- unsaturated acid. The overall reaction is known as Reformatsky reaction.
+
+$Ph-CHO + CH_2(Br)-COOEt \xrightarrow{Zn, H_2O/\Delta} Ph-CH=CH-COOH$
+Benzaldehyde $\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad$ Cinnamic acid
+
+**Mechanism :**
+The zinc reacts with the $\alpha$-bromo ester to form an organozinc compound (a zinc enolate). This enolate then adds to the carbonyl group of the aldehyde. Acidic workup protonates the alkoxide, and subsequent heating causes dehydration to give the final $\alpha, \beta$-unsaturated acid.
+$Ph-CH(OH)-CH_2-COOH \xrightarrow{\Delta, -H_2O} Ph-CH=CH-COOH$
+Cinnamic acid
+
+### **1.8 BENZIL-BENZILIC REARRANGEMENT OR BENZILIC ACID REARRANGEMENT**
+The base catalysed reaction of 1,2-diketone to a salt of $\alpha$-hydroxy carboxylic acid is known as Benzilic acid rearrangement, this reaction is mainly applicable when aryl group is present on both carbonyl carbons.
+
+$Ph-\overset{\large\text{O}}{\overset{||}{\text{C}}}-\overset{\large\text{O}}{\overset{||}{\text{C}}}-Ph \xrightarrow{\text{(i) }OH^-} \xrightarrow{\text{(ii) }H^+} Ph_2\underset{OH}{\underset{|}{\text{C}}}-COOH$
+(Benzil) $\quad\quad\quad\quad\quad\quad\quad$ (Benzilic acid)
+
+**Mechanism :**
+Hydroxide ion attacks one carbonyl carbon. This is followed by a rearrangement where a phenyl group migrates from the adjacent carbon to the carbon attacked by OH$^-$. This generates a carboxylate and an alkoxide, which then undergoes proton transfer to form benzilate anion. Acidification gives benzilic acid.
+
+### **1.9 MICHAEL REACTION**
+**Michael Addition:** $\alpha-\beta$ unsaturated carbonyl compound undergo michael reaction with compounds having active methylene. Many different nucleophile can add to a $\alpha-\beta$ unsaturated carbonyl compound. When the nucleophile is an enolate the addition reaction has a special name MICHAEL REACTION.
+**Mechanism:** The base removes a proton from the active methylene compound, forming a carbanion (enolate). This carbanion then attacks the $\beta$-carbon of the $\alpha, \beta$-unsaturated carbonyl compound in a conjugate addition.
+
+---
+### **Page 139**
+
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_2-\overset{\large\text{O}}{\overset{||}{\text{C}}}-R \xrightarrow{OH^-, -H_2O} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH=CR_2$
+$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad$ $\alpha, \beta$ unsaturated carbonyl compound
+
+A general Michael addition:
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH=CH-R + NuH \xrightarrow{Base} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH(Nu)-CH_2-R$
+
+### **1.10 WITTIG REACTION**
+Wittig reaction affords an important and useful method for the synthesis of alkenes by the treatment of aldehydes or kentones with alkylidenetriphenylphosphorane ($Ph_3P=CR_2$) or simply known as phosphorane.
+$Ph_3P + CH_2(Ph)_2 \rightarrow Ph_3P=CHPh + Ph_3P=O$
+$\quad\quad\quad\quad\quad\quad\quad$ (1-phenylvinyl)benzene
+
+The wittig reagent, alkylidenetriphenylphosphorane (ylide), is prepared by treating trialkyl or triarylphosphine usually the latter with an alkyl halide in ether solution. The resulting phosphonium salt is treated with strong base (such as $C_4H_9Li, BuLi, NaNH_2, NaH, C_2H_5ONa,$ etc.)
+$Ph_3P + H_3C-Br \rightarrow Ph_3P^\oplus-CH_3 Br^\ominus \xrightarrow{C_4H_9Li} Ph_3P=CH_2 + C_4H_{10} + LiBr$
+$\quad\quad\quad\quad\quad\quad\quad$ (I) $\quad\quad\quad\quad\quad\quad\quad$ (II)
+
+### **1.11 BENZOIN CONDENSATION**
+The benzoin condensation is essentially a dimerisation of two aromatic aldehydes under the catalytic influence of cyanide ions to give benzoin (I).
+$2 \ C_6H_5CHO \xrightarrow{KCN, H_2O_2} H_5C_6-\underset{OH}{\underset{|}{\text{C}}}H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-C_6H_5$
+$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad$ (I)
+The hydrogen atom attached to the carbonyl group of aldehyde is not active enough to be removed easily but the addition of the cyanide ion to the carbonyl carbon places this hydrogen in the alpha position of the nitrile thus rendering it relatively acidic. The carbanion, thus generated, attacks the carbonyl carbon of the second aldehyde molecule in a rate-determining step forming an unstable cyanohydrin of benzoin which immediately breaks down into benzoin and hydrogen cyanide.
+
+**Mechanism**
+$H_5C_6-\overset{\large\text{O}}{\overset{||}{\text{C}}}-H + CN^- \rightleftharpoons H_5C_6-\underset{CN}{\underset{|}{\overset{O^-}{\underset{|}{\text{C}}}}}-H \xrightarrow{\text{proton exchange}} H_5C_6-\underset{CN}{\underset{|}{\overset{OH}{\underset{|}{\text{C}}}}}-H \leftrightarrow H_5C_6-\underset{CN}{\underset{|}{\overset{O^-}{\underset{|}{\text{C}}}}}-H_5C_6$
+
+---
+### **Page 140**
+
+$H_5C_6-\underset{CN}{\underset{|}{\overset{OH}{\underset{|}{\text{C}}}}}-H \xrightarrow{slow} C_6H_5-\overset{O^-}{\overset{|}{\underset{CN}{\underset{|}{\text{C}}}}}-C_6H_5 \rightleftharpoons H_5C_6-\overset{OH}{\overset{|}{\underset{CN}{\underset{|}{\text{C}}}}}-C_6H_5 \rightarrow H_5C_6-\overset{OH}{\overset{|}{\text{C}}}=\overset{O^-}{\overset{|}{\text{C}}}-C_6H_5 \rightarrow H_5C_6-\overset{OH}{\overset{|}{\text{C}}}H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-C_6H_5 + CN^-$
+
+### **2.0 REACTIONS GIVEN BY ALDEHYDES**
+### **2.1 Polymerisation : It is a reversible process**
+**Formaldehyde :**
+(a) $nHCHO \xrightarrow{\text{Evaporation}} (CH_2O)_n.H_2O$
+Formalin (40% HCHO) $\quad$ Paraformaldehyde, n = 6-50, Hydrated white crystal
+Paraformaldehyde is a linear polymer which show reducing character with Tollen's reagent, Fehling solution etc.
+(b) $nHCHO \xrightarrow{Conc. H_2SO_4, \Delta} (CH_2O)_n.H_2O$
+Poly oxy methylene, n > 100
+(c) $3HCHO \xrightarrow{\text{Allowed to stand at room temp.}} (CH_2O)_3$
+Meta formaldehyde (Trioxane), Cyclic polymer (Trioxy methylene)
+Cyclic polymer doesn't show reducing character with Tollen's reagent etc.
+(d) $6HCHO \xrightarrow{Ca(OH)_2 \text{ or } Ba(OH)_2} C_6H_{12}O_6$
+Formose sugar, A linear polymer ($\alpha$-acrose)
+
+**Acetaldehyde :**
+(a) $3CH_3CHO \xrightarrow{Conc. H_2SO_4, Room temp.} (CH_3CHO)_3$
+Para acetaldehyde, Paraldehvde (Cyclic polymer). Pleasent smelling liquid. Hypnotic compound
+(b) $4CH_3CHO \xrightarrow{Conc. H_2SO_4, 0^\circ C} (CH_3CHO)_4$
+Meta aldehyde, White crystalline solid. Cyclic polymer. Used as solid fuel or killing snails
+
+### **2.2 Reaction with ammonia**
+Except formaldehyde, all other aldehydes give addition reactions (HCHO give addition elimination i.e. condensation reaction)
+$6CHO + 4NH_3 \xrightarrow{\text{Condensation Reaction}} (CH_2)_6N_4 + 6H_2O$
+
+---
+### **Page 141**
+
+Urotropine (Hexamethylene tetramine)
+White crystalline solid. Used in preparation of explosive. Used in treatment of urine infection diseases
+$CH_3-CH=O + NH_3 \xrightarrow{\text{Addition Reaction}} CH_3-CH(OH)-NH_2 \xrightarrow{Conc. H_2SO_4, -H_2O} CH_3-CH=NH$
+$\quad\quad\quad\quad\quad\quad\quad$ Acetaldehyde ammonia $\quad\quad\quad\quad\quad\quad$ Acetaldimine used in preparation of cyclic polymer
+
+$3CH_3-CH=NH \xrightarrow{Trimerisation} \text{Trimethyl hexahydro Triazine trihydrate} + 3H_2O$
+
+### **3.0 REACTION OF KETONES**
+### **3.1 Reduction**
+Acetone is reduced by magnesium amalgam and water to give pinacol.
+$2(CH_3)_2C=O \xrightarrow{Mg-Hg, \text{water}} (CH_3)_2C(OH)-C(OH)(CH_3)_2$
+Pinacol
+
+### **3.2. Reaction with chloroform**
+$(CH_3)_2C=O + CHCl_3 \xrightarrow{(X)} (CH_3)_2C(OH)CCl_3 \xrightarrow{aq. NaOH} (CH_3)_2C(OH)COOH$
+(Chloretone) $\quad\quad\quad\quad$ (Lactic acid) 2-Hydroxy propanoic acid
+
+### **3.3 Reaction with HNO$_2$**
+$CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3 + O=N-OH \rightarrow CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-C=N-OH$
+Oximino acetone
+
+### **3.4 Oxidation reaction**
+According to popoff's rule $>C=O$ group stays with smaller alkyl group.
+$CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_2-CH_3 \rightarrow CH_3COOH + CH_3COOH$
+
+### **3.5 Condensation reaction**
+(a) In presence of dry HCl - aldol condensation takes place
+$2CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3 \xrightarrow{\text{dry HCl}} CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_2-C(OH)(CH_3)_2 \xrightarrow{\Delta} CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH=C(CH_3)_2$
+Mesityl oxide
+
+---
+### **Page 142**
+
+$CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH=C(CH_3)_2 + O=C(CH_3)_2 \xrightarrow{\text{dry HCl}} CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH=C(CH_3)-CH_2-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3$
+(Phorone) or 2,6-Dimethyl-2,5-hepta diene- 4-one
+
+(b) In presence of conc. H$_2$SO$_4$
+$3CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3 \xrightarrow{Conc. H_2SO_4, \text{Addition Polymerisation}} \text{[Mesitylene]}$
+$3CH_2=C=CH_2 \xrightarrow{Fe, \text{Addition Polymerisation}}$
+
+### **4.0 TESTS FOR HCHO, CH$_3$CHO, CH$_3$COCH$_3$**
+| S.No. | Test | HCHO | CH$_3$CHO | CH$_3$COCH$_3$ |
+|---|---|---|---|---|
+| **1.** | Iodoform test ($I_2$ + NaOH) | - | yellow ppt | yellow ppt |
+| **2.** | Pyrogallol | white ppt. | - | - |
+| **3.** | Orthonitro benzaldehyde | - | - | Blue |
+| **4.** | Tollen's reagent - | Silver mirror | Silver mirror | - |
+| | Fehling's reagent - | Red ppt | Red ppt | - |
+| | Mercuric chloride - | Black ppt | Black ppt | - |
+| | Schiff's reagent - | Pink colour | Pink colour | - |
+| **5.** | DNP | Orange colour | Orange colour | Orange colour |
+
+### **BEGINNER'S BOX-4**
+**1.** Product of following reaction is
+$\text{[Salicylaldehyde]} \xrightarrow{+ conc. NaOH, \text{heat}} ?$
+(A) [2-(hydroxymethyl)phenol]
+(B) [Dibenzofuran]
+(C) [2-hydroxybenzyl alcohol and sodium 2-hydroxybenzoate]
+(D) [Sodium 2-hydroxybenzoate]
+
+---
+### **Page 143**
+
+**2.** In the given reaction $H_3C-\underset{CH_3}{\underset{|}{C}}H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CHO \xrightarrow{\text{(i) Conc. NaOH}} \xrightarrow{\text{(ii) H+}} \text{Product is}$
+(A) [3-hydroxy-2,2-dimethylpropanoic acid]
+(B) [2-hydroxy-3-methylbutanoic acid]
+(C) [3-carboxy-2,2-dimethylpropanoic acid]
+(D) [2,2-dimethyl-3-oxobutanoic acid]
+
+**3.** Product of Perkin reaction is:
+(A) $\alpha, \beta$-unsaturated aldehyde
+(B) $\beta$-cyclohexyl $\alpha, \beta$-unsaturated aldehyde
+(C) $\beta$-aryl-$\alpha, \beta$-unsaturated acid
+(D) All of these
+
+**4.** In the given reaction $CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3 \xrightarrow{Conc \ H_2SO_4, \text{Distillation}} [X]$, [X] will be:
+(A) Methyl oxide
+(B) Phorone
+(C) 1, 3, 5-Trimethylbenzene
+(D) 2-Butyne
+
+**5.** The given reaction $C_6H_5-CHO + Br-CH_2-COOC_2H_5 \xrightarrow{\text{(i)}Zn} \xrightarrow{\text{(ii)}HOH/NH_4Cl} \xrightarrow{\text{(iii)}\Delta} C_6H_5-CH=CH-COOH$ is known as :
+(A) Perkin reaction
+(B) Knoevenagel reaction
+(C) Reformatsky reaction
+(D) Claisen-Schmidt reaction
+
+**6.** The product of the reaction: $\text{[p-Nitrobenzaldehyde]} + (C_6H_5-CH_2-CO)_2O \xrightarrow{C_6H_5-CH_2COONa/\Delta} [X]$ will be :
+(A) [trans-4-nitro-alpha-phenylcinnamic acid]
+(B) [trans-4-nitrocinnamic acid]
+(C) [trans-4-nitro-alpha-methylcinnamic acid]
+(D) [trans-4-nitro-alpha,beta-diphenylacrylic acid]
+
+---
+### **Page 144**
+
+### **SOME WORKED OUT ILLUSTRATIONS**
+
+**Illustration 1.**
+What is A in the following reaction ?
+$\text{[Cyclohex-2-enone]} + \text{[Epoxide]} \xrightarrow{t-BuOK \text{ in } t-BuOH} A$
+(A) [Option A structure]
+(B) [Option B structure]
+(C) [Option C structure]
+(D) [Option D structure]
+
+**Illustration 2.**
+End product of the following sequence of reactions is :
+$CH \equiv CH \xrightarrow{CH_3MgBr} \xrightarrow{CO_2/H_3O^\oplus} \xrightarrow{HgSO_4/H_2SO_4} \xrightarrow{Ag_2O, \Delta}$
+(A) Malonic acid
+(B) Fumaric acid
+(C) Succinic acid
+(D) Maleic acid
+**Solution:** $CH \equiv CH + CH_3MgBr \rightarrow CH_4 + HC \equiv CMgBr \xrightarrow{CO_2, H_3O^\oplus} HC \equiv C-COOH$
+$\xrightarrow{HgSO_4/H_2SO_4} \underset{OHC-COOH}{\text{Glyoxylic acid}} \xrightarrow{Ag_2O} \underset{HOOC-COOH}{\text{Oxalic acid}}$
+(B)
+
+**Illustration 3.**
+Which of the following oxidation reaction can be carried out with chromic acid in aqueous acetone at 5-10°C.
+(A) $CH_3(CH_2)_3C \equiv C-CH_3 \rightarrow CH_3(CH_2)_3C(=O)C(=O)CH_3$
+(B) $CH_3(CH_2)_3CH=CH-CH_2OH \rightarrow CH_3(CH_2)_3CH=CH-CHO$
+(C) $C_6H_5CH_3 \rightarrow C_6H_5COOH$
+(D) $CH_3(CH_2)_3CH_2OH \rightarrow CH_3(CH_2)_3CHO$
+**Solution**
+(A), (B), (D)
+
+**Illustration 4.**
+Product in following reaction is :
+$CH_3MgI + HCHO \rightarrow Product$
+(A) $CH_3CHO$
+(B) $CH_3OH$
+(C) $C_2H_5OH$
+(D) $CH_3-O-CH_3$
+**Solution**
+(C) $H-CHO + CH_3MgI \rightarrow CH_3-CH_2-OH + Mg(OH)I$
+
+---
+### **Page 145**
+
+**Illustration 5.**
+[Heptane-2,6-dione] is the final product obtained when one of the following is reacted with base. Select the correct one.
+(A) [1,5-Diketone structure]
+(B) [1,6-Diketone structure]
+(C) [1,7-Diketone structure]
+(D) [Unsaturated 1,5-diketone structure]
+**Solution :**
+The intramolecular aldol reaction of heptane-2,6-dione gives a five-membered ring product, 3-methylcyclopent-2-en-1-one. The question asks for the reactant that forms heptane-2,6-dione. Based on the options, this seems to be a reverse logic or incorrectly phrased question. However, the provided solution shows the cyclization of heptane-2,6-dione.
+[Heptane-2,6-dione] $\xrightarrow{\text{Aldol}} \text{[3-Methylcyclopent-2-enone]}$
+
+**Illustration 6.**
+In which of the following substrates, rate of Benzoin condensation will be maximum ?
+(A) [p-Nitrobenzaldehyde]
+(B) [p-Methylbenzaldehyde]
+(C) [p-Hydroxybenzaldehyde]
+(D) [p-Aminobenzaldehyde]
+**Solution**
+The mechanism involves nucleophilic attack of CN$^-$ on the carbonyl carbon. Electron-withdrawing groups (like -NO$_2$) increase the positive charge on the carbonyl carbon, making it more electrophilic and thus increasing the rate of reaction. Electron-donating groups decrease the rate.
+Benzoin condensation is due to stability of intermediate (III) when negative charge on C extensively delocalised in benzene ring, nitro and C$\equiv$N group. In all other cases, such dispersal is not extensively possible. On the other hand, -NO$_2$ - is also creating a positive charge center on carbonyl carbon, making it more susceptible to nucleophilic attack of CN$^-$.
+
+**Illustration 7.**
+This intermediate is converted into product in the wittig reaction :
+$R-C(R_1)-C(R_2)-O-P(Ph_3) \rightarrow ?$
+**Solution:** $O=P-Ph_3 + R-C(R_1)=C(R_2)$
+
+**Illustration 4.**
+Benzaldehyde on reaction with acetophenone in the presence of sodium hydroxide solution gives :
+(A) $C_6H_5CH=CHCOC_6H_5$
+(B) $C_6H_5COCH_2C_6H_5$
+(C) $C_6H_5CH_2CH_2COC_6H_5$
+(D) $C_6H_5CH(OH)CH_2COC_6H_5$
+**Solution**
+(A) $C_6H_5CHO + CH_3COC_6H_5 \xrightarrow{NaOH, H_2O} C_6H_5-CH=CH-\overset{\large\text{O}}{\overset{||}{\text{C}}}-C_6H_5$

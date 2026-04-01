@@ -1,0 +1,682 @@
+### **Page 60**
+
+### **JEE-Chemistry**
+# **NITROGEN CONTAINING COMPOUNDS**
+
+### **1.0 INTRODUCTION**
+Amines are derivatives of ammonia in which one or more hydrogen atoms are replaced by alkyl group. Amines are classified as primary, secondary or tertiary depending on the number of alkyl groups attached to nitrogen atom.
+$NH_3 \xrightarrow{-H, +R} R-NH_2$ p-amine
+$\xrightarrow{-H, +R} R_2NH$ s-amine
+$\xrightarrow{-H, +R} R_3N$ t-amine
+
+**General formula**
+1° amine
+$C_nH_{2n+3}N$, or $C_nH_{2n+1}NH_2$
+
+2° amine
+$(C_nH_{2n+1})_2NH$
+
+3° amine
+$(C_nH_{2n+1})_3N$
+
+*   **Structure**
+    Nitrogen atom is $sp^3$ hybridised. It has one lone pair of electron so the shape of molecule is pyramidal.
+    $\Large \overset{\bullet\bullet}{N} \\ /|\backslash \\ R \ H \ H$
+
+### **2.0 ISOMERISM**
+Amines show chain, position, functional isomerism and metamerism.
+
+### **Illustrations**
+
+**Illustration 1.**
+How many primary amines are possible from molecular formula $C_4H_{11}N$ (excluding stereoisomers)
+(A) 4 (B) 5
+(C) 6 (D) 3
+**Solution.**
+**(A)**
+
+**Illustration 2.**
+Which isomerism is present in n-propyl amine and isopropyl amine
+(A) Metamerism (B) Functional group
+(C) Position (D) Position and chain
+**Solution.**
+**(C)**
+
+**Illustration 3.**
+How many structural isomers are possible from molecular formula $C_3H_9N$
+(A) 2 (B) 3 (C) 1 (D) 4
+**Solution.**
+**(D)**
+
+**Illustration 4.**
+Write the structures of amines having the molecular formula $C_4H_{11}N$
+**Solution.**
+1°- amines
+(a) $CH_3-CH_2-CH_2-CH_2NH_2$
+(b) $CH_3-\underset{CH_3}{\underset{|}{C}}H-CH_2NH_2$
+(c) $CH_3-\underset{CH_3}{\underset{|}{C}}H_2-C-NH_2$
+(d) $CH_3-CH_2-\underset{CH_3}{\underset{|}{C}}H-NH_2$
+
+2°- amine
+(e) $CH_3-CH_2-NH-CH_2CH_3$
+(f) $CH_3-NH-CH_2-CH_2-CH_3$
+(g) $CH_3-NH-CH-CH_3 \\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ | \\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ CH_3$
+
+3°- amine
+(h) $CH_3-N-CH_2-CH_3 \\ \ \ \ \ \ \ \ \ \ \ \ \ | \\ \ \ \ \ \ \ \ \ \ \ \ \ CH_3$
+
+---
+### **Page 61**
+
+### **3.0 GENERAL METHODS OF PREPARATION**
+**1. Ammonolysis of Alkyl Halides and Alcohol**
+**(a) From Ammonolysis of alkyl halides [Hofmann's ammonolysis]**
+When an aqueous solution of ammonia is heated with alkyl halide all the three types of amines and quaternary ammonium salt are formed.
+$R-X \xrightarrow{NH_3} R-NH_2 \xrightarrow{R-X} R_2-NH \xrightarrow{R-X} R_3N \xrightarrow{R-X} R_4\overset{\oplus}{N}\overset{\ominus}{X}$
+(Quaternary ammonium salt)
+
+If ammonia is taken in excess, 1° amine is the main product.
+
+**(b) Ammonolysis of alcohols**
+When ROH and $NH_3$ are passed over $Al_2O_3$ or $ThO_2$ at 350°C all the three types of amines are formed.
+$R-OH \xrightarrow{NH_3, Al_2O_3, 350^\circ C} R-NH_2 \xrightarrow{R-OH, Al_2O_3} R_2NH \xrightarrow{R-OH, Al_2O_3} R_3N$
+Note : (i) Quaternary ammonium hydroxide is not formed due to steric hindrance
+(ii) If excess of ammonia is used, then main product will be primary amine.
+
+**2. By Reduction**
+**(a) With RCONH$_2$ :** $RCONH_2 \xrightarrow{LiAlH_4 \text{ or } Na/C_2H_5OH} RCH_2NH_2$
+**(b) With RCN :** $RCN + 4H \xrightarrow{Na/C_2H_5OH} RCH_2NH_2$
+This reaction is called mendius reaction.
+The reduction of alkyl isocynides with sodium and ethanol gives secondary amines.
+$R-NC + 4H \xrightarrow{C_2H_5OH/Na} RNHCH_3$
+**(c) With Oximes :** $R-CH=N-OH + 4H \xrightarrow{LiAlH_4 \text{ or } Na/C_2H_5OH, \Delta} RCH_2-NH_2 + H_2O$
+**(d) With RNO$_2$ :** $RNO_2 + 6H \xrightarrow{Sn/HCl} RNH_2 + 2H_2O$
+
+**3. By Hydrolysis**
+**(a) R-NC :** Alkyl isocyanide undergoes hydrolysis with mineral acid and forms alkyl amine.
+$R-NC + 2H_2O \xrightarrow{HCl} RNH_2 + HCOOH$
+**(b) RNCO :** Alkyl isocyanate undergoes hydrolysis on heating with KOH.
+$R-N=CO + 2KOH \rightarrow RNH_2 + K_2CO_3$
+
+**4. From Grignard Reagent**
+Alkyl magnesium iodide reacts with chloramine to yield alkyl amine.
+$R-Mg-I + Cl-NH_2 \rightarrow R-NH_2 + Mg\langle_I^{Cl}$
+
+**5. Gabriel Phthalimide Synthesis**
+Phthalimide is first treated with KOH to obtain potassium phthalimide which is then treated with alkyl halide. Then alkyl phthalimide on hydrolysis yields alkylamine. This method is used in the formation of pure aliphatic primary amines.
+
+[Phthalimide] $\xrightarrow{KOH, -H_2O}$ [Potassium Phthalimide] $\xrightarrow{(S_N2) \ R-X}$ [N-Alkyl Phthalimide] $\xrightarrow{2H_2O}$ [Phthalic Acid] $+ R-NH_2$
+
+---
+### **Page 62**
+
+**6. Reductive Amination of Aldehyde and Ketone**
+$>C=O + NH_3 + H_2 \xrightarrow{Ni, \Delta} >CH-NH_2 + H_2O$ 1° amine
+$>C=O + RNH_2 + H_2 \xrightarrow{Ni, \Delta} >CH-NHR + H_2O$ 2° amine
+$>C=O + R_2NH + H_2 \xrightarrow{Ni, \Delta} >CH-NR_2 + H_2O$ 3° amine
+
+### **4.0 PHYSICAL PROPERTIES**
+(i) $CH_3NH_2$ is gas and $C_2H_5NH_2$ is a volatile liquid.
+(ii) Higher amines have fishy smell.
+(iii) H-Bonding (weaker as compared to H—O—H).
+    $R-N-H \cdot\cdot\cdot N(H_2)-R \cdot\cdot\cdot N(H_2)-R$
+    (1° amine)
+
+    $R_2N-H \cdot\cdot\cdot N(R_2)-H \cdot\cdot\cdot N(R_2)-H$
+    (2° amine)
+
+    In 3° amine (due to absence of H-atom) H-bonding is not possible.
+
+(iv) **Boiling point :** Due to small intermolecular association the b.p. of 1° and 2° amines are lower than those of alcohols of comparable molecular weight. The boiling point of 3° amines which form no H-bonds are near to those of alkanes of comparable molecular weight.
+Boiling point $\propto$ molecular weight
+**Order of B.P.:** 1° amine > 2° amine > 3° amine
+**so order of volatility :** 3° amine > 2° amine > 1° amine
+
+(v) **Solubility :** Low molecular weight amines (< six carbon) are soluble in water. The water solubility of amines decreases with increasing size of alkyl group.
+    $R-N(H_2) \cdot\cdot\cdot O(H_2)$
+    (1° amine)
+
+    $R_2N-H \cdot\cdot\cdot O(H_2)$
+    (2° amine)
+
+    $R_3N \cdot\cdot\cdot H-O-H$
+    (3° amine)
+
+    Order of solubility $\rightarrow$ p- amine > s- amine > t- amine
+
+### **5.0 CHEMICAL PROPERTIES**
+**5.1 Basic Character**
+(i) Basic character of amines is due to the presence of lone pair of electrons on the N - atom.
+(ii) Basic strength depends on electron donating tendency.
+Basicity order in aqeuous solution and in liquid phase. $Et_2NH > Et_3N > EtNH_2$. Due to steric hindrance in 3° amine, it is less basic, than 2° amine.
+Steric hindrance of three $-C_2H_5$ group protect the lone pair of nitrogen from the attack of H$^\oplus$.
+
+**But in gaseous phase basic order is** $R_3N > R_2NH > RNH_2 > NH_3$
+Some other basic order of different amine if alkyl group would be change
+
+---
+### **Page 63**
+
+Alkyl groups (R–) Relative base strength (in aq. phase)
+(i) $CH_3-$   $R_2NH > RNH_2 > R_3N > NH_3$
+(ii) $C_2H_5-$   $R_2NH > R_3N > RNH_2 > NH_3$
+
+(I) Tertiary amine is less basic then secondary due to following reasons :
+(i) **Steric hindrance :** In tertiary amines ($R_3N$), three alkyl groups attached to N are bulkier and as such exert steric hindrance.
+(ii) **Decrease in hydration :**
+In tertiary amine
+$R_3\overset{\oplus}{N}-H \cdot\cdot\cdot O(H_2)$
+Protonated t-amine can form H-bonding with water molecule only at one point
+(less stable)
+
+In secondary amine
+$R_2\overset{\oplus}{N}(H_2) \cdot\cdot\cdot O(H_2)$
+Protonated s-amine can form H-bonding with water molecules at two points
+(more stable)
+
+3° amine are less stable as compare to 2° amine due to low hydration so less basic.
+
+(II) The basic strength of aniline is less than aliphatic amines as the lone pair of electron present on N– atom interact with the delocalized $\pi$– orbital of benzene ring. Hence it is less available for protonation on N-atom.
+The basic order nature for amines, pyridine and pyrrole $\rightarrow$ Pyridine > Aniline > Pyrrole
+
+**5.2 Reactions Showing Basic Nature**
+(a) It reacts with acids to form salts.
+$RNH_2 + HCl \rightarrow [R\overset{\oplus}{N}H_3] \overset{\ominus}{Cl}$
+Alkyl ammonium chloride
+
+$2RNH_2 + H_2SO_4 \rightarrow (R\overset{\oplus}{N}H_3)_2 SO_4^{\ominus\ominus}$ Alkyl ammonium sulphate
+
+(b) Amines reacts with auric acid and platinic chlorides in presence of HCl to form double salts.
+$2R-NH_2 + \underset{\text{(chloro platinic acid)}}{PtCl_4 + 2HCl} \rightarrow [RNH_3]_2PtCl_6^{2-}$ Alkyl ammonium chloroplatinate
+$RNH_2 + \underset{\text{[Chloroauric acid]}}{AuCl_3 + HCl} \rightarrow [RNH_3]AuCl_4$ Alkyl ammonium chloroaurate
+
+(c) **Reaction with H$_2$O :** It forms alkyl ammonium hydroxide with water ammonium hydroxides are used for precipitation of II$^{nd}$ and III$^{rd}$ group cations in qualitative analysis
+$RNH_2 + H_2O \rightarrow [R\overset{\oplus}{N}H_3] \overset{\ominus}{OH}$ Base
+
+$FeCl_3 + 3[R\overset{\oplus}{N}H_3] \overset{\ominus}{OH} \rightarrow \underset{\text{Brown ppt}}{Fe(OH)_3} + 3[R\overset{\oplus}{N}H_3] \overset{\ominus}{Cl}$
+$AlCl_3 + 3[R\overset{\oplus}{N}H_3] \overset{\ominus}{OH} \rightarrow \underset{\text{White ppt.}}{Al(OH)_3} + 3[R\overset{\oplus}{N}H_3] \overset{\ominus}{Cl}$
+$CrCl_3 + 3[R\overset{\oplus}{N}H_3] \overset{\ominus}{OH} \rightarrow \underset{\text{Green ppt.}}{Cr(OH)_3} + 3[R\overset{\oplus}{N}H_3] \overset{\ominus}{Cl}$
+
+---
+### **Page 64**
+
+**5.3 Separation of 1°, 2° and 3° amines**
+(i) **Fractional distillation :** The mixture of amines may be separated by fractional distillation because their boiling points are quite different. It is used in industry.
+(ii) **Hinsberg method :** In this method mixture of amines is separated by using benzene sulphonyl chloride (Hinsberg's reagent).
+$C_6H_5SO_2Cl + 1^\circ \text{amine} \rightarrow \text{Product} \xrightarrow{KOH} \text{dissolve}$
+$C_6H_5SO_2Cl + 2^\circ \text{amine} \rightarrow \text{Product} \xrightarrow{KOH} \text{insoluble}$
+3° amine does not react with benzene sulphonyl chloride.
+(iii) **Hofmann method :** In this method mixture of amines is separated by using ethyl oxalate.
+$1^\circ \text{amine} + \text{ethyl oxalate} \rightarrow \text{solid product}$
+$2^\circ \text{amine} + \text{ethyl oxalate} \rightarrow \text{liquid product}$
+$3^\circ \text{amine} + \text{ethyl oxalate} \rightarrow \text{No reaction}$
+
+**5.4 Acetylation**
+Acetylation takes place when alkyl amine combines with acetyl chloride or acetic anhydride.
+$RNH_2 + CH_3COCl \rightarrow RNHCOCH_3 + HCl$
+(N-alkyl acetamide)
+$RNH_2 + (CH_3CO)_2O \rightarrow RNHCOCH_3 + CH_3COOH$
+(N-alkyl acetamide)
+
+**5.5 Benzoylation (Schotten baumann Reaction)**
+[Benzoylchloride] $+ H-NH-R \xrightarrow{NaOH}$ [N-alkyl benzamide] $+ HCl$
+
+**5.6 Acidic Nature**
+Amines are very weak acids only 1° and 2° amines show acidic nature.
+$R-NH_2 + Na \rightarrow RNH^{\ominus}Na^{\oplus} + \frac{1}{2} H_2$
+N-alkyl sodamide
+
+**5.7 Reaction with Tilden's Reagent**
+When alkylamine reacts with nitrosyl chloride (Tilden reagent) alkyl chloride is formed. This reaction is important in interconversion.
+$R-NH_2 + NOCl \rightarrow RCl + N_2 + H_2O$
+
+**5.8 Reaction with Phosgene**
+$R-NH_2 + COCl_2 \rightarrow R-N=C=O + 2HCl$
+Alkyl isocyanate
+
+**5.9 Reaction with Halogen**
+The hydrogen atoms of the amino group are replaced by halogen atoms in presence of alkali solution.
+$R-NH_2 + Br_2 \xrightarrow{NaOH \text{ or } KOH} R-NH-Br + HBr$
+N-bromo alkylamine
+$R-NH-Br + Br_2 \xrightarrow{NaOH} R-NBr_2 + HBr$
+
+**5.10 Reaction with Aldehydes**
+Alkylamine reacts with aldehydes to form $\alpha$ - hydroxy amines which are changed to schiff bases with elimination of water molecule.
+$R-NH_2 + O=C-R \rightarrow R-\overset{H}{\overset{|}{\underset{OH}{\underset{|}{N-C-R}}}} \xrightarrow{-H_2O} RCH=NR \text{ (Schiff's base)}$
+
+---
+### **Page 65**
+
+**5.11 Mannich Reaction**
+$R-CH_2NH_2 + CH_2O + \underset{\text{Acetophenone}}{HCH_2-\overset{\large\text{O}}{\overset{||}{\text{C}}}-C_6H_5} \xrightarrow{-H_2O} \underset{\text{Mannich base}}{R-CH_2NHCH_2-CH_2-\overset{\large\text{O}}{\overset{||}{\text{C}}}-C_6H_5}$
+
+**5.12 Oxidation**
+**(i) $KMnO_4/H^+$ :** Alkylamine on oxidation with acidified potassium permanganate forms aldimine which on hydrolysis gives aldehyde and ammonia.
+$R-CH_2NH_2 \xrightarrow{[O], KMnO_4/H^+} R-CH=NH \xrightarrow{H_2O, H^+} RCHO + NH_3$ (Aldimine)
+$R_2CHNH_2 \xrightarrow{[O]} R_2C=NH \xrightarrow{H_2O} R_2C=O + NH_3$ (Ketimine) (Ketone)
+$R_3CNH_2 \xrightarrow{[O]} R_3CNO_2$ (Nitroalkane)
+
+**(ii) With $H_2SO_5$ (Caro's acid) or $H_2O_2/Fe^{+2}$ (Fenton reagent)**
+$RCH_2NH_2 \xrightarrow{[O]} R-CH_2-NH-OH \rightarrow RCH=NOH + R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-NHOH$
+N-alkyl hydroxylamine Aldoxime Hydroxamic acid
+$R_2CHNH_2 \xrightarrow{[O]} R_2C=N-OH$ (Ketoxime)
+$R_3CNH_2 \xrightarrow{[O]} RCNO$ (Nitroso compound)
+
+**5.13 Carbylamine reaction (iso cyanide test)**
+When alkyl amine is heated with chloroform and alc. KOH alkyl isocyanide is formed which has very bad smell. This test is also given by aniline. This is a test for p-amines.
+$R-NH_2 + CHCl_3 + 3KOH \rightarrow R-N\equiv C + 3KCl + 3H_2O$
+Nucleophile $R\overset{\bullet\bullet}{N}H_2$ attacks electrophilic intermediate [:CCl$_2$] dichlorocarbene.
+
+*   **Mechanism**
+    $CHCl_3 + OH^- \xrightarrow{-H_2O} :\overset{\ominus}{C}Cl_3 \xrightarrow{-Cl^-} :\underset{\text{Dichlorocarbene}}{CCl_2}$
+    $R-\overset{\bullet\bullet}{N}H_2 + :\overset{\ominus}{C}Cl_2 \rightarrow R-\overset{\oplus}{N}H_2-\overset{\ominus}{C}Cl_2 \xrightarrow{-HCl} R-NH-\overset{\ominus}{C}Cl \xrightarrow{-HCl} R-N=\overset{\ominus}{C} \rightarrow R-N\equiv C$
+
+**5.14 Hofmann's Mustard Oil Test**
+When alkyl amine is heated with carbon disulphide and mercuric chloride alkyl isothiocyanate is formed which has smell like mustard oil.
+$R-NH_2 + \overset{\large\text{S}}{\overset{||}{C}}=S \rightarrow R-NH-\overset{\large\text{S}}{\overset{||}{C}}-SH \xrightarrow{HgCl_2} R-N=C=S + HgS + 2HCl$
+Alkyl isothiocyanate
+$R_2NH + \overset{\large\text{S}}{\overset{||}{C}}=S \rightarrow R_2N-\overset{\large\text{S}}{\overset{||}{C}}-SH \xrightarrow{HgCl_2} \text{No reaction}$
+$R_3N + \overset{\large\text{S}}{\overset{||}{C}}=S \rightarrow \text{No reaction.}$
+
+---
+### **Page 66**
+
+**5.15 Reaction with $HNO_2 (NaNO_2 + HCl$ or $H_2SO_4)$**
+**(a)** Primary amines react with nitrous acid to produce nitrogen gas [seen as bubbles]
+$R-NH_2 + HONO \rightarrow R-OH + N_2 \uparrow + H_2O$
+$CH_3NH_2 + HONO \rightarrow CH_3-O-CH_3$
+
+**(b)** $R_2NH + HONO \rightarrow R_2N-NO + H_2O$
+N-nitroso amine (Yellow oily layer)
+This is called **Libbermann's nitroso test**
+
+**(c)** $R_3N + HONO \rightarrow R_3\overset{\oplus}{N}HNO_2^{\ominus}$ Trialkyl ammonium Nitrite (Soluble in water)
+
+### **Illustrations**
+**Illustration 5.**
+Which statement is not true for primary amines
+(A) These forms salt will acids (B) Gives alcohols on hydrolysis
+(C) Gives carbylamine reaction (D) Gives mustard oil test
+**Solution.** (B)
+
+### **GOLDEN KEY POINTS**
+*   Inorganic derivatives of ammonia are also called amines, such as chloramine $NH_2-Cl$.
+*   The Hinsberg reaction is a chemical test for the detection of amines. It is an excellent test for distinguishing primary, secondary and tertiary amines. In this test, the amine is shaken well with Hinsberg reagent in the presence of aqueous alkali (either KOH or NaOH)
+*   Hofmann degradation of amides this reaction is valid for preparation of primary amines only, and it gives good yields of primary amines uncontaminated with other amines.
+*   Nitrosoamines are carcinogens (Cancer causing agents)
+*   The mixture of 1°, 2°, 3° amines can be distinguished by Hofmann's test or Hinsberg's reagent or carbylamine test or nitrous acid test.
+*   Gabriel Phthalimide Synthesis is used for preparation of Primary amines.
+*   Tertiary amines of the type NHRR' and NRR'R'' are non-resolvable, although the nitrogen atom bears four distinct substituents counting the lone pair, the lone pair of electrons can "flip" across the nitrogen atom and invert the other molecules. The energy barrier for just such a Walden inversion of the stereocenter with a lone pair of electrons is relatively low, e.g. $\sim$7 kcal/mol for a trialkylamine
+*   It is difficult to obtain reliably chiral products using tertiary amines. Because of this low barrier, amines such as NHRR' cannot be resolved optically and NRR'R'' can only be resolved when the R, R', and R'' groups are constrained in cyclic structures. Quaternary amine structures, e.g. H$_3$C-N$^+$-RR'R'', are chiral and are readily optically resolved.
+
+### **BEGINNER'S BOX-1**
+**1.** An example of a primary amine is -
+(A) n-Propylamine (B) Isobutylamine (C) t-Butyl amine (D) All of above
+
+**2.** Which one of the following will give primary amine on hydrolysis-
+(A) Nitroparaffins (B) Alkyl cyanide (C) Amide (D) Alkyl isocyanide
+
+**3.** Formaldoxime on reaction with Na/EtOH gives -
+(A) 1°- Amine (B) 2°- Amine (C) 3° - Amine (D) All above
+
+---
+### **Page 67**
+
+**4.** N-Ethyl phthalimide on hydrolysis gives -
+(A) Methyl alcohol (B) Ethyl amine (C) Dimethyl amine (D) Diethyl amine
+
+**5.** Which compound is soluble in water-
+(A) $[(C_2H_5)_2NH_2]^+ Cl^-$ (B) $[C_2H_5NH_3]^+ Cl^-$ (C) $[(CH_3)_3NH]^+ Cl^-$ (D) All the above
+
+**6.** $C_3H_5NH_2$ cannot be prepared by the reduction of:
+(A) $C_2H_5NO_2$ (B) $CH_3CH=NOH$ (C) $C_2H_5NC$ (D) $CH_3CN$
+
+**7.** Which set of the following compounds on reaction with an alkyl amine gives schiff's base :
+(A) HCHO, $C_6H_5$CHO, CH$_3$CHO (B) HCHO, NH$_2$OH, $NH_2-NH_2$
+(C) CH$_3$CHO, NH$_2$OH, $NH_2NH_2$ (D) CH$_3$COCH$_3$, C$_2$H$_5$OH
+
+**8.** Which of the following does not give a sulphur compound with a 1° amine-
+(A) Hinsberg reaction (B) Mustard oil reaction
+(C) Schotten - Baumann reaction (D) Con. H$_2$SO$_4$
+
+**9.** Which of the following amine does not react with Hinsberg reagent -
+(A) Neopentyl amine (B) Isopropyl amine
+(C) Triethyl amine (D) Ethyl methyl amine
+
+### **6.0 ANILINE ($C_6H_5NH_2$)**
+Aniline is also called aminobenzene or phenyl amine. Aniline was first prepared by **Unverdon** 1826 by the distillation of indigo which is called **anil** in spanish and hence the name aniline. In aniline —NH$_2$ group is directly attached to benzenic ring.
+
+**6.1 General Methods of Preparation**
+*   **Lab method**
+    Aniline is prepared in the lab by reduction of $C_6H_5NO_2$ with Sn + HCl.
+    $C_6H_5NO_2 \xrightarrow{\text{(i)} Sn+HCl} \xrightarrow{\text{(ii)} NaOH} C_6H_5NH_2 + H_2O$
+
+*   **Industrial method**
+    Aniline is obtained by reduction of nitrobenzene in presence of Fe/HCl.
+    $C_6H_5-NO_2 \xrightarrow{\text{(i)} Fe+HCl} \xrightarrow{\text{(ii)} NaOH} C_6H_5-NH_2 + H_2O$
+
+*   **From benzamide (Hofmann's reaction)**
+    Aniline is formed when benzamide is treated with Br$_2$ and KOH.
+    $C_6H_5CONH_2 + Br_2 + 4KOH \rightarrow C_6H_5NH_2 + K_2CO_3 + 2KBr + 2H_2O$
+
+*   **From benzoic acid (Schmidt reaction)**
+    Benzoic acid is dissolved in conc. H$_2$SO$_4$ and hydrazoic acid is dissolved in chloroform. When both solutions are mixed aniline obtained.
+    $C_6H_5COOH + N_3H \xrightarrow{\text{Conc. } H_2SO_4} C_6H_5NH_2 + N_2\uparrow + CO_2\uparrow$
+    (Hydrazoic acid)
+
+*   **From Grignard reagent**
+    $C_6H_5MgBr + ClNH_2 \rightarrow C_6H_5NH_2 + Mg\langle_{Cl}^{Br}$
+
+*   **From phenyl isocyanide**
+    $C_6H_5N=C + 2H_2O \rightarrow C_6H_5NH_2 + HCOOH$
+
+*   **From phenyl isocyanate**
+    $C_6H_5N=C=O + 2KOH \rightarrow C_6H_5NH_2 + K_2CO_3$
+
+### **Page 68**
+
+### **7.0 PHYSICAL PROPERTIES OF ANILINE**
+(i) Fresh aniline is a colourless oily liquid. On standing the colour becomes dark brown due to action of air and light.
+(ii) It's B.P is 183° C.
+(iii) It is heavier than water.
+(iv) It has characteristic unpleasant odour. It is toxic in nature.
+
+**7.1 Similarities and differences between Aromatic and Aliphatic amines**
+*   **Similarities**
+    (i) Both are basic, although aliphatic amines are more basic than the aromatic amines.
+    (ii) Both form salts with acids, however salts of aromatic amines are easily hydrolysed.
+    (iii) Both undergoes alkylation and acylation.
+    (iv) Both react with Grignard reagents forming hydrocarbons.
+    (v) Both forms schiff's bases.
+
+*   **Differences**
+    (i) Aniline is insoluble in water while aliphatic amines are soluble in water (due to H bonds)
+    (ii) Aniline gives diazonium salt with $HNO_2$ while aliphatic amines gives alcohol and nitrogen (except $CH_3NH_2$)
+    (iii) Aniline undergoes coupling and electrophilic substitution reactions in benzene ring while aliphatic is not.
+    (iv) Aniline has characteristic aromatic smell while aliphatic amines have smell like ammonia
+
+### **8.0 CHEMICAL PROPERTIES OF ANILINE**
+(i) Aniline is a primary amine it shows properties of both of benzene nucleus and —NH$_2$ group.
+(ii) Aniline has weak basic nature as compared to aliphatic amine.
+(iii) Weaker basic nature of aniline as compared to aliphatic amines can be explained on the basis of resonance. In aniline the non-bonding electron pair of N atom is delocalised in benzene ring by resonance. Thus electron density is less on N atom due to which aniline is less basic than aliphatic amines.
+    $\text{[Resonance structures of Aniline]}$
+    **Order of basic strength :** $RNH_2 > NH_3 > C_6H_5NH_2$
+(iv) Electron withdrawing group decreases the basic strength where as electron donating groups increases the basic strength
+    $p-C_6H_4\underset{NO_2}{\underset{|}{\text{C}}}NH_2 < C_6H_5NH_2 < p-C_6H_4\underset{CH_3}{\underset{|}{\text{C}}}NH_2$
+(v) Aqueous solution of aniline is neutral to litmus
+
+**I. Reactions due to —NH$_2$ group**
+**(A) Basic nature :** Aniline is weak base but it forms salt with strong acids. It a accepts a proton.
+$C_6H_5NH_2 + H^+$ $\rightarrow C_6H_5\overset{\oplus}{N}H_3$
+$C_6H_5NH_2 + HCl \rightarrow C_6H_5\overset{\oplus}{N}H_3\overset{\ominus}{Cl}$ Anilinium hydro chloride
+$2C_6H_5NH_2 + H_2SO_4 \rightarrow (C_6H_5NH_3)_2SO_4$ Anilinium sulphate
+$2C_6H_5NH_2 + H_2PtCl_6 \rightarrow (C_6H_5NH_3)_2PtCl_6$ Anilinium chloro platinate
+Chloro platinic acid
+
+**(B) Alkylation :** Aniline reacts with alkyl halides forming secondary, tertiary and quaternary ammonium salts depending on the concentration of alkyl halides.
+$C_6H_5NH_2 + CH_3I \rightarrow C_6H_5-NH-CH_3 + HI$
+(N-methyl aniline)
+$C_6H_5NH-CH_3 + CH_3I \rightarrow C_6H_5N(CH_3)_2 + HI$
+(N,N-dimethylaniline)
+$C_6H_5N(CH_3)_2 + CH_3I \rightarrow C_6H_5\overset{\oplus}{N}(CH_3)_3\overset{\ominus}{I}$
+(Trimethyl phenyl ammonium iodide)
+
+---
+### **Page 69**
+
+**(C) Acylation :** Aniline reacts with acid chlorides or anhydrides to form corresponding amides called anilides.
+The reaction of $C_6H_5NH_2$ with benzoyl chloride is called **'Schotten Baumann reaction'**.
+$C_6H_5NH_2 + Cl-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3 \rightarrow C_6H_5-NH-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3$
+(Acetanilide)
+$C_6H_5NH_2 + (CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}})_2O \rightarrow C_6H_5-NH-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3 + CH_3COOH$
+$C_6H_5NH_2 + Cl-\overset{\large\text{O}}{\overset{||}{\text{C}}}-C_6H_5 \rightarrow C_6H_5-NH-\overset{\large\text{O}}{\overset{||}{\text{C}}}-C_6H_5$
+(Benzanilide)
+
+**(D) Carbylamine reaction :** When aniline is heated with $CHCl_3$ and KOH it gives isocyanide having unpleasent smell which can be easily detected.
+$C_6H_5NH_2 + CHCl_3 + 3KOH \rightarrow C_6H_5NC + 3KCl + 3H_2O$
+Phenyl isocyanide
+**Note :** (i) Intermediate species is dichloro carbene [: $CCl_2$].
+(ii) This is a test of aniline and other primary amine and is known as **isocyanide test**.
+
+**(E) Hoffmann's mustard oil reaction :** When aniline is heated with alc. $CS_2$ and excess of $HgCl_2$ phenyl isothiocyanate having a characteristic smell of mustard oil is formed.
+$C_6H_5NH_2 + S=C=S \xrightarrow{HgCl_2, \Delta}$ Phenyl isothiocyanate [Smells like mustard oil]
+
+**(F) Reaction with aldehydes :** Aniline condenses with aldehydes to form schiff's base.
+$C_6H_5NH_2 + H-\overset{\large\text{O}}{\overset{||}{\text{C}}}-C_6H_5 \rightarrow C_6H_5N=CHC_6H_5 + H_2O$
+Benzylidene aniline (schiff's base)
+
+**(G) Reaction with Heinberg's reagent :**
+$C_6H_5-SO_2Cl + HNHC_6H_5 \xrightarrow{-HCl} C_6H_5SO_2NHC_6H_5$
+(N-Phenylbenzene sulphonamide)
+
+**(H) Acidic nature :**
+$C_6H_5NH_2 + Na \rightarrow C_6H_5NHNa + 1/2 H_2$
+N-Phenyl sodamide
+
+**(I) Diazotisation :** Diazotisation is a reaction in which ice cold solution of aniline in an inorganic acid with sodium nitrite solution leading to the formation of diazonium salt.
+$C_6H_5NH_2 + NaNO_2 + HCl \xrightarrow{0-5^\circ C, -H_2O} C_6H_5N_2Cl$
+$C_6H_5NH_2 + HCl \rightarrow C_6H_5\overset{\oplus}{N}H_3\overset{\ominus}{Cl}$
+$NaNO_2 + HCl \rightarrow HNO_2 + NaCl$
+$C_6H_5\overset{\oplus}{N}H_3\overset{\ominus}{Cl} + HNO_2 \rightarrow C_6H_5N_2Cl + 2H_2O$
+Benzene diazonium chloride
+
+Benzene diazonium chloride is a useful synthetic reagent. It is used in the preparation of many organic compounds
+**Note :** Coupling between arenediazonium cations and amines take place most rapidly in slightly acidic solution (pH 5 to 7). Under these conditions the concentration of the arenediazonium cation is at a maximum; at the same time an excessive amount of the amine has not been converted to an unreactive anilinium salt. Coupling between arenediazonium cations and phenols take place most rapidly in slightly basic solution (pH 7 to 9).
+$C_6H_5N_2Cl \xrightarrow{\beta-Naphthol, 10\% NaOH}$ [p-hydroxy azobenzene (orange dye)]
+(Red colour)
+
+---
+### **Page 70**
+
+**(J) Oxidation :** Aniline forms a number of products depending upon the nature of oxidising agent:-
+$-NH_2 \xrightarrow{[O]} -NHOH \xrightarrow{[O]} -NO \xrightarrow{[O]} -NO_2$
+
+| **Oxidant** | **Product** |
+|---|---|
+| (i) Caro's acid ($H_2SO_5$) | Nitrobenzene + Nitroso benzene |
+| (ii) $CF_3COOH$ | Nitrobenzene |
+
+**II. Reactions due to benzene ring of Aniline**
+$\text{[Resonance structures of aniline showing ortho and para positions are electron rich]}$
+Resonance hybrid
+
+**Note :**
+**(i)** In aniline 2, 4, 6 or ortho and para positions are electron rich so electrophile attacks here.In aniline 3, 5, or meta position is electron deficient so nucleophile attacks here.
+**(ii)** The benzene ring of aniline undergoes halogenation, sulphonation and nitration.
+**(iii)** The NH$_2$ group is o-, p- directing.
+
+**(A) Halogenation :** Chlorine and bromine react with aniline and form trichloro and tribromo aniline respectively
+[Aniline] $+ 3Br_2 \text{ or } 3Cl_2 \xrightarrow{\text{Polar solvent e.g. H}_2\text{O}}$ [2,4,6-Tribromo aniline (White ppt.)] or [2,4,6-Trichloro aniline]
+
+**Note :** However, monobromo or chloro derivative of aniline can be prepared if -NH$_2$ group is first protected by acetyl group. Here the reactivity decreases due to -I effect of acetyl group.
+[Aniline] $\xrightarrow{CH_3COCl}$ [Acetanilide] $\xrightarrow{Br_2}$ [o- and p-Bromo acetanilide] $\xrightarrow{H_2O}$ [o- and p-Bromo aniline]
+
+**(B) Nitration :**
+**(a) Direct nitration :** The direct nitration of aniline by conc. $HNO_3$ and conc. $H_2SO_4$ give meta-nitroaniline. Due to positively charged N, m-position becomes electron rich as compared to o, p-position.
+[Aniline] $\xrightarrow{H_2SO_4, HNO_3}$ [Anilinium ion] $\xrightarrow{-NO_2^+, -H_2SO_4}$ [o-Nitroaniline + m-Nitroaniline]
+
+**(b) Indirect nitration :** In indirect nitration amino group is protected by acetylation to give acetanilide, which on nitration and subsequent hydrolysis give o- and p- nitro-aniline.
+
+---
+### **Page 71**
+
+[Aniline] $\xrightarrow{+ CH_3COCl}$ [Acetanilide] $\xrightarrow{HNO_3 + H_2SO_4}$ [o- and p-Nitroacetanilide] $\xrightarrow{H_2O}$ [o- and p-Nitroaniline]
+
+**(C) Sulphonation :** Aniline reacts with fuming $H_2SO_4$ to give sulphanilic acid. (p-Amino-benzene sulphonic acid)
+[Aniline] $+ H_2SO_4$ (Fuming) $\rightarrow$ [Anilinium hydrogen sulfate] $\xrightarrow{-H_2O, 180^\circ C}$ [p-Aminobenzenesulphonic acid] $\xrightarrow{Rearrangement}$ [Sulphanilic acid]
+
+**Note :**
+**(i)** Sulphanilic acid is an important intermediate in the manufacturing of dyes and drugs.
+**(ii)** The compounds in which both proton donating & proton accepting groups present are called ampholite (dipolar ion).
+[Sulphanilic acid] $\rightleftharpoons$ [Zwitter ion]
+
+**(D) Catalytic hydrogenation :** Aniline undergoes hydrogenation in presence of Ni at high temp. to form amino cyclohexane.
+[Aniline] $+ 3H_2 \xrightarrow{Ni, \text{High Temp.}}$ [Cyclohexylamine]
+
+### **9.0 TESTS OF ANILINE**
+**Carbylamine test :** Aniline gives carbylamine test or Isocyanide test.
+$C_6H_5NH_2 + CHCl_3 + KOH \rightarrow C_6H_5NC$
+(Bad smelling)
+**Dye test :** Aniline is first diazotised. On adding alkaline soln. of $\beta$-naphthol to the diazotised product a scarlet red dye is formed.
+On heating with bromine water, a ppt. is formed.
+
+### **10.0 USES OF ANILINE**
+(i) The manufacture of dyes and dye intermediates
+(ii) The manufacture of accelerators and antioxidants in rubber industry.
+(iii) The manufacture of acetanilide, sulphuric acid and indigo
+(iv) The Manufacture of sulpha drugs.
+
+---
+### **Page 72**
+
+### **11.0 REACTIONS OF BENZENE DIAZONIUM SALT**
+$C_6H_5N_2Cl$
+*   $\xrightarrow{C_2H_5OH}$ $C_6H_6$ Benzene
+*   $\xrightarrow{H_3PO_2}$ $C_6H_6$ Benzene
+*   $\xrightarrow{HCOOH}$ $C_6H_6$ Benzene
+*   $\xrightarrow{Na/NaOH, 2H}$
+*   $\xrightarrow{Cu_2Cl_2/HCl}$ $C_6H_5Cl + N_2 + HCl$ **Sandmeyer reactions**
+*   $\xrightarrow{Cu_2Br_2/HBr}$ $C_6H_5Br + N_2 + HCl$ **Sandmeyer reactions**
+*   $\xrightarrow{Cu_2(CN)_2/HCN}$ $C_6H_5CN + N_2 + HCl$ **Sandmeyer reactions**
+*   $\xrightarrow{KI(aq.)}$ $C_6H_5I + N_2 + KCl$
+*   $\xrightarrow{NaBF_4/\Delta}$ $C_6H_5F + BF_3 + NaCl$ **Balz-Schiemann reaction**
+*   $\xrightarrow{H_2O, \Delta}$ $C_6H_5OH$
+*   $\xrightarrow{Cu/\Delta}$ $C_6H_5Cl$ **Gattermann reactions**
+*   $\xrightarrow{-4H, SnCl_2-HCl}$ $C_6H_5NHNH_2$ (Phenyl hydrazine)
+*   $\xrightarrow{\beta-Naphthol, 10\% NaOH}$ [Red colour dye]
+*   $\xrightarrow{SnCl_2/NaOH}$ $C_6H_6$
+*   $\xrightarrow{C_6H_5OH}$ $C_6H_5N=NC_6H_4OH$ p-Hydroxy azobenzene (Orange dye) **Coupling reactions**
+*   $\xrightarrow{C_6H_5NH_2}$ $C_6H_5N=NC_6H_4NH_2$ p-amino azo benzene (aniline yellow) **Coupling reactions**
+
+### **GOLDEN KEY POINTS**
+*   Aniline is weaker base then aliphatic amines.
+*   Intermediate which is formed during carbylamine reaction is dichloro carbene.
+*   Only primary amines and aniline give positive isocyanide test.
+
+---
+### **Page 73**
+
+### **BEGINNER'S BOX-2**
+**1.** The correct set of the products obtained in the following reactions-
+(1) RCN $\xrightarrow{\text{reduction}}$ (2) RCN $\xrightarrow{\text{(i)} CH_3MgBr, \text{(ii)} H_2O}$ (3) RNC $\xrightarrow{\text{hydrolysis}}$ (4) RNH$_2 \xrightarrow{HNO_2}$
+The answer is-
+| | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|
+| (A) | 2° Amine | Methyl ketone | 1° Amine | Alcohol |
+| (B) | 1° Amine | Methyl ketone | 1° Amine | Alcohol |
+| (C) | 2° Amine | Methyl ketone | 2° Amine | Acid |
+| (D) | 2° Amine | Methyl ketone | 2° Amine | Aldehyde |
+
+**2.** The reaction of an alkyl cyanide with sodium and alcohol to form an alkyl amine is known by the name of
+(A) Mendius reaction (B) Hofmann's reaction
+(C) Gabriel reaction (D) Ammonolysis
+
+**3.** Which of the following compounds on reduction gives an amine -
+(A) Alkyl cyanide (B) Aldoxime (C) Alkyl isocyanide (D) All above
+
+**4.** Which of the following is used as a solvent in the Friedel-Crafts reaction -
+(A) Toluene (B) Nitrobenzene (C) Benzene (D) Aniline
+
+**5.** Which of the following amine does not respond to carbylamine reaction -
+(A) Ethylamine (B) $(CH_3)_2NH$ (C) $CH_3NH_2$ (D) Phenylamine
+
+**6.** Carbylamine test is performed in alcoholic KOH by heating a mixture of :-
+(A) Chloroform and silver powder
+(B) Trihalogenated methane and a primary amine
+(C) An alkyl halie and a primary amine
+(D) An alkyl cyanide and a primary amine
+
+**7.** Benzenediazonium chloride on reaction with aniline in weakly basic medium gives
+(A) diphenyl ether (B) p-aminoazobenzene (C) Chlorobenzene (D) benzene
+
+**8.** Nitration mixture contains both conc. $H_2SO_4$ and conc. $HNO_3$. Here $HNO_3$ works as :
+(A) An aprotic solvent (B) An acid (C) A base (D) An oxidant
+
+**9.** An example of nucleophilic aromatic substitution reaction is :
+(A) $C_6H_5NO_2\xrightarrow{H_2SO_4}$ (B) $C_6H_5OH \xrightarrow{HNO_3}$ (C) $C_6H_5Cl \xrightarrow{AlCl_3}$ (D) $C_6H_5NO_2 \xrightarrow{KOH}$
+
+**10.** Using Fe-Water-HCl, which one of the following reaction is possible [Here $\phi = C_6H_5$]
+(A) $\phi-NO_2 \rightarrow \phi-NH-NH-\phi$ (B) $\phi-NO_2 \rightarrow \phi-NH_2$
+(C) $\phi-NO_2 \rightarrow \phi-NHOH$ (D) $\phi-NO_2 \rightarrow \phi-N=N-\phi$
+
+**11.** Aniline is purified by :
+(A) Azeotropic distillation (B) Steam distillation
+(C) distillation in presence of magnesium (D) Fractional crystallisation
+
+---
+### **Page 74**
+
+### **SOME WORKED OUT ILLUSTRATIONS**
+
+**Illustration 1.**
+Which of the following does not react with acetyl chloride?
+(A) $(CH_3)_3N$ (B) $(CH_3)_2NH$ (C) $C_2H_5NH_2$ (D) $C_2H_5OH$
+**Solution. (A)**
+
+**Illustration 2.**
+Which of the following reactions does not yield an amine ?
+(A) $R-C\equiv N + H_2O \xrightarrow{H^+}$ ...... (B) $R-X + NH_3 \rightarrow$ ......
+(C) $R-CH=NOH + [H] \xrightarrow{Na/C_2H_5OH}$ ...... (D) $RCONH_2 + 4[H] \xrightarrow{LiAlH_4}$ ......
+**Solution. (A)**
+
+**Illustration 3.**
+Which of the following is not an ambident nucleophile?
+(A) -ONO (B) $-OCH_3$ (C) -CN (D) -CNO
+**Solution. (B)**
+
+**Illustration 4.**
+An organic compound (A) on reduction give a compound (B) Upon treatment with $HNO_2$, (B) give ethyl alcohol and on warming with $CHCl_3$ and alcoholic KOH, (B) gave offensive smell. The compound (A) is
+(A) $CH_3CN$ (B) $C_2H_5CN$ (C) $CH_3NH_2$ (D) $CH_3NC$
+**Solution. (A)**
+
+**Illustration 5.**
+Silver chloride is soluble in methylamine due to the formation of :
+(A) $[Ag(CH_3NH_2)_4]Cl$ (B) $[Ag(CH_3NH_2)_2]Cl$ (C) $[Ag(CH_3NH_2)_3]Cl$ (D) $[Ag(CH_3NH_2)]Cl$
+**Solution. (B)**
+
+**Illustration 6.**
+Hinsberg's reagent is:
+(A) benzene sulphonamide (B) benzene sulphonic acid
+(C) benzene sulphonyl chloride (D) benzene sulphonyl chloride
+**Solution. (D)**
+
+**Illustration 7.**
+[2-Methyloxolane] $+ CH_3NH_2 \rightarrow \text{Product ; product is :}$
+(A) [2-methyl-2-(methylamino)oxolane]
+(B) [N-(5-hydroxypentan-2-yl)-N-methylamine]
+(C) [1-(methylamino)pentan-4-ol]
+(D) None of these
+**Solution.** [The question has a typo in option D. Assuming it implies 'None of these']
+The reaction is nucleophilic ring opening of epoxide. $CH_3NH_2$ attacks the less substituted carbon of the epoxide.
+The reaction is: [2-Methyloxirane] $+ CH_3NH_2 \rightarrow$ Product
+(A) [N-methyl-2-methyloxiran-2-amine] (B) [N-(1-hydroxypropan-2-yl)-N-methylamine] (C) [1-(methylamino)propan-2-ol] (D) None of these
+
+---
+### **Page 75**
+
+**Solution.**
+[Structure of reaction pathway showing ring opening]
+Hence, (C) is the correct answer.
+
+**Illustration 8.**
+Identify the end product (C)
+[N-methylpyrrolidine] $\xrightarrow{CH_3I, excess} A \xrightarrow{Ag_2O} B \xrightarrow{\Delta} C$
+(A) [structure A] (B) [structure B] (C) [structure C] (D) [structure D]
+**Solution**
+[Reaction scheme showing Hofmann elimination]
+Hence, (A) is the correct answer.
+
+**Illustration 9.**
+A compound X with seven carbon atoms on treatment with $Br_2$ and KOH gives Y. Y gives carbylamine test and upon diazotisation and coupling gives azodye. X is :
+(A) $C_6H_5CONH_2$ (B) $CH_3-(CH_2)_5-CONH_2$
+(C) $CH_3-\overset{CH_3}{\overset{|}{C}}H-CH_2-CH_2-CONH_2$ (D) $CH_3-O-C_6H_4NH_2$
+**Solution.**
+Since Y gives coupling reaction after diazotization, it suggest that Y can be aniline or benzene ring substituted aniline. Since Y has been obtained from Hofmann bromamide it means it has —CONH$_2$ group with benzene ring. Hence, it is $C_6H_5CONH_2$. Hence (A) is the correct answer.
+
+**Illustration 10.**
+Methyl ethyl propyl amine forms non-superimposable mirror images but it does not show optical activity because :
+(A) of rapid flipping (B) amines are basic in nature
+(C) nitrogen has a lone pair of electrons (D) of absence of asymmetric nitrogen
+**Solution.**
+The interconversion of d and l-forms are so fast that it is not possible to isolate these. Hence, (A) is the correct answer.
+$CH_3-\underset{C_2H_5}{\underset{|}{N}}-\overset{\bullet\bullet}{C_3H_7} \xrightarrow{\text{Rapid Inversion}} \overset{\bullet\bullet}{N}-\underset{C_3H_7}{\underset{|}{C_2H_5}}-CH_3$

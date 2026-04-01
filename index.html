@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+    <title>Notebook Viewer</title>
+    <style>
+        :root { --bg-dark: #1e1e1e; --bg-panel: #252526; --accent: #007acc; --text: #cccccc; }
+        body { margin: 0; display: flex; font-family: 'Segoe UI', Tahoma, sans-serif; height: 100vh; background: var(--bg-dark); color: var(--text); overflow: hidden; }
+        
+        /* Sidebar Styles */
+        #sidebar { width: 300px; min-width: 300px; background: var(--bg-panel); border-right: 1px solid #333; display: flex; flex-direction: column; z-index: 1000; transition: transform 0.3s ease; }
+        .sidebar-header { padding: 15px 20px; font-size: 18px; font-weight: bold; background: #333337; color: #fff; display: flex; justify-content: space-between; align-items: center; }
+        #close-sidebar { display: none; background: none; border: none; color: #fff; font-size: 24px; cursor: pointer; }
+        #folderList { overflow-y: auto; flex-grow: 1; }
+        .folder-btn { display: block; width: 100%; padding: 15px 20px; background: transparent; color: #ccc; border: none; border-bottom: 1px solid #333; cursor: pointer; text-align: left; font-size: 15px; transition: background 0.2s; }
+        .folder-btn:hover { background: #2a2d2e; }
+        .folder-btn.active { background: #37373d; color: #fff; border-left: 4px solid var(--accent); padding-left: 16px; font-weight: bold; }
+        
+        /* Main UI Styles */
+        #main { flex-grow: 1; display: flex; flex-direction: column; width: 100%; position: relative; }
+        #header { padding: 10px 15px; background: var(--bg-panel); border-bottom: 1px solid #333; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; }
+        
+        .header-left { display: flex; align-items: center; gap: 15px; }
+        #menu-btn { display: none; background: none; border: none; color: #fff; font-size: 24px; cursor: pointer; padding: 0 5px; }
+        #folderTitle { margin: 0; font-size: 18px; font-weight: 500; color: #fff; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 300px; }
+        
+        /* Toolbar (Zoom & Nav) */
+        .toolbar { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+        .btn-group { display: flex; background: #333; border-radius: 6px; overflow: hidden; }
+        button.tool-btn { padding: 8px 15px; font-size: 14px; cursor: pointer; background: transparent; color: white; border: none; border-right: 1px solid #444; font-weight: bold; }
+        button.tool-btn:last-child { border-right: none; }
+        button.tool-btn:hover:not(:disabled) { background: #444; }
+        button.tool-btn.primary { background: var(--accent); }
+        button.tool-btn.primary:hover:not(:disabled) { background: #0098ff; }
+        button.tool-btn:disabled { color: #777; cursor: not-allowed; }
+        #counter { font-size: 15px; color: #bbb; min-width: 70px; text-align: center; }
+        
+        /* Image Viewer Area */
+        #viewer-container { flex-grow: 1; overflow: auto; display: flex; justify-content: center; align-items: flex-start; background: #0b0b0b; position: relative; }
+        #viewer { max-width: 100%; height: auto; object-fit: contain; transform-origin: top center; transition: width 0.2s ease; cursor: pointer; }
+        .fit-screen { max-height: 100%; width: auto !important; }
+        
+        #overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 999; }
+        .hidden { display: none !important; }
+
+        /* Mobile Responsiveness */
+        @media (max-width: 800px) {
+            #sidebar { position: fixed; top: 0; left: 0; height: 100%; transform: translateX(-100%); }
+            #sidebar.open { transform: translateX(0); }
+            #close-sidebar { display: block; }
+            #menu-btn { display: block; }
+            #overlay.active { display: block; }
+            #folderTitle { font-size: 16px; max-width: 150px; }
+            .nav-text { display: none; } /* Hide 'Prev'/'Next' text on mobile, keep arrows */
+        }
+    </style>
+</head>
+<body>
+    <div id="overlay"></div>
+    
+    <div id="sidebar">
+        <div class="sidebar-header">
+            Notebooks
+            <button id="close-sidebar">&times;</button>
+        </div>
+        <div id="folderList"></div>
+    </div>
+    
+    <div id="main">
+        <div id="header">
+            <div class="header-left">
+                <button id="menu-btn">&#9776;</button>
+                <h2 id="folderTitle">Select a notebook...</h2>
+            </div>
+            
+            <div class="toolbar hidden" id="controls">
+                <div class="btn-group">
+                    <button class="tool-btn" id="btnZoomOut" title="Zoom Out">-</button>
+                    <button class="tool-btn" id="btnZoomReset" title="Fit to Screen">Fit</button>
+                    <button class="tool-btn" id="btnZoomIn" title="Zoom In">+</button>
+                </div>
+                <div class="btn-group">
+                    <button id="btnPrev" class="tool-btn primary">&#9664; <span class="nav-text">Prev</span></button>
+                    <span id="counter" class="tool-btn" style="cursor:default;"></span>
+                    <button id="btnNext" class="tool-btn primary"><span class="nav-text">Next</span> &#9654;</button>
+                </div>
+            </div>
+        </div>
+        
+        <div id="viewer-container">
+            <img id="viewer" src="" class="hidden fit-screen" />
+        </div>
+    </div>
+    
+    <script>
+        const data = {
+    "Alcohols and Ethers": [
+        "IMG20250813213411.jpg",
+        "IMG20250813213420.jpg",
+        "IMG20250813213426.jpg",
+        "IMG20250813213437.jpg",
+        "IMG20250813213442.jpg",
+        "IMG20250813213457.jpg",
+        "IMG20250813213503.jpg",
+        "IMG20250813213521.jpg",
+        "IMG20250813213529.jpg",
+        "IMG20250813213547.jpg",
+        "IMG20250813213552.jpg",
+        "IMG20250813213604.jpg",
+        "IMG20250813213616.jpg"
+    ],
+    "Alkenes": [
+        "IMG20250621081536.jpg",
+        "IMG20250621081557_BURST001_COVER.jpg",
+        "IMG20250621081610.jpg",
+        "IMG20250621081621.jpg",
+        "IMG20250621081636.jpg",
+        "IMG20250621081646.jpg",
+        "IMG20250621081701.jpg",
+        "IMG20250621081740.jpg",
+        "IMG20250621081804.jpg",
+        "IMG20250621081819.jpg",
+        "IMG20250621081833.jpg",
+        "IMG20250621081904.jpg",
+        "IMG20250621081955.jpg",
+        "IMG20250621082020.jpg",
+        "IMG20250621082039.jpg",
+        "IMG20250621082101.jpg",
+        "IMG20250621082145.jpg",
+        "IMG20250621082154.jpg",
+        "IMG20250621082216.jpg",
+        "IMG20250621082240.jpg",
+        "IMG20250621082253.jpg",
+        "IMG20250621082310.jpg",
+        "IMG20250621082325.jpg",
+        "IMG20250621082341.jpg",
+        "IMG20250621082455.jpg",
+        "IMG20250621082512.jpg",
+        "IMG20250621082522.jpg",
+        "IMG20250621082537.jpg",
+        "IMG20250621082547.jpg",
+        "IMG20250621082632.jpg",
+        "IMG20250621082644.jpg",
+        "IMG20250621082730.jpg",
+        "IMG20250621082742.jpg",
+        "IMG20250621082754.jpg",
+        "IMG20250621082801.jpg",
+        "IMG20250621082816.jpg",
+        "IMG20250621082841.jpg",
+        "IMG20250621082914.jpg",
+        "IMG20250621082940.jpg",
+        "IMG20250621082955.jpg",
+        "IMG20250621083004.jpg",
+        "IMG20250621083029.jpg",
+        "IMG20250621083053.jpg",
+        "IMG20250621083112.jpg",
+        "IMG20250621083119.jpg",
+        "IMG20250621083304.jpg",
+        "IMG20250621083311.jpg",
+        "IMG20250621083334.jpg",
+        "IMG20250621083407.jpg",
+        "IMG20250621083432.jpg",
+        "IMG20250621083452.jpg",
+        "IMG20250621083507.jpg",
+        "IMG20250621083600.jpg",
+        "IMG20250621083810.jpg",
+        "IMG20250621083823.jpg",
+        "IMG20250621083834.jpg",
+        "IMG20250621083839.jpg",
+        "IMG20250621083900.jpg",
+        "IMG20250621083910.jpg",
+        "IMG20250621083926.jpg",
+        "IMG20250621083936.jpg",
+        "IMG20250621084042.jpg",
+        "IMG20250621084048.jpg",
+        "IMG20250621084106.jpg"
+    ],
+    "Alkyl Halides and Haloform": [
+        "IMG20250803211802.jpg",
+        "IMG20250803211809.jpg",
+        "IMG20250803211813.jpg",
+        "IMG20250803211821.jpg",
+        "IMG20250803211826.jpg",
+        "IMG20250803211831.jpg",
+        "IMG20250803211836.jpg",
+        "IMG20250803211844.jpg",
+        "IMG20250803211849.jpg",
+        "IMG20250803211858.jpg",
+        "IMG20250803211901.jpg",
+        "IMG20250803211910.jpg",
+        "IMG20250803211916.jpg",
+        "IMG20250803211934.jpg",
+        "IMG20250803211938.jpg",
+        "IMG20250803211945.jpg",
+        "IMG20250803211951.jpg",
+        "IMG20250803211959.jpg",
+        "IMG20250803212004.jpg",
+        "IMG20250803212010.jpg",
+        "IMG20250803212016.jpg",
+        "IMG20250803212022.jpg",
+        "IMG20250803212027.jpg",
+        "IMG20250803212034.jpg",
+        "IMG20250803212038.jpg",
+        "IMG20250803212049.jpg",
+        "IMG20250803212058.jpg",
+        "IMG20250803212116.jpg",
+        "IMG20250803212121.jpg",
+        "IMG20250803212132.jpg",
+        "IMG20250803212136.jpg",
+        "IMG20250803212148.jpg",
+        "IMG20250803212223.jpg",
+        "IMG20250803212227.jpg",
+        "IMG20250803212235.jpg",
+        "IMG20250803212238.jpg",
+        "IMG20250803212257.jpg",
+        "IMG20250803212302.jpg",
+        "IMG20250803212322.jpg",
+        "IMG20250803212328.jpg",
+        "IMG20250803212335.jpg",
+        "IMG20250803212339.jpg",
+        "IMG20250803212350.jpg",
+        "IMG20250803212355.jpg",
+        "IMG20250803212415.jpg",
+        "IMG20250803212419.jpg",
+        "IMG20250803212431.jpg",
+        "IMG20250803212435.jpg"
+    ],
+    "Alkyne": [
+        "IMG20250803211430.jpg",
+        "IMG20250803211434.jpg",
+        "IMG20250803211445.jpg",
+        "IMG20250803211455.jpg",
+        "IMG20250803211502.jpg",
+        "IMG20250803211510.jpg",
+        "IMG20250803211523.jpg",
+        "IMG20250803211528.jpg",
+        "IMG20250803211538.jpg",
+        "IMG20250803211617.jpg",
+        "IMG20250803211623.jpg",
+        "IMG20250803211628.jpg"
+    ],
+    "amines": [
+        "IMG_20251109_012354.jpg",
+        "IMG_20251109_012406.jpg",
+        "IMG_20251109_012414.jpg",
+        "IMG_20251109_012427.jpg",
+        "IMG_20251109_012437.jpg",
+        "IMG_20251109_012450_LL.jpg"
+    ],
+    "applications of d-block (part 3)": [
+        "IMG20250603111637.jpg",
+        "IMG20250603111706.jpg",
+        "IMG20250603111726.jpg",
+        "IMG20250603111749.jpg",
+        "IMG20250603111812.jpg",
+        "IMG20250603111826.jpg",
+        "IMG20250603111901.jpg"
+    ],
+    "Aromatic Compounds": [
+        "IMG20250803213304.jpg",
+        "IMG20250803213311.jpg",
+        "IMG20250803213314.jpg",
+        "IMG20250803213321.jpg",
+        "IMG20250803213323.jpg",
+        "IMG20250803213328.jpg",
+        "IMG20250803213331.jpg",
+        "IMG20250803213336.jpg",
+        "IMG20250803213339.jpg",
+        "IMG20250803213343.jpg",
+        "IMG20250803213346.jpg",
+        "IMG20250803213351.jpg",
+        "IMG20250803213353.jpg",
+        "IMG20250803213359.jpg",
+        "IMG20250803213402.jpg",
+        "IMG20250803213407.jpg",
+        "IMG20250803213410.jpg",
+        "IMG20250803213416.jpg",
+        "IMG20250803213419.jpg",
+        "IMG20250803213426.jpg",
+        "IMG20250803213429.jpg",
+        "IMG20250803213434.jpg",
+        "IMG20250803213437.jpg",
+        "IMG20250803213442.jpg",
+        "IMG20250803213445.jpg",
+        "IMG20250803213450.jpg",
+        "IMG20250803213454.jpg",
+        "IMG20250803213522.jpg",
+        "IMG20250803213526.jpg",
+        "IMG20250803213531.jpg",
+        "IMG20250803213535.jpg",
+        "IMG20250803213541.jpg",
+        "IMG20250803213546.jpg",
+        "IMG20250803213552.jpg",
+        "IMG20250803213557.jpg",
+        "IMG20250803213603.jpg",
+        "IMG20250803213609.jpg",
+        "IMG20250803213617.jpg",
+        "IMG20250803213620.jpg",
+        "IMG20250803213625.jpg",
+        "IMG20250803213629.jpg",
+        "IMG20250803213637.jpg",
+        "IMG20250803213640.jpg",
+        "IMG20250803213647.jpg",
+        "IMG20250803213651.jpg",
+        "IMG20250803213659.jpg",
+        "IMG20250803213702.jpg",
+        "IMG20250803213708.jpg",
+        "IMG20250803213710.jpg",
+        "IMG20250803213716.jpg",
+        "IMG20250803213720.jpg",
+        "IMG20250803213733.jpg",
+        "IMG20250803213737.jpg",
+        "IMG20250803213743.jpg",
+        "IMG20250803213747.jpg",
+        "IMG20250803213752.jpg",
+        "IMG20250803213756.jpg",
+        "IMG20250803213802.jpg",
+        "IMG20250803213805.jpg",
+        "IMG20250803213812.jpg",
+        "IMG20250803213816.jpg",
+        "IMG20250803213824.jpg",
+        "IMG20250803213827.jpg",
+        "IMG20250803213834.jpg",
+        "IMG20250803213840.jpg",
+        "IMG20250803213847.jpg",
+        "IMG20250803213851.jpg",
+        "IMG20250803213858.jpg",
+        "IMG20250803213903.jpg",
+        "IMG20250803213910.jpg",
+        "IMG20250803213923.jpg",
+        "IMG20250803213932.jpg",
+        "IMG20250803213937.jpg",
+        "IMG20250803213943.jpg",
+        "IMG20250803213948.jpg",
+        "IMG20250803213958.jpg",
+        "IMG20250803214003.jpg",
+        "IMG20250803214010.jpg",
+        "IMG20250803214014.jpg",
+        "IMG20250803214024.jpg",
+        "IMG20250803214027.jpg",
+        "IMG20250803214033.jpg",
+        "IMG20250803214037.jpg",
+        "IMG20250803214044.jpg",
+        "IMG20250803214047.jpg",
+        "IMG20250803214054.jpg",
+        "IMG20250803214057.jpg",
+        "IMG20250803214104.jpg"
+    ],
+    "bio2": [
+        "IMG_20251109_012024.jpg",
+        "IMG_20251109_012037.jpg",
+        "IMG_20251109_012043.jpg",
+        "IMG_20251109_012055.jpg",
+        "IMG_20251109_012101.jpg"
+    ],
+    "Biomolecules": [
+        "IMG_20251108_232230.jpg",
+        "IMG_20251108_232238.jpg",
+        "IMG_20251108_232242.jpg",
+        "IMG_20251108_232249.jpg",
+        "IMG_20251108_232253.jpg",
+        "IMG_20251108_232258.jpg",
+        "IMG_20251108_232303.jpg",
+        "IMG_20251108_232309.jpg",
+        "IMG_20251108_232313.jpg",
+        "IMG_20251108_232318.jpg",
+        "IMG_20251108_232322.jpg",
+        "IMG_20251108_232332.jpg",
+        "IMG_20251108_232336.jpg",
+        "IMG_20251108_232342.jpg",
+        "IMG_20251108_232347.jpg",
+        "IMG_20251108_232352.jpg",
+        "IMG_20251108_232356.jpg",
+        "IMG_20251108_232402.jpg",
+        "IMG_20251108_232406.jpg",
+        "IMG_20251108_232411.jpg",
+        "IMG_20251108_232415.jpg",
+        "IMG_20251108_232420.jpg",
+        "IMG_20251108_232425.jpg"
+    ],
+    "Carbonyl Compounds": [
+        "IMG20250903090857.jpg",
+        "IMG20250903090949.jpg",
+        "IMG20250903090957.jpg",
+        "IMG20250903091005.jpg",
+        "IMG20250903091008.jpg",
+        "IMG20250903091015.jpg",
+        "IMG20250903091019.jpg",
+        "IMG20250903091055.jpg",
+        "IMG20250903091107.jpg",
+        "IMG20250903091118.jpg",
+        "IMG20250903091122.jpg",
+        "IMG20250903091133.jpg",
+        "IMG20250903091138.jpg",
+        "IMG20250903091148.jpg",
+        "IMG20250903091152.jpg",
+        "IMG20250903091203.jpg",
+        "IMG20250903091210.jpg",
+        "IMG20250903091219.jpg",
+        "IMG20250903091223.jpg",
+        "IMG20250903091232.jpg",
+        "IMG20250903091236.jpg",
+        "IMG20250903091242.jpg",
+        "IMG20250903091327.jpg",
+        "IMG20250903091348.jpg",
+        "IMG20250903091353.jpg",
+        "IMG20250903091405.jpg",
+        "IMG20250903091434.jpg",
+        "IMG20250903091609.jpg",
+        "IMG20250903091623.jpg",
+        "IMG20250903091853.jpg",
+        "IMG20250903091856.jpg",
+        "IMG20250903091924.jpg",
+        "IMG20250903091935.jpg",
+        "IMG20250903092000.jpg",
+        "IMG20250903092046.jpg",
+        "IMG20250903092105.jpg",
+        "IMG20250903092150.jpg",
+        "IMG20250903092159.jpg",
+        "IMG20250903092209.jpg",
+        "IMG20250903092213.jpg",
+        "IMG20250903092226.jpg",
+        "IMG20250903092237.jpg",
+        "IMG20250903092350.jpg",
+        "IMG20250903092401.jpg",
+        "IMG20250903092407.jpg",
+        "IMG20250903092416.jpg",
+        "IMG20250903092423.jpg",
+        "IMG20250903092436.jpg",
+        "IMG20250903092445.jpg",
+        "IMG20250903092459.jpg",
+        "IMG20250903092505.jpg",
+        "IMG20250903092513.jpg",
+        "IMG20250903092520.jpg",
+        "IMG20250903092530.jpg",
+        "IMG_20250903_091734.jpg",
+        "IMG_20250903_091759.jpg"
+    ],
+    "carbonyl_module": [
+        "carbonyl_module_page-0005.jpg",
+        "carbonyl_module_page-0006.jpg",
+        "carbonyl_module_page-0007.jpg",
+        "carbonyl_module_page-0008.jpg",
+        "carbonyl_module_page-0009.jpg",
+        "carbonyl_module_page-0010.jpg",
+        "carbonyl_module_page-0011.jpg",
+        "carbonyl_module_page-0012.jpg",
+        "carbonyl_module_page-0013.jpg",
+        "carbonyl_module_page-0014.jpg",
+        "carbonyl_module_page-0015.jpg",
+        "carbonyl_module_page-0016.jpg",
+        "carbonyl_module_page-0017.jpg",
+        "carbonyl_module_page-0018.jpg",
+        "carbonyl_module_page-0019.jpg",
+        "carbonyl_module_page-0020.jpg",
+        "carbonyl_module_page-0021.jpg",
+        "carbonyl_module_page-0022.jpg",
+        "carbonyl_module_page-0023.jpg",
+        "carbonyl_module_page-0024.jpg",
+        "carbonyl_module_page-0025.jpg",
+        "carbonyl_module_page-0026.jpg",
+        "carbonyl_module_page-0027.jpg",
+        "carbonyl_module_page-0028.jpg",
+        "carbonyl_module_page-0029.jpg",
+        "carbonyl_module_page-0030.jpg",
+        "carbonyl_module_page-0031.jpg"
+    ],
+    "f-block": [
+        "IMG20250602231301.jpg",
+        "IMG20250602231344.jpg",
+        "IMG20250602231358.jpg",
+        "IMG20250602231419.jpg",
+        "IMG20250602231426.jpg",
+        "IMG20250602231447.jpg",
+        "IMG20250602231506.jpg"
+    ],
+    "Gp13": [
+        "IMG_20251001_201653_LL.jpg",
+        "IMG_20251001_201727_LL.jpg",
+        "IMG_20251001_201736_LL.jpg",
+        "IMG_20251001_201750_LL.jpg",
+        "IMG_20251001_201759_LL.jpg",
+        "IMG_20251001_201808_LL.jpg",
+        "IMG_20251001_201818_LL.jpg",
+        "IMG_20251001_201828_LL.jpg",
+        "IMG_20251001_201837_LL.jpg",
+        "IMG_20251001_201848_LL.jpg",
+        "IMG_20251001_203824_LL.jpg",
+        "IMG_20251001_203837_LL.jpg",
+        "IMG_20251001_203846_LL.jpg",
+        "IMG_20251001_203900_LL.jpg",
+        "IMG_20251001_203908_LL.jpg",
+        "IMG_20251001_203919_LL.jpg"
+    ],
+    "Gp14": [
+        "IMG_20251002_175714.jpg",
+        "IMG_20251002_175729_LL.jpg",
+        "IMG_20251002_175801.jpg",
+        "IMG_20251002_175811_LL.jpg",
+        "IMG_20251002_175822.jpg",
+        "IMG_20251002_175832_LL.jpg",
+        "IMG_20251002_175901.jpg",
+        "IMG_20251002_175911_LL.jpg",
+        "IMG_20251002_175917.jpg",
+        "IMG_20251002_175928_LL.jpg",
+        "IMG_20251002_175938.jpg",
+        "IMG_20251002_175950_LL.jpg",
+        "IMG_20251002_175958.jpg",
+        "IMG_20251002_180009_LL.jpg",
+        "IMG_20251002_180017_LL.jpg"
+    ],
+    "gp16": [
+        "group16_pages-to-jpg-0001.jpg",
+        "group16_pages-to-jpg-0002.jpg",
+        "group16_pages-to-jpg-0003.jpg",
+        "group16_pages-to-jpg-0004.jpg",
+        "group16_pages-to-jpg-0005.jpg",
+        "group16_pages-to-jpg-0006.jpg",
+        "group16_pages-to-jpg-0007.jpg",
+        "group16_pages-to-jpg-0008.jpg",
+        "group16_pages-to-jpg-0009.jpg",
+        "group16_pages-to-jpg-0010.jpg",
+        "group16_pages-to-jpg-0011.jpg",
+        "group16_pages-to-jpg-0012.jpg",
+        "group16_pages-to-jpg-0013.jpg",
+        "group16_pages-to-jpg-0014.jpg",
+        "group16_pages-to-jpg-0015.jpg",
+        "group16_pages-to-jpg-0016.jpg",
+        "group16_pages-to-jpg-0017.jpg",
+        "group16_pages-to-jpg-0018.jpg",
+        "group16_pages-to-jpg-0019.jpg",
+        "group16_pages-to-jpg-0020.jpg"
+    ],
+    "Metallurgy": [
+        "IMG_20251006_171946.jpg",
+        "IMG_20251006_171959.jpg",
+        "IMG_20251006_172004.jpg",
+        "IMG_20251006_172013.jpg",
+        "IMG_20251006_172016.jpg",
+        "IMG_20251006_172031.jpg",
+        "IMG_20251006_172051.jpg",
+        "IMG_20251006_172152.jpg",
+        "IMG_20251006_172201.jpg",
+        "IMG_20251006_172226.jpg",
+        "IMG_20251006_172239.jpg",
+        "IMG_20251006_172257.jpg",
+        "IMG_20251006_172322.jpg",
+        "IMG_20251006_172344.jpg",
+        "IMG_20251006_172358.jpg",
+        "IMG_20251006_172447.jpg",
+        "IMG_20251006_172517.jpg",
+        "IMG_20251006_172528.jpg",
+        "IMG_20251006_172541.jpg",
+        "IMG_20251006_172553.jpg",
+        "IMG_20251006_172610.jpg",
+        "IMG_20251006_172720.jpg",
+        "IMG_20251006_172751.jpg",
+        "IMG_20251006_172826.jpg",
+        "IMG_20251006_172840.jpg",
+        "IMG_20251006_172854.jpg",
+        "IMG_20251006_172904.jpg",
+        "IMG_20251006_172915.jpg"
+    ],
+    "Organometallic Compounds and the Grignard's Reagent": [
+        "IMG20250803212720.jpg",
+        "IMG20250803212728.jpg",
+        "IMG20250803212733.jpg",
+        "IMG20250803212741.jpg",
+        "IMG20250803212745.jpg",
+        "IMG20250803212750.jpg",
+        "IMG20250803212753.jpg",
+        "IMG20250803212758.jpg",
+        "IMG20250803212802.jpg",
+        "IMG20250803212807.jpg",
+        "IMG20250803212811.jpg",
+        "IMG20250803212816.jpg",
+        "IMG20250803212820.jpg",
+        "IMG20250803212826.jpg",
+        "IMG20250803212829.jpg",
+        "IMG20250803212851.jpg",
+        "IMG20250803212900.jpg",
+        "IMG20250803212911.jpg",
+        "IMG20250803212917.jpg",
+        "IMG20250803212927.jpg",
+        "IMG20250803212935.jpg",
+        "IMG20250803212941.jpg",
+        "IMG20250803212947.jpg"
+    ],
+    "Oxidation - Reduction": [
+        "IMG20250813212558.jpg",
+        "IMG20250813212609.jpg",
+        "IMG20250813212614.jpg",
+        "IMG20250813212624.jpg",
+        "IMG20250813212628.jpg",
+        "IMG20250813212645.jpg",
+        "IMG20250813212704.jpg",
+        "IMG20250813212717.jpg",
+        "IMG20250813212721.jpg",
+        "IMG20250813212732.jpg",
+        "IMG20250813212736.jpg",
+        "IMG20250813212745.jpg",
+        "IMG20250813212750.jpg",
+        "IMG20250813212801.jpg",
+        "IMG20250813212805.jpg",
+        "IMG20250813212815.jpg",
+        "IMG20250813212822.jpg",
+        "IMG20250813212837.jpg",
+        "IMG20250813212855.jpg",
+        "IMG20250813212903.jpg",
+        "IMG20250813212908.jpg",
+        "IMG20250813212918.jpg",
+        "IMG20250813212924.jpg",
+        "IMG20250813212933.jpg",
+        "IMG20250813212941.jpg",
+        "IMG20250813213000.jpg",
+        "IMG20250813213009.jpg",
+        "IMG20250813213023.jpg",
+        "IMG20250813213034.jpg"
+    ],
+    "POC": [
+        "IMG20251116153309.jpg",
+        "IMG20251116153321.jpg",
+        "IMG20251116153329.jpg",
+        "IMG20251116153337.jpg",
+        "IMG20251116153344.jpg",
+        "IMG20251116153356.jpg",
+        "IMG20251116153405.jpg",
+        "IMG20251116153414.jpg",
+        "IMG20251116153425.jpg",
+        "IMG20251116153434.jpg",
+        "IMG20251116153440.jpg",
+        "IMG20251116153447.jpg",
+        "IMG20251116153454.jpg",
+        "IMG20251116153501.jpg",
+        "IMG20251116153647.jpg",
+        "IMG20251116153659.jpg"
+    ],
+    "polymers": [
+        "polymers_page-0005.jpg",
+        "polymers_page-0006.jpg",
+        "polymers_page-0007.jpg",
+        "polymers_page-0008.jpg",
+        "polymers_page-0009.jpg",
+        "polymers_page-0010.jpg",
+        "polymers_page-0011.jpg",
+        "polymers_page-0012.jpg",
+        "polymers_page-0013.jpg",
+        "polymers_page-0014.jpg",
+        "polymers_page-0015.jpg",
+        "polymers_page-0016.jpg",
+        "polymers_page-0017.jpg",
+        "polymers_page-0018.jpg",
+        "polymers_page-0019.jpg",
+        "polymers_page-0020.jpg",
+        "polymers_page-0021.jpg",
+        "polymers_page-0022.jpg"
+    ]
+};
+        
+        let currentFolder = null;
+        let currentIndex = 0;
+        let currentZoom = 0; // 0 means 'fit-screen'
+        
+        // DOM Elements
+        const DOM = {
+            folderList: document.getElementById('folderList'),
+            viewer: document.getElementById('viewer'),
+            viewerContainer: document.getElementById('viewer-container'),
+            folderTitle: document.getElementById('folderTitle'),
+            controls: document.getElementById('controls'),
+            btnPrev: document.getElementById('btnPrev'),
+            btnNext: document.getElementById('btnNext'),
+            counter: document.getElementById('counter'),
+            sidebar: document.getElementById('sidebar'),
+            overlay: document.getElementById('overlay'),
+            btnMenu: document.getElementById('menu-btn'),
+            btnCloseSidebar: document.getElementById('close-sidebar'),
+            btnZoomIn: document.getElementById('btnZoomIn'),
+            btnZoomOut: document.getElementById('btnZoomOut'),
+            btnZoomReset: document.getElementById('btnZoomReset')
+        };
+
+        // 1. Initialize Sidebar
+        for (const folder in data) {
+            const btn = document.createElement('button');
+            btn.className = 'folder-btn';
+            btn.textContent = folder;
+            btn.onclick = () => loadFolder(folder);
+            DOM.folderList.appendChild(btn);
+        }
+
+        // 2. Folder & Image Loading
+        function loadFolder(folder) {
+            currentFolder = folder;
+            currentIndex = 0;
+            DOM.folderTitle.textContent = folder;
+            DOM.viewer.classList.remove('hidden');
+            DOM.controls.classList.remove('hidden');
+
+            // Highlight active
+            document.querySelectorAll('.folder-btn').forEach(b => b.classList.remove('active'));
+            const activeBtn = Array.from(document.querySelectorAll('.folder-btn')).find(b => b.textContent === folder);
+            if(activeBtn) activeBtn.classList.add('active');
+
+            closeSidebar();
+            resetZoom();
+            showImage();
+        }
+
+        function showImage() {
+            const images = data[currentFolder];
+            const path = encodeURIComponent(currentFolder) + '/' + encodeURIComponent(images[currentIndex]);
+            DOM.viewer.src = path;
+            
+            DOM.counter.textContent = (currentIndex + 1) + ' / ' + images.length;
+            DOM.btnPrev.disabled = currentIndex === 0;
+            DOM.btnNext.disabled = currentIndex === images.length - 1;
+            
+            DOM.viewerContainer.scrollTop = 0; // scroll to top of new page
+            preloadNext();
+        }
+
+        function preloadNext() {
+            const images = data[currentFolder];
+            if (currentIndex < images.length - 1) {
+                const img = new Image();
+                img.src = encodeURIComponent(currentFolder) + '/' + encodeURIComponent(images[currentIndex + 1]);
+            }
+        }
+
+        // 3. Navigation Functions
+        const goPrev = () => { if (currentIndex > 0) { currentIndex--; showImage(); } };
+        const goNext = () => { if (currentIndex < data[currentFolder].length - 1) { currentIndex++; showImage(); } };
+
+        DOM.btnPrev.onclick = goPrev;
+        DOM.btnNext.onclick = goNext;
+
+        // Smart image clicking (Left side = Prev, Right side = Next)
+        DOM.viewer.onclick = (e) => {
+            const rect = DOM.viewer.getBoundingClientRect();
+            const clickX = e.clientX - rect.left;
+            if (clickX < rect.width * 0.35) goPrev(); // Clicked left 35%
+            else goNext(); // Clicked right 65%
+        };
+
+        // Double click to toggle zoom
+        DOM.viewer.ondblclick = (e) => {
+            e.stopPropagation();
+            if (currentZoom === 0) setZoom(100);
+            else resetZoom();
+        };
+
+        // 4. Zoom Logic
+        function setZoom(percentage) {
+            currentZoom = Math.max(20, Math.min(percentage, 300)); // Clamp between 20% and 300%
+            DOM.viewer.classList.remove('fit-screen');
+            DOM.viewer.style.width = currentZoom + '%';
+        }
+        function resetZoom() {
+            currentZoom = 0;
+            DOM.viewer.style.width = '';
+            DOM.viewer.classList.add('fit-screen');
+        }
+
+        DOM.btnZoomIn.onclick = () => setZoom(currentZoom === 0 ? 120 : currentZoom + 20);
+        DOM.btnZoomOut.onclick = () => setZoom(currentZoom === 0 ? 80 : currentZoom - 20);
+        DOM.btnZoomReset.onclick = resetZoom;
+
+        // 5. Mobile Sidebar Toggles
+        const openSidebar = () => { DOM.sidebar.classList.add('open'); DOM.overlay.classList.add('active'); };
+        const closeSidebar = () => { DOM.sidebar.classList.remove('open'); DOM.overlay.classList.remove('active'); };
+        
+        DOM.btnMenu.onclick = openSidebar;
+        DOM.btnCloseSidebar.onclick = closeSidebar;
+        DOM.overlay.onclick = closeSidebar;
+
+        // 6. Keyboard shortcuts
+        document.addEventListener('keydown', (e) => {
+            if (!currentFolder) return;
+            if (e.key === 'ArrowLeft') goPrev();
+            if (e.key === 'ArrowRight') goNext();
+            if (e.key === '+' || e.key === '=') DOM.btnZoomIn.click();
+            if (e.key === '-') DOM.btnZoomOut.click();
+            if (e.key === '0') resetZoom();
+        });
+    </script>
+</body>
+</html>

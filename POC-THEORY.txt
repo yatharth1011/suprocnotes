@@ -1,0 +1,524 @@
+**ALLEN®**
+**Practical Organic Chemistry**
+
+---
+# **Practical Organic Chemistry**
+---
+
+## **CHEMICAL TESTS FOR FUNCTIONAL GROUPS**
+
+*   Elemental analyses, physical, spectral and solubility test give a reasonable idea regarding the identity of unknown compound.
+*   Despite the tremendous importance and ease of spectral analyses, chemical tests are indispensable to complete characterization.
+
+**1. Test Of Acidic Hydrogen; Unsaturation; Terminal Alkyne; Alcohols; Phenol**
+
+**(i) Sodium Metal**
+$2ROH \text{ (alcohol)} + 2Na \rightarrow 2RO^{-}Na^{+} + H_2(g)$
+
+*   **Positive Test:** evolution of gas
+*   The rate is highly variable and depends upon the alcohol structure.
+*   The sample must be water-free.
+*   Other Functional groups that give positive Test:
+    $R_2NH, RSH, RC \equiv C-H, RCO_2H$
+
+**(ii) Ceric Ammonium Nitrate Oxidation (CAN Test)**
+
+*   The reaction proceeds via the formation of a red complex which then oxidizes the alcohol, leading to the decolorization of the solution as Ce(IV) is reduced to Ce(III). The simplified reaction is:
+    $(NH_4)_2Ce(NO_3)_6 \text{ (ceric ammonium nitrate, yellow)} + ROH \text{ (alcohol)} \rightarrow \text{Red complex} \rightarrow Ce(III) \text{ products (colour decolourise)}$
+
+*   **Positive Test:** Color changes from yellow to red first then to colorless solution. (1 min. to 12 hrs)
+*   A positive test includes successively the formation, and then the disappearance of the red color.
+*   Very good test for $1^\circ$, $2^\circ$ alcohol, but slow for $3^\circ$ alcohol
+*   **Note:** Phenols gives brown or black products.
+
+**(iii) Jones Oxidation: Chromic anhydride or Chromium Trioxide ($CrO_3$)**
+
+*   A positive test for $1^\circ$ and $2^\circ$ alcohols consists in the changes from an orange-red color ($Cr^{6+}$) to opaque suspension with green to blue color ($Cr^{3+}$) in 2 sec.
+*   $3^\circ$ alcohols give no visible reaction within 2 sec. remaining orange.
+*   **Note:** Aldehydes give positive result.
+
+    $3RCH_2OH \text{ (1° alcohol)} + 4CrO_3 \text{ (orange-red)} + 6H_2SO_4 \rightarrow 3 \underset{\text{carboxylic acid}}{R-\overset{\Large O}{\overset{||}{C}}-OH} + 9H_2O + 2Cr_2(SO_4)_3 \text{ (intense blue to green)}$
+
+---
+Page 215
+
+**JEE-Chemistry**
+**ALLEN®**
+
+---
+
+$3RCH_2OH \text{ (1° alcohol)} + 4CrO_3 \text{ (orange-red)} + 6H_2SO_4 \rightarrow 3 \underset{\text{carboxylic acid}}{R-\overset{\Large O}{\overset{||}{C}}-OH} + 9H_2O + 2Cr_2(SO_4)_3 \text{ (intense blue to green)}$
+
+$3R_2CHOH \text{ (2° alcohol)} + 2CrO_3 \text{ (orange-red)} + 3H_2SO_4 \rightarrow 3 \underset{\text{ketone}}{R-\overset{\Large O}{\overset{||}{C}}-R} + 6H_2O + 2Cr_2(SO_4)_3 \text{ (intense blue to green)}$
+
+$3 \underset{\text{aldehyde}}{R-\overset{\Large O}{\overset{||}{C}}-H} + 2CrO_3 \text{ (orange-red)} + 3H_2SO_4 \rightarrow 3 \underset{\text{carboxylic acid}}{R-\overset{\Large O}{\overset{||}{C}}-OH} + 3H_2O + Cr_2(SO_4)_3 \text{ (blue to green)}$
+
+**(iv) Lucas Test (HCl/ZnCl$_2$)**
+
+*   Substrates that easily give rise to cationic character at the carbon bearing the hydroxyl group undergo the Lucas test readily
+
+    $R_2CHOH \text{ (2° alcohol)} + HCl \xrightarrow{ZnCl_2} R_2CHCl \text{ (alkyl halide)} + H_2O$
+
+    $R_3COH \text{ (3° alcohol)} + HCl \xrightarrow{ZnCl_2} R_3CCl \text{ (alkyl halide)} + H_2O$
+
+    **Positive Test:** Formation of insoluble layer or emulsion in 5-10 min
+
+    $\underset{H_3C-C(CH_3)_2-OH}{\Large \text{tert-butyl alcohol}} \xrightarrow{H^+} \underset{H_3C-C(CH_3)_2-OH_2^+}{\Large \text{protonated alcohol}} \xrightarrow{-H_2O} \underset{H_3C-C^+(CH_3)_2}{\Large \text{tert-butyl cation}} \xrightarrow{Cl^-} \underset{H_3C-C(CH_3)_2-Cl}{\Large \text{tert-butyl chloride}}$
+
+*   **Note:** Primary alcohols do not give positive result.
+
+*   Since the Lucas test depends on the appearance of the alkyl chloride as a second liquid phase, it is normally applicable only to alcohols that are soluble in the reagent.
+
+*   Allyl alcohol, although a primary alcohol, yields a carbocation that is relatively stable.
+
+    $CH_2=CH-CH_2-OH \xrightarrow{H^+, -H_2O} [CH_2=CH-CH_2^+ \leftrightarrow ^+CH_2-CH=CH_2]$
+
+*   Thus, allyl alcohol reacts rapidly with the Lucas reagent and the reaction is accompanied by the evolution of heat. Addition of ice water to the reaction results in the formation of the allyl chloride as a separate layer.
+
+---
+Page 216
+
+**ALLEN®**
+**Practical Organic Chemistry**
+
+**(v) Periodic Acid ($HIO_4$) Test for detection of Vicinal Diols and Related Compounds**
+
+*   $\underset{\text{vicinal diol}}{R-CH(OH)-CH(OH)-R} + HIO_4 \text{ (periodic acid)} \rightarrow 2 \underset{\text{aldehyde}}{R-CHO} + H_2O + HIO_3 \text{ (iodic acid)}$
+
+*   $\underset{\text{1,2-diketone}}{R-CO-CO-R} + HIO_4 \text{ (periodic acid)} + H_2O \rightarrow 2 \underset{\text{carboxylic acid}}{R-COOH} + HIO_3 \text{ (iodic acid)}$
+
+*   $\underset{\text{$\alpha$-hydroxy ketone}}{R-CH(OH)-CO-R'} + HIO_4 \text{ (periodic acid)} \rightarrow \underset{\text{carboxylic acid}}{R'-COOH} + \underset{\text{aldehyde}}{R-CHO} + HIO_3 \text{ (iodic acid)}$
+
+*   $\underset{\text{$\alpha$-hydroxyaldehyde}}{R-CH(OH)-CHO} + HIO_4 \text{ (periodic acid)} \rightarrow \underset{\text{carboxylic acid}}{H-COOH} + \underset{\text{aldehyde}}{R-CHO} + HIO_3 \text{ (iodic acid)}$
+
+*   $\underset{\text{$\beta$-hydroxyamine}}{R-CH(OH)-CH(R')-NHR'} + HIO_4 \text{ (periodic acid)} \rightarrow \underset{\text{aldehydes}}{R-CHO + R'-CHO} + HIO_3 + NH_3$
+
+*   The iodic acid is detected with 5% $AgNO_3$ solution -an immediate precipitation of silver iodate occurs.
+
+    $HIO_3 \text{ (iodic acid)} + AgNO_3 \text{ (silver nitrate)} \rightarrow HNO_3 + AgIO_3(s) \text{ (silver iodate (white))}$
+
+*   Olefins, $2^\circ$ alcohols, 1,3-glycols, ketones and aldehydes are not affected by $HIO_4$ under the test condition.
+
+**(vi) Acetyl Chloride**
+
+*   **Positive Test:** Evolution of heat and HCl gas and formation of ester as a top layer
+
+*   $ROH \text{ (alcohol)} + \underset{\text{acetyl chloride}}{CH_3COCl} \rightarrow \underset{\text{ester}}{CH_3COOR} + HCl(g)$
+
+*   $ArOH \text{ (phenol)} + \underset{\text{acetyl chloride}}{CH_3COCl} \rightarrow \underset{\text{ester}}{CH_3COOAr} + HCl(g)$
+
+*   $3^\circ$ alcohols form primarily alkyl chloride due to the reaction of the liberated HCl on another molecule of the alcohol.
+
+---
+Page 217
+
+Here is the transcription of the requested pages.
+
+### **Page 218**
+
+**JEE-Chemistry**
+**ALLEN®**
+
+*   Other functional groups that give positive test: $1^\circ$ and $2^\circ$ amines
+
+    $RNH_2 \text{ (1° amine)} + \underset{\text{acetyl chloride}}{CH_3COCl} \rightarrow \underset{\text{amide}}{CH_3CONHR} + HCl(g)$
+
+    $R_2NH \text{ (2° amine)} + \underset{\text{acetyl chloride}}{CH_3COCl} \rightarrow \underset{\text{amide}}{CH_3CONR_2} + HCl(g)$
+
+**2. Classification Tests for Unsaturation "alkenes & alkynes"**
+
+*   Alkanes are not usually characterized chemically because they are quite inert to most classification reactions
+*   Alkanes fall into solubility class I
+*   Mostly, rely on physical and spectral characterization
+
+**(i) Bromine in $CCl_4$**
+
+*   $\underset{\text{alkene}}{C=C} + Br_2 \text{ (red-brown)} \rightarrow \underset{\text{1,2-dibromoalkane (colourless)}}{C(Br)-C(Br)}$
+*   $\underset{\text{alkyne}}{-C \equiv C-} \xrightarrow{Br_2 \text{ (brown)}} \underset{\text{1,2-dibromoalkene}}{C(Br)=C(Br)} \xrightarrow{Br_2 \text{ (brown)}} \underset{\text{1,1,2,2-tetrabromoalkane (colourless)}}{C(Br)_2-C(Br)_2}$
+
+*   **Positive Test:** Bromine color discharged without evolution of gas ($HBr$)
+*   Alkenes & alkynes give positive results
+*   If $HBr$ is evolved, it indicates phenols, enols & enolizable compounds.
+*   Bromine color is discharged by amines to produce a salt, which could be mistaken for addition.
+
+**(ii) Baeyer Test ($KMnO_4$ aqueous)**
+
+*   $3 \underset{\text{alkene}}{C=C} + 2KMnO_4 \text{ (purple)} + 4H_2O \rightarrow 3 \underset{\text{1,2-diol}}{C(OH)-C(OH)} + 2KOH + 2MnO_2(s) \text{ (manganese dioxide (brown))}$
+*   $R-C \equiv C-R' \text{ (alkyne)} + 2KMnO_4 \text{ (potassium permanganate (purple))} + 2H_2O \rightarrow \underset{\text{salts of carboxylic acids}}{R-COO^-K^+ + R'-COO^-K^+} + 2H_2O + 2MnO_2(s) \text{ (manganese dioxide (brown))}$
+
+---
+### **Page 219**
+
+**ALLEN®**
+**Practical Organic Chemistry**
+
+*   **Positive Test:** Purple color discharges, and brown color ppt ($MnO_2$) appears
+*   **Note:** Aldehydes and alcohols also give positive result
+*   **Notes:** since the ionic character of the $Br_2$ and $KMnO_4$ reactions are very different, there is some complementary character between the two tests.
+*   For example, some alkenes bearing electron-withdrawing groups undergo rapid reaction with $KMnO_4$ but often slow or negligible reaction with $Br_2$.
+
+    $C_6H_5CH=CH_2 + Br_2 \xrightarrow{\text{rapid}} C_6H_5CH(Br)CH_2Br$
+
+    $C_6H_5CH=CHCOOH + Br_2 \xrightarrow{\text{slow}} C_6H_5CH(Br)CH(Br)COOH$
+*   A few tetrasubstituted olefins such as $C_6H_5CBr=CBrC_6H_5$ and $(C_6H_5)_2C=C(C_6H_5)_2$ fail to give positive tests with $Br_2$ in $CCl_4$ or $KMnO_4$ solution.
+
+**3. Tests for Phenols**
+*   As for alcohols, the acidic hydrogen in phenol can be detected with sodium (hydrogen gas is evolved) or with acetyl chloride (an ester layer is formed).
+
+    $ArOH \text{ (Phenol)} + \underset{\text{Acetyl chloride}}{CH_3COCl} \rightarrow \underset{\text{ester}}{CH_3COOAr} + HCl(g)$
+*   Phenols undergo reaction with yellow ceric ammonium nitrate to produce brown or black products.
+
+    $(NH_4)_2Ce(NO_3)_6 \text{ (ceric ammonium nitrate (yellow))} + ArOH \text{ (phenol)} \rightarrow \underset{\text{(brown or black)}}{(NH_4)_2Ce(NO_3)_5(OAr)} + HNO_3$
+*   Phenols reduce potassium permanganate solution and undergo oxidation to quinones.
+*   The manganese is reduced from +7 which gives a purple solution to +4 which is brown.
+
+    $3 \underset{\text{Phenol}}{ArOH} + 4KMnO_4 \rightarrow 3 \underset{\text{quinone}}{O=C_6H_4=O} + 4MnO_2 \text{ (brown)} + 4KOH + H_2O$
+
+**(i) Bromine water**
+*   $\underset{\text{phenol}}{C_6H_5OH} + 3Br_2 \rightarrow \underset{\text{2,4,6-tribromophenol (white)}}{Br_3C_6H_2OH} + 3HBr$
+*   **Positive Test:** decolorization of bromine.
+*   This is good for water soluble phenols
+
+---
+### **Page 220**
+
+**JEE-Chemistry**
+**ALLEN®**
+
+**(ii) Ferric Chloride - Pyridine Reagent**
+*   $3ArOH \text{ (phenol)} + FeCl_3 \xrightarrow{\text{Pyridine}} Fe(OAr)_3 \text{ (coloured complex)} + 3 \text{ Pyridinium chloride}$
+*   **Positive Test:** Production of blue, violet, purple, green, or red-brown colors
+*   Good for all types of Ar-OH.
+*   Positive test for enols.
+*   Carboxylic acid with $FeCl_3$ gives red colour only when saturating with $NH_3$.
+
+**4. Test For Carbonyl Compounds; Aldehyde; Iodoform Test; Haloform Test; Carboxylic Acids; Esters; Amide; Nitro Group; Primary Amines**
+
+**(i) 2,4-Dinitrophenyl Hydrazine**
+*   $\underset{\text{aldehyde/ketone}}{R-CO-R'} + \underset{\text{2,4-dinitrophenyl hydrazine}}{(NO_2)_2C_6H_3NHNH_2} \xrightarrow{pH(4.5-6.0)} \underset{\text{2,4-dinitrophenylhydrazone}}{(NO_2)_2C_6H_3NHN=C(R)R'}$
+*   **Positive Test:** formation of yellow, orange or red ppt.
+*   The precipitate may be oily at first and become crystalline on standing.
+
+**(ii) Phenyl hydrazine and p-Nitrophenyl hydrazine.**
+*   Structures shown for phenylhydrazine ($C_6H_5NHNH_2$) and p-nitrophenylhydrazine ($O_2NC_6H_4NHNH_2$).
+*   **Positive Test:** formation of yellow ppt.
+
+**(iii) Hydroxylamine Hydrochloride**
+*   $\underset{\text{aldehyde or ketone}}{R-CO-R'} + \underset{\text{hydroxylamine hydrochloride}}{NH_2OH \cdot HCl} \rightarrow \underset{\text{oxime}}{R-C(=NOH)-R'} + HCl + H_2O$
+*   The liberation of hydrogen chloride can be detected by the change in color from orange to red of a pH indicator.
+
+**(iv) Sodium Bisulfite ($NaHSO_3$)**
+*   $\underset{\text{aldehyde or ketone}}{R-CO-R'} + NaHSO_3 \rightarrow \underset{\text{sodium bisulfite addition complex}}{R-C(OH)(SO_3Na)-R'}$
+
+---
+### **Page 221**
+
+**ALLEN®**
+**Practical Organic Chemistry**
+
+*   **Positive Test:** formation of ppt; good for aldehydes, all give ppt
+*   Only some ketones give positive results (ppt)
+*   This reaction is greatly inhibited by the steric constraints about the carbonyl group.
+
+**(v) Iodoform Test (For Methyl Ketones)**
+*   $\underset{\text{methyl ketone}}{R-CO-CH_3} + 3I_2 + 3NaOH \rightarrow R-CO-CI_3 + 3NaI + 3H_2O$
+*   $R-CO-CI_3 + NaOH \rightarrow \underset{\text{sodium salt of the carboxylic acid}}{R-COO^-Na^+} + \underset{\text{iodoform (yellow solid)}}{CHI_3(s)}$
+*   **Positive Test:** Yellow ppt for methyl ketones
+*   **Disadvantages:** Some compounds that can be easily oxidized to methyl ketones give also positive results
+*   The principal types of compounds that give a positive test:
+
+    $\underset{\text{2° alcohol}}{R-CH(OH)-CH_3} + I_2 + 2NaOH \rightarrow \underset{\text{methyl ketone}}{R-CO-CH_3} + 2NaI + 2H_2O$
+*   **The test is negative for the following type:**
+    *   Structures shown: $CH_3-CO-CH_2-COOR$, $CH_3-CO-CH_2-CN$, $CH_3-CO-CH_2-NO_2$, etc...
+*   In such compounds the reagent removes the acetyl group and converts it to acetic acid, which resists iodination.
+*   Acetoacetic acid is unstable, acidic aqueous solutions decompose to give $CO_2$ and acetone.
+
+    $CH_3-CO-CH_2-COOH \xrightarrow{H^+} CH_3-CO-CH_3 + CO_2$
+*   The following type of compounds also give positive iodoform test after hydrolysis:
+
+    $R-CO-CH_2-COOR' + H_2O \xrightarrow{H^+} R-CO-CH_3 + R'OH + CO_2$
+
+Here is the transcription of the requested pages.
+
+### **Page 222**
+
+**JEE-Chemistry**
+**ALLEN®**
+
+**5. Tests that give positive results with aldehydes and negative results with Ketones**
+
+**(i) Jones Oxidation. Chromic anhydride or Chromium Trioxide ($CrO_3$)**
+(Refer Jones Oxidation for alcohols at Page No. 1)
+
+**(ii) Tollens Reagents $Ag(NH_3)_2OH$**
+$\underset{\text{aldehyde}}{R-CHO} + 2Ag(NH_3)_2OH \text{ (Tollens reagent)} \rightarrow 2Ag(s) + \underset{\text{salt of the carboxylic acid}}{R-COONH_4} + H_2O + 3NH_3$
+
+*   **Positive Test:** Formation of silver mirror (Ag(s)) or colloidal (granular) gray or black Ag precipitate.
+
+**(iii) Fuchsin Reagent**
+$2 \underset{\text{aldehyde}}{R-CHO} + \underset{\text{Schiff's reagent (colorless)}}{[H_2N-C_6H_4-CH-C_6H_4-NHSO_2H]Cl} \rightarrow \underset{\text{(violet-purple solution dye)}}{[H_2N-C_6H_4-CH(R)-N=S(OH)-C_6H_4-NH-CH(R)-C_6H_4-NH_2]Cl} + H_2SO_3$
+_Note: The specific structures of the Schiff's reagent and its adduct with aldehydes are complex. The reaction involves the addition of the aldehyde to the reagent, leading to a colored dye._
+
+**(iv) Bendicts solution and Fehling's Solution**
+*   **Positive Test:** yellow or yellowish green ppt.
+*   All aldehydes give positive result except aromatic aldehydes (negative)
+
+*   $\underset{\text{aldehyde}}{R-CHO} + 2Cu^{2+} \text{ (blue)} \rightarrow \underset{\text{carboxylic acid}}{R-COOH} + Cu_2O(s) \text{ (red, yellow, or yellowish green)}$
+*   $\underset{\text{$\alpha$-hydroxyketone}}{R-CH(OH)-CO-R} + 2Cu^{2+} \text{ (blue)} \rightarrow \underset{\text{1,2-diketone}}{R-CO-CO-R} + Cu_2O(s) \text{ (red, yellow, or yellowish green)}$
+*   $\underset{\text{$\alpha$-hydroxyaldehyde}}{R-CH(OH)-CHO} + 2Cu^{2+} \text{ (blue)} \rightarrow \underset{\text{1,2-diketone}}{HO-CO-CO-R} + Cu_2O(s) \text{ (red, yellow, or yellowish green)}$
+*   $\underset{\text{hydrazobenzene}}{Ar-NH-NH-Ar} + 2Cu^{2+} \text{ (blue)} \rightarrow \underset{\text{azocompound}}{Ar-N=N-Ar} + Cu_2O(s) \text{ (red, yellow, or yellowish green)}$
+
+---
+### **Page 223**
+
+**ALLEN®**
+**Practical Organic Chemistry**
+
+*   $\underset{\text{arylhydrazine}}{ArNHNH_2} + 2Cu^{2+} \text{ (blue)} \rightarrow ArH + ArOH + N_2(g) + Cu_2O(s) \text{ (red, yellow, or yellowish green)}$
+
+**6. Tests for Alkyl Halides**
+*   **Halogen analysis:**
+    Aliphatic halides are often detected initially by qualitative Halogen analysis.
+
+*   **Ethanolic Silver Nitrate & (ii) Sodium Iodide in Acetone**
+    Both tests involve displacement of halogen:
+    $AgNO_3$/ethanol test proceeds by a carbocation ($SN_1$) process NaI/acetone test proceeds by a direct displacement ($SN_2$).
+    $AgNO_3$/ethanol test: $R_3CX > R_2CHX > RCH_2X$
+    NaI/acetone test: $R_3CX < R_2CHX < RCH_2X$
+
+**(i) Ethanolic Silver Nitrate Solution**
+*   The reaction of alkyl halide with silver nitrate yields a silver halide precipitate
+    $RX \text{ (alkyl halide)} + AgNO_3 \text{ (silver nitrate)} \xrightarrow{CH_3CH_2OH} AgX(s) \text{ (silver halide)} + RONO_2$
+*   **Positive Test:** formation of ppt. Indicates $2^\circ$ and $3^\circ$ RX
+*   $1^\circ$ RX, Ar-X, and vinyl halides give negative Result.
+*   **Note:** allylic and benzylic RX give positive result
+*   The identity of the halogen can sometimes be determined from the color of the silver halide: AgCl (white); AgBr (pale yellow); AgI (yellow)
+
+**(ii) Sodium Iodide in Acetone Test**
+*   The NaI test can be used to test for the presence of bromine or chlorine.
+*   Sodium halide (NaX) precipitates from the solution.
+    $\underset{\text{alkyl chloride}}{RCl} + NaI \xrightarrow{\text{acetone}} \underset{\text{alkyl iodide}}{RI} + NaCl(s) \text{ (sodium chloride)}$
+    $\underset{\text{alkyl bromide}}{RBr} + NaI \text{ (sodium iodide)} \xrightarrow{\text{acetone}} \underset{\text{alkyl iodide}}{RI} + NaBr(s) \text{ (sodium bromide)}$
+*   **Positive Test:** precipitate forms
+*   **Indications:** $1^\circ$, $2^\circ$ RX, allylic and benzylic halides. Not good for ArX, vinyl halides, $CHCl_3$, and $3^\circ$ RX
+*   Since reactivity toward alcoholic silver nitrate is often very different from reactivity toward sodium iodide in acetone, both tests should be used with any halogen compound.
+
+**7. Test For Nitro Compounds**
+**(i) Ferrous Hydroxide Reduction**
+*   $RNO_2 \text{ (Nitroalkane)} + 6Fe(OH)_2 \text{ (ferrous hydroxide (green))} + 4H_2O \rightarrow RNH_2 + 6Fe(OH)_3 \text{ (ferric hydroxide (red-brown to brown))}$
+
+---
+### **Page 224**
+
+**JEE-Chemistry**
+**ALLEN®**
+
+*   **Positive Test:** Indicated by the change in color from green to red-brown or brown due to the oxidation of iron from +2 to +3.
+*   A negative test is indicated by a greenish precipitate.
+*   **Note:** Nitroso compounds, quinones, hydroxylamines alkyl nitrates give also positive results
+
+**(ii) Zinc and Ammonium Chloride Reduction**
+*   $RNO_2 \text{ (Nitro compound)} + 4[H] \xrightarrow{Zn/NH_4Cl} RNHOH \text{ (Hydroxylamine)} + H_2O$
+*   $RNHOH + 2Ag(NH_3)_2OH \text{ (Tollens reagent)} \rightarrow RNO + 2H_2O + 2Ag(s) + 4NH_3$
+*   Test the solution with Tollens Reagent
+*   **Positive Test:** formation of metallic silver
+*   Only $3^\circ$ aliphatic nitro compounds and aromatic nitro compounds are reduced by $Zn/NH_4Cl$ to the hydroxylamine.
+*   The hydroxylamine is then detected by the formation of metallic silver in the Tollens test (or formation of a black or grey precipitate). This is known as Mulliken-baker test:
+
+**(iii) Treatment of Aromatic Compounds with Sodium Hydroxide**
+*   The number of nitro groups on an aromatic ring can be determined by the reaction with NaOH
+*   In the reaction with NaOH:
+*   Mononitro aromatic compounds yield no color change or a very light yellow
+*   Dinitro aromatic compounds produce a bluish-purple color
+*   Trinitro aromatic compounds give a red color
+*   The color of the solution is due to a Meisenheimer complex
+
+    $\underset{\text{1,3,5-Trinitrobenzene}}{(O_2N)_3C_6H_3} + OH^- \leftrightarrow \underset{\text{Meisenheimer complex}}{\text{Anionic } \sigma \text{-complex}}$
+
+**8. Distinguish Between Primary, Secondary And Tertiary Amines; Distinguish Between Primary Aliphatic And Primary Aromatic Amines**
+
+**(i) Acetyl Chloride test:**
+*   **Note:** ROH give also positive result (heat).
+*   $1^\circ$ & $2^\circ$ amines react with acetyl chloride to produce amides which often precipitate from the solution when added to $H_2O$, along with heat evolution.
+
+---
+### **Page 225**
+
+**ALLEN®**
+**Practical Organic Chemistry**
+
+*   $3^\circ$ amines give only heat.
+*   $RNH_2 \text{ (1° amine)} + \underset{\text{acetyl chloride}}{CH_3COCl} \rightarrow \underset{\text{amide}}{CH_3CONHR} + HCl(g)$
+*   $R_2NH \text{ (2° amine)} + \underset{\text{acetyl chloride}}{CH_3COCl} \rightarrow \underset{\text{amide}}{CH_3CONR_2} + HCl(g)$
+
+**(ii) Nitrous Acid**
+*   Reaction of amines with nitrous acid (HONO) classifies the amine not only as $1^\circ, 2^\circ$, or $3^\circ$, but also as aliphatic or aromatic.
+*   $RNH_2 \text{ (1° aliphatic amine)} + HONO \text{ (nitrous acid)} + HCl \rightarrow [RN_2^+Cl^-] \text{ (diazonium salt (unstable at 0°))}$
+    $[RN_2^+Cl^-] \xrightarrow{H_2O \text{ spontaneous}} N_2(g) + ROH + RCl + ROR + \text{alkene}$
+*   $ArNH_2 \text{ (1° aromatic amine)} + HONO \text{ (nitrous acid)} + HCl \rightarrow ArN_2^+Cl^- \text{ (diazonium salt (unstable > 5°C))} \xrightarrow{H_2O} N_2(g) + ArOH + HCl$
+*   The diazonium salt of the primary aromatic amine reacts with sodium 2-napthol to produce a red-orange azo dye.
+    $\underset{\text{of the 1° aromatic amine}}{ArN_2^+Cl^- \text{ (diazonium salt)}} + \underset{\text{sodium 2-naphthol}}{C_{10}H_7O^-Na^+} \xrightarrow{NaOH} \underset{\text{azo dye (red-orange)}}{Ar-N=N-C_{10}H_6O^-Na^+} + NaCl + H_2O$
+*   $R_2NH \text{ (2° amine)} + HONO \text{ (nitrous acid)} \rightarrow \underset{\text{N-nitrosamine (yellow oil or solid)}}{R_2N-N=O} + H_2O$
+*   $3^\circ$ aliphatic amines do not react with nitrous acid, but they form a soluble salt. The reaction mixture gives an immediate positive test on the starch-iodide paper for nitrous acid.
+    $R_3N \text{ (3° aliphatic amine)} + H^+ \leftrightarrow R_3NH^+ \text{ (soluble)}$
+
+---
+### **Page 226**
+
+**JEE-Chemistry**
+**ALLEN®**
+
+*   $3^\circ$ aromatic amines react with nitrous acid to form the orange-colored hydrochloride salt of the C-nitrosoamine. Treating the solution with base liberates the blue or green C-nitrosoamine.
+    $\underset{\text{3° aromatic amine}}{ArNR_2} + HONO \text{ (nitrous acid)} + HCl \rightarrow \underset{\text{hydrochloride salt of C-nitrosoamine (orange)}}{[p-ON-C_6H_4-NHR_2]^+Cl^-} + H_2O \xrightarrow{NaOH} \underset{\text{C-nitrosoamine (green)}}{p-ON-C_6H_4-NR_2} + NaCl + H_2O$
+*   Although nitrous acid is useful for characterizing amines, other functional groups also react.
+*   A methylene group adjacent to a keto group is converted to an oximino group and alkyl mercaptans yield red S-alkyl thionitrites.
+
+    $CH_3-CO-CH_2CH_3 + HONO \rightarrow CH_3-CO-C(=NOH)CH_3 + H_2O$
+
+    $RCH_2SH + HONO \rightarrow \underset{\text{S-alkyl thionitrite (red)}}{RCH_2S-N=O}$
+
+**(iii) Hinsberg Test**
+*   Based on the reaction of the amine with benzenesulfonyl chloride and can be used to distinguish among $1^\circ, 2^\circ, \text{and } 3^\circ$ amines.
+*   $1^\circ$ amines: give solution that produce ppt after addition of HCl
+    $RNH_2 \text{ (1° amine)} + \underset{\text{benzenesulfonyl chloride}}{C_6H_5SO_2Cl} + 2NaOH \rightarrow \underset{\text{(soluble)}}{C_6H_5SO_2NR^-Na^+} + NaCl + 2H_2O$
+    $C_6H_5SO_2NR^-Na^+ \xrightarrow{H^+} \underset{\text{sulfonamide (insoluble)}}{C_6H_5SO_2NHR}$
+*   $2^\circ$ amines: give ppt - acidification of the solution does not dissolve the sulfonamide (i.e., the PPT is not soluble in NaOH or HCl)
+    $R_2NH \text{ (2° amine)} + \underset{\text{benzenesulfonyl chloride}}{C_6H_5SO_2Cl} + NaOH \rightarrow \underset{\text{sulfonamide (insoluble)}}{C_6H_5SO_2NR_2} + NaCl + H_2O$
+    $C_6H_5SO_2NR_2 \xrightarrow{H^+} \text{No Reaction}$
+
+### **Page 227**
+
+**ALLEN®**
+**Practical Organic Chemistry**
+
+*   $3^\circ$ amines undergo reaction with benzenesulfonyl chloride to produce quaternary ammonium sulfonate salts, which yield sodium sulfonate and insoluble $3^\circ$ amines in basic solution. Acidification of the reaction mixture results in the formation of sulfonic acids and soluble amine salts.
+
+    $R_3N + C_6H_5SO_2Cl \rightarrow \text{ [Initial reaction under basic conditions yields:] }$
+    $\underset{\text{(soluble)}}{C_6H_5SO_3^-Na^+} + \underset{\text{(insoluble)}}{NR_3} + NaCl + H_2O \xrightarrow{2HCl} C_6H_5SO_3H + R_3NH^+Cl^- \text{ (soluble)} + 2NaCl$
+
+*   The results of the Hinsberg test must not be used alone in classifying amines. The solubility of the original compounds must also be considered.
+
+*   If the original compound is amphoteric, which means that it is soluble in both acids and alkalies, the Hinsberg method fails to distinguish among the types of amines.
+
+**(iv) Sodium Hydroxide Treatment of Ammonium Salt and Amine Salts**
+
+*   Amine salts can be detected by treating the salt with NaOH to liberate ammonia or amine.
+
+    $\underset{\text{ammonium salt}}{R-COO^-NH_4^+} + NaOH \rightarrow \underset{\text{salt of a carboxylic acid}}{R-COO^-Na^+} + NH_3 \text{ (ammonia)} + H_2O$
+
+    $\underset{\text{amine salt}}{RNH_3^+X^-} + NaOH \rightarrow \underset{\text{1° amine}}{RNH_2} + NaX + H_2O$
+
+*   Moistened pink litmus paper placed in the vapor above the solution will turn blue if ammonia or a volatile amine is present.
+
+**Sodium Metal**
+
+*   The active hydrogen on $1^\circ$ and $2^\circ$ amines undergo reaction with sodium to form salt and liberate hydrogen gas.
+
+    $2RNH_2 \text{ (1° amine)} + 2Na \rightarrow 2RNH^-Na^+ + H_2(g)$
+
+    $2R_2NH \text{ (2° amine)} + 2Na \rightarrow 2R_2N^-Na^+ + H_2(g)$
+
+**9. Tests for Amino Acids**
+
+**(i) Ninhydrin Test:**
+
+*   Amino acids and p-amino acids react with ninhydrin to give a positive test which is blue or blue-violet color.
+
+---
+### **Page 228**
+
+**JEE-Chemistry**
+**ALLEN®**
+
+*   **Ninhydrin Test Reaction Scheme:**
+
+    $\underset{\text{ninhydrin}}{C_6H_4(CO)_2C(OH)_2} + \underset{\text{$\alpha$-amino acid}}{RCH(NH_2)COOH} \rightarrow [Intermediate] \rightarrow C_6H_4(CO)C=N-CHR-COOH + H_2O$
+
+    $C_6H_4(CO)C=N-CHR-COOH + H_2O \rightarrow C_6H_4(CO)_2CH-NH_2 + RCHO + CO_2$
+
+    $C_6H_4(CO)_2CH-NH_2 + \underset{\text{ninhydrin}}{C_6H_4(CO)_2C(OH)_2} \rightarrow \underset{\text{(blue to blue-violet)}}{\text{Colored Product (Ruhemann's purple)}}$
+
+*   Ammonium salts ($NH_4^+Cl^-$) give a positive test.
+
+*   Some amines, such as aniline, yield orange to red colors, which is considered a negative test.
+
+*   Proline, hydroxyproline, and 2-, 3-, and 4-aminobenzoic acids fail to give **Blue color but produce a yellow color instead.**
+
+**(ii) Copper Complex Formation**
+
+*   $2 \underset{\text{$\alpha$-amino acid}}{RCH(NH_2)COOH} + Cu^{2+} \rightarrow \underset{\text{copper complex (blue)}}{\text{bis(aminoacidato)copper(II)}}$
+
+*   Reaction with copper(II) sulfate solution yields a moderate-to deep-blue liquid or a dark-blue solid.
+
+**10. Tests for Aromatics**
+
+*   If the molecule already contains reactive chemical substituents (acids, amines, ethers, carbonyl compounds, etc..) use the corresponding classification test for that particular group.
+
+*   New substituents can be added onto the aromatic ring or existing substituents can be modified, such that the new **Compound may be more readily characterized.**
+
+**(i) Fuming Sulfuric Acid**
+
+*   $ArH \text{ (aromatic compound)} + H_2SO_4/SO_3 \rightarrow ArSO_3H \text{ (arylsulfonic acid)} + \text{heat}$
+
+*   This test is good for aromatics with no other functional groups.
+
+*   **Positive Test:** the aromatic compound dissolves completely in $H_2SO_4$ with the evolution of heat (Fuming).
+
+---
+### **Page 229**
+
+**Practical Organic Chemistry**
+
+**(ii) Chloroform and Aluminum Chloride**
+
+*   $3ArH \text{ (aromatic compound)} + CHCl_3 \xrightarrow{AlCl_3} \underset{\text{triarylmethane}}{Ar_3CH} + 3HCl$
+    The colored species is the triaryl carbocation, $Ar_3C^+$.
+
+*   **Positive Test:** Aromatics give colored solution or powder. (Orange, red, blue, purple, green)
+*   Non aromatics give yellow color (Negative result).
+
+**(iii) Azoxybenzene and Aluminum Chloride**
+
+*   The color of the solution or precipitate is dependent on the functional groups present on the aryl group.
+*   Aromatic hydrocarbons and their halogen derivatives produce a deep orange to dark-red color in solution or give a precipitate.
+*   Fused aromatic rings (such as naphthalene, anthracene, and phenanthrene) produce brown color).
+*   Aliphatic hydrocarbons give no color or, at most, a pale yellow.
+
+**11. Tests for Ethers**
+
+*   **Caution:** ethers form extremely explosive peroxides upon standing, specially when exposed to air and/or light. Liquid ethers that show solid precipitates should not be handled.
+*   Ethers are only a little more polar and slightly more reactive than either saturated hydrocarbons or alkyl halides.
+
+**(i) Hydroiodic Acid (Zeisel's Alkoxyl method)**
+
+*   $ROR + 2HI \rightarrow 2RI + H_2O$
+*   $ArOR \text{ (ether)} + HI \text{ (hydroiodic acid)} \rightarrow ArOH \text{ (phenol)} + RI \text{ (alkyl iodide)}$
+*   $Hg(NO_3)_2 \text{ (mercuric acetate)} + 2RI \xrightarrow{H_2O} \underset{\text{mercuric iodide (orange)}}{HgI_2}\downarrow + 2ROH + 2HNO_3$
+
+*   **Positive Test:** Orange or Orange-red color indicating mercuric iodide.
+*   **Note:** Ethyl and methyl esters give also positive result.
+
+**(iii) Iodine Test for Ethers and Unsaturated Hydrocarbons**
+
+*   $R_2O: + I_2 \leftrightarrow R_2O:I_2$
+*   Alkene $+ I_2 \leftrightarrow \text{Alkene-}\pi\text{-complex-}I_2$
+
+*   **Positive test:** the color of the solution changes from purple to tan.
+*   Aromatic hydrocarbons, saturated hydrocarbons, fluorinated hydrocarbons and chlorinated hydrocarbons do not react.
+*   Unsaturated hydrocarbons produce a light-tan solid, while retaining the purple color of the iodine solution.
+
+---
+### **Page 230**
+
+**JEE-Chemistry**
+**ALLEN®**
+
+**(A) ELEMENTAL ANALYSIS**
+**Lassaigne method (Detection of elements)**
+
+| Element | Sodium Extract (S.E.) | Confirmed Test | Reactions |
+| :--- | :--- | :--- | :--- |
+| **Nitrogen** | $Na + C + N \xrightarrow{\Delta} NaCN \text{ (S.E.)}$ | S.E. + $FeSO_4$ + NaOH, boil and cool, +$FeCl_3$ + conc. HCl $\rightarrow$ Blue/green colour | $\begin{aligned} & FeSO_4 + 2NaOH \rightarrow Fe(OH)_2\downarrow + Na_2SO_4 \\ & Fe(OH)_2 + 6NaCN \rightarrow Na_4[Fe(CN)_6] + 2NaOH \\ & 3Na_4[Fe(CN)_6] + 4FeCl_3 \xrightarrow{H_2O} \underset{\text{Prussian blue}}{Fe_4[Fe(CN)_6]_3}\downarrow + 12NaCl \end{aligned}$ |
+| **Sulphur** | $2Na + S \xrightarrow{\Delta} Na_2S \text{ (S.E.)}$ | $\begin{gathered} \text{(i) S.E.+ sodium nitroprusside (A)} \\ \rightarrow \text{A deep violet colour.} \\ \text{(ii) S.E. + } CH_3COOH \text{ + } (CH_3COO)_2Pb \\ \rightarrow \text{A black ppt.} \end{gathered}$ | $\begin{aligned} & \text{(i) } Na_2S + \underset{\text{(A)}}{Na_2[Fe(CN)_5NO]} \rightarrow \underset{\text{deep violet}}{Na_4[Fe(CN)_5NOS]} \\ & \text{(ii) } Na_2S + (CH_3COO)_2Pb \xrightarrow{CH_3COOH} \underset{\text{black ppt.}}{PbS}\downarrow + 2CH_3COONa \end{aligned}$ |
+| **Halogen** | $Na + X \xrightarrow{\Delta} NaX \text{ (S.E.)}$ | $\begin{gathered} \text{S.E. + } HNO_3 \text{ + } AgNO_3 \\ \text{(i) White ppt. soluble in aq. } NH_3 \text{ confirms Cl} \\ \text{(ii) Yellow ppt partially soluble in aq. } NH_3 \text{ confirm Br} \\ \text{(iii) Yellow ppt insoluble in aq } NH_3 \text{ confirms I} \end{gathered}$ | $\begin{gathered} NaX + AgNO_3 \xrightarrow{HNO_3} AgX\downarrow \text{ ppt} \\ \underset{\text{white ppt}}{AgCl} + 2NH_3(aq) \rightarrow \underset{\text{Soluble}}{[Ag(NH_3)_2]Cl} \end{gathered}$ |
+| **Nitrogen and Sulphur together** | $Na + C + N + S \xrightarrow{\Delta} NaCNS \text{ (S.E.)}$ | As in test for nitrogen; instead of green or blue colour, blood red coloration confirms presence of N and S both | $NaCNS + FeCl_3 \rightarrow \underset{\text{blood red colour}}{[Fe(CNS)]Cl_2} + NaCl$ |

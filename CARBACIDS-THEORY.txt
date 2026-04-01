@@ -1,0 +1,894 @@
+---
+### **Page 1**
+
+### **Carboxylic Acid & Its Derivatives**
+## **CARBOXYLIC ACID AND ITS DERIVATIVES**
+
+### **1.0 INTRODUCTION - CARBOXYLIC ACID**
+
+Organic compounds having -COOH group are called as Carboxylic acids. This functional group is composed of
+Carbonyl ($-\overset{\large\text{O}}{\overset{||}{\text{C}}}-$) and hydroxyl (—OH) group.
+
+$\overset{\large\text{O}}{\overset{||}{\text{C}}}- + -OH \rightarrow -\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH$
+Carbonyl group $\quad$ Hydroxyl group $\quad\quad$ Carboxylic group
+
+The properties of the carboxylic group are not simply the combined properties of these two groups, but it has its own distinctive properties. The acidic nature of carboxylic acids is due to the presence of replaceable H-atom in the Carboxylic group. The general formula is $C_nH_{2n}O_2$.
+
+### **1.1 CLASSIFICATION**
+**1. Monocarboxylic acid (RCOOH)**
+Having one carboxylic group, also called monobasic acid. General formula - $C_nH_{2n}O_2$ (n= 1, 2, 3, ........). Higher mono carboxylic acids are called **fatty acids**.
+**Example :** $CH_3COOH$ acetic acid
+
+**2. Dicarboxylic acid**
+Having two carboxylic groups, also called dibasic acid.
+**Example :** $COOH-COOH$ Oxalic acid
+
+**3. Tricarboxylic acid**
+Having three carboxylic groups also called tribasic acid.
+**Example :** $HO-\overset{CH_2COOH}{\underset{CH_2COOH}{\underset{|}{\text{C}}}}-COOH$ Citric acid
+
+#### **NOMENCLATURE**
+| Acid | Common name | IUPAC name |
+|---|---|---|
+| HCOOH | Formic acid (formica-red ants) | Methanoic acid |
+| $CH_3COOH$ | Acetic acid (acetum-vinegar) | Ethanoic acid |
+| $CH_3CH_2COOH$ | Propionic acid (Propan-first pion fat) | Propanoic acid |
+| $CH_3CH_2CH_2COOH$ | Butyric Acid (Butter-butyrums) | Butanoic acid |
+| $CH_3CH_2CH_2CH_2COOH$ | Valeric acid (valerian-plant root) | Pentanoic acid |
+| $C_5H_{11}COOH$ | Caproic acid | Hexanoic acid |
+| $C_7H_{15}COOH$ | Caprylic acid | Octanoic acid |
+| $C_9H_{19}COOH$ | Capric acid | Decanoic acid |
+Last three acids are found in goat fat - (Caper: Goat).
+
+---
+### **Page 2**
+
+### **JEE-Chemistry**
+
+### **1.2 GENERAL METHODS OF PREPARATION**
+
+**1. By oxidation of primary alcohol with acidic $KMnO_4$ or acidic $K_2Cr_2O_7$**
+$R-CH_2OH + [O] \xrightarrow{KMnO_4/H^+} RCHO + H_2O \xrightarrow{[O]} RCOOH$
+$K_2Cr_2O_7/H^+$
+
+**2. By oxidation of aldehydes**
+Aldehydes on oxidation with usual oxidizing agent gives carboxylic acid with same number of carbon atoms as in the aldehyde.
+$R-CHO + [O] \xrightarrow{\text{Tollen's Reagent}} R-COO^{\ominus} \xrightarrow{H^{\oplus}} R-COOH$
+$C_6H_5CHO + [O] \rightarrow C_6H_5COO^{\ominus} \rightarrow C_6H_5COOH$
+
+**3. By oxidation of Alkenes**
+(a) $RCH=CHR' \xrightarrow{\text{(i) conc. } KMnO_4 / OH^{\ominus} \text{ heat}} \xrightarrow{\text{(ii) } H_3O^+} RCOOH + R'COOH$
+(b) $RCH=CHR' \xrightarrow{\text{(i) } O_3} \xrightarrow{\text{(ii) } Zn/H_2O, \text{Oxidative}} RCOOH + R'COOH$
+
+**4. By Carboxylation of Grignard Reagent**
+$R-Br \xrightarrow{Mg, \text{Dry ether}} RMgBr \xrightarrow{CO_2} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OMgBr \xrightarrow{H_2O/H^+} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH$
+
+**5. By hydrolysis of derivatives of carboxylic acid**
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-Cl + H_2O \xrightarrow{H^+ \text{ or } OH^-} R-COOH + HCl$
+$(R-CO)_2O + H_2O \xrightarrow{H^+ \text{ or } OH^-} 2R-COOH$
+$R-COOR + H_2O \xrightarrow{H^+ \text{ or } OH^-} R-COOH + ROH$
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-NH_2 + H_2O \xrightarrow{H^+ \text{ or } OH^-} R-COOH + NH_3$
+
+**6. Cyanide hydrolysis with dilute acids**
+$R-CN \xrightarrow{H_3O^{\oplus}} RCOOH$
+The mechanism of hydrolysis of R-CN is as follows.
+$R-C\equiv N \xrightarrow{H^\oplus} R-C\equiv \overset{\oplus}{N}H \leftrightarrow R-\overset{\oplus}{C}=NH$
+$\xrightarrow{H_2O} R-\overset{\oplus O H_2}{\underset{NH_2}{\underset{|}{C}}} \xrightarrow{-H^\oplus} R-\overset{OH}{\underset{NH_2}{\underset{|}{C}}} \rightarrow R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-NH_2$
+$\xrightarrow{H_2O, H^\oplus} \dots \rightarrow R-\overset{OH}{\underset{\oplus NH_3}{\underset{|}{C}}}-OH \rightarrow R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH + \overset{\oplus}{N}H_4$
+
+---
+### **Page 3**
+
+### **7. From Amides**
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-NH_2 \xrightarrow{NaNO_2, HCl} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH$
+
+### **1.3 PHYSICAL PROPERTIES OF CARBOXYLIC ACID**
+These are polar substances and can form H-bonds with each other to form dimer structures.
+$R-O-H \cdot\cdot\cdot\cdot O=C(OH)-R$
+$R-(HO)C=O \cdot\cdot\cdot\cdot H-O-R$
+
+**1. Boiling Point**
+Due to dimeric structure, the effective molecular mass of the acid becomes double the actual mass. Hence Carboxylic acids have higher boiling points than alcohols of comparable molecular masses.
+
+**2. Solubility**
+Due to hydrogen bonding carboxylic acid show appreciable solubility in water. Its solubility in water is greater than alcohol because H-bonding strength is given in order of
+Carboxylic acid > alcohol.
+
+**3. Melting Point**
+The melting point of the carboxylic acid with even number of carbon atoms is higher than acid with odd number of carbon atoms. Such effect is observed in first ten members of the homologous series. This feature is based on the fact that in the carboxylic acids with even number of carbon atoms, the terminal methyl group and carboxylic group are on the opposite sides of zig-zag carbon atom chain. Hence they fit better in the crystal lattice resulting in stronger inter molecular forces than the other acids acids with odd number of carbon atom have carboxyl and terminal methyl group on the same side of zig-zag carbon chain which result in poor fitting in the crystal lattice. This causes a weak forces among molecules and result for the relatively lower melting point.
+The melting point are usually higher than those of aliphatic acid of comparable molecular masses. This is due to planar structure of benzene ring in the acid which can pack closely in the crystal than aliphatic acids.
+
+### **1.4 CHEMICAL PROPERTIES OF CARBOXYLIC ACID**
+**1. Acidity of carboxylic acid**
+Acidity is relative case with which it loses a proton leaving behind the anion. Its acid strength depends upon the difference in the stability of the acid and its anion.
+
+$[R-\overset{:\ddot{O}:}{\overset{||}{C}}-\ddot{O}-H \leftrightarrow R-\overset{:\ddot{O}:^{\ominus}}{\overset{|}{\underset{\oplus}{C}}}-\ddot{O}-H] \rightleftharpoons H^{\oplus} + [R-\overset{:\ddot{O}:}{\overset{||}{C}}-\ddot{O}:^{\ominus} \leftrightarrow R-\overset{:\ddot{O}:^{\ominus}}{\overset{|}{\underset{\ominus}{C}}}-\ddot{O}:]$
+non-equivalent structures of resonance hybrid
+equivalent structures of resonance hybrid
+
+both acid and its anion are stabilized by resonance, stabilization is far greater for the anion than for acid because anion gives two identical resonating structure.
+
+**Reaction due to cleavage of -O-H bond as acid**
+$-\overset{\large\text{O}}{\overset{||}{C}}-O-H$
+
+*   **Reaction with active metals [alkali and alkaline metal]**
+    $R-\overset{\large\text{O}}{\overset{||}{C}}-OH \xrightarrow{Na} R-\overset{\large\text{O}}{\overset{||}{C}}-ONa + H_2(\uparrow)$
+
+---
+### **Page 4**
+
+### **JEE-Chemistry**
+
+*   **Reaction with CaO**
+    $2R-COOH + CaO \rightarrow (RCOO)_2Ca + H_2O$
+
+*   **Reaction with Bicarbonates and Carbonates**
+    Carboxylic acid reacts with carbonates and bicarbonates to liberate CO$_2$ gas
+    $R-COOH \xrightarrow{NaHCO_3} R-COONa + CO_2 + H_2O$
+    $(R-COO)_2 \xrightarrow{Ca(CO_3)_2} (R-COO)_2Ca + CO_2 + H_2O$
+
+**2. Esterification**
+When carboxylic acid reacts with alcohol in the presence of conc. H$_2$SO$_4$ to form ester, it is known as esterification
+$R-\overset{\large\text{O}}{\overset{||}{C}}-OH + R'-OH \xrightarrow{conc. H_2SO_4} R-\overset{\large\text{O}}{\overset{||}{C}}-OR' + H_2O$
+
+*   **Mechanism**
+    $H_2SO_4 \rightleftharpoons H^+ + HSO_4^-$
+    $R-\overset{\large\text{O}}{\overset{||}{C}}-\ddot{O}-H + H^+ \rightleftharpoons R-\overset{\large\text{O}}{\overset{||}{C}}-\overset{\oplus}{O}H_2 \leftrightarrow R-\overset{\oplus OH}{\overset{|}{\underset{OH}{C}}} \xrightarrow{R'OH} \dots \rightarrow R-\overset{\large\text{O}}{\overset{||}{C}}-OR'$
+    The relative reactivity of alcohol to ester formation markedly dependent on their structure.
+    Reactivity is inversely proportional to steric crowding.
+    $CH_3OH > CH_3CH_2OH > (CH_3)_2CHOH > (CH_3)_3COH$
+    $H-COOH > CH_3COOH > (CH_3)_2CHCOOH > (CH_3)_3CCOOH$
+
+**3. Formation of acid chloride**
+$R-COOH \xrightarrow{PCl_5} R-COCl + HCl + POCl_3$
+$R-COOH \xrightarrow{SOCl_2} R-COCl + SO_2 \uparrow + HCl$
+
+**4. Formation of Acid Anhydride**
+Carboxylic acid on treatment with any dehydrating agent as $P_2O_5$ to form anhydride by elimination of water molecule.
+$2R-\overset{\large\text{O}}{\overset{||}{C}}-OH \xrightarrow{P_2O_5, \Delta} (R-\overset{\large\text{O}}{\overset{||}{C}})_2O + H_2O$
+$CH_3COOH \xrightarrow{P_2O_5, \Delta} (CH_3CO)_2O + H_2O$
+Succinic acid $\xrightarrow{\Delta}$ Succinic anhydride
+
+**5. Formation of Amides**
+$R-\overset{\large\text{O}}{\overset{||}{C}}-OH + MeNH_2 \rightarrow [R-\overset{\large\text{O}}{\overset{||}{C}}-O]^{\ominus} \overset{\oplus}{N}H_3Me \xrightarrow[-H_2O]{\text{heat}} R-\overset{\large\text{O}}{\overset{||}{C}}-NHMe$
+
+---
+### **Page 5**
+
+The lone pair electron on N atom undergoes resonance and hence N atom carries partial +ve charge on it.
+$R-\overset{\large\text{O}}{\overset{||}{C}}-\ddot{N}HMe \leftrightarrow R-\overset{\large :O:^{\ominus}}{\overset{|}{\text{C}}}=\overset{\oplus}{N}HMe$
+This extent of H-bonding increases which makes the boiling and melting points of amides higher than other acid derivatives.
+
+**6. Soda lime Decarboxylation**
+Carboxylic acid on heating with soda lime (NaOH and CaO) give alkane with one carbon atom less than the parent acid.
+$R-COOH \xrightarrow{\text{soda lime}} R-H + CO_2$
+
+**7. Hunsdiecker Reaction**
+$R-COOH \xrightarrow{Ag_2O, -H_2O} R-COO^{\ominus}Ag^{\oplus} \xrightarrow{Br_2, \text{ in } CCl_4} R-Br + AgBr + CO_2$
+
+*   **Mechanism**
+    Reaction proceeds through free radical mechanism in various steps.
+    **(i) Chain initiation :**
+    $R-\overset{\large\text{O}}{\overset{||}{C}}-O-Br \rightarrow R-\overset{\large\text{O}}{\overset{||}{C}}-O^{\bullet} + Br^{\bullet}$
+    **(ii) Chain propagation step :**
+    $R^{\bullet} + CO_2$
+    $R-\overset{\large\text{O}}{\overset{||}{C}}-O-Br + R^{\bullet} \rightarrow R-Br + R-\overset{\large\text{O}}{\overset{||}{C}}-O^{\bullet}$
+    **(iii) Chain termination :**
+    $R^{\bullet} + R^{\bullet} \rightarrow R-R$
+    $R^{\bullet} + Br^{\bullet} \rightarrow R-Br$
+    $R-\overset{\large\text{O}}{\overset{||}{C}}-O^{\bullet} + R^{\bullet} \rightarrow R-\overset{\large\text{O}}{\overset{||}{C}}-O-R$
+
+**8. With excess of organometallic compounds**
+$RCOOH \xrightarrow{CH_3Li} RCOOLi + CH_4$
+$R-COOLi + CH_3Li \xrightarrow{2H_2O, \text{Hydrolysis}} R-\overset{OH}{\underset{CH_3}{\underset{|}{C}}}-OH \rightarrow R-\overset{\large\text{O}}{\overset{||}{C}}=CH_2$
+*Correction: The last step is incorrect. Hydrolysis of the dilithio intermediate gives a gem-diol, which dehydrates to a ketone.*
+$R-\overset{OLi}{\underset{CH_3}{\underset{|}{C}}}-OLi \xrightarrow{2H_2O} [R-\overset{OH}{\underset{CH_3}{\underset{|}{C}}}-OH] \rightarrow R-\overset{\large\text{O}}{\overset{||}{C}}-CH_3$
+2 moles of organolithium compounds are needed to form ketone.
+
+**9. Hell-Volhard-Zelinsky Reaction**
+This is $\alpha$-halogenation of a carboxylic acid.
+$R-\overset{OH}{\underset{|}{C}}H-COOH \xrightarrow{\text{Red P, } Br_2} R-\overset{OH}{\underset{Br}{\underset{|}{C}}}H-COOH$
+$\alpha$-bromo acid
+
+---
+### **Page 6**
+
+### **JEE-Chemistry**
+
+$H_3C-COOH \xrightarrow{Cl_2, \text{Red P}} H_2ClC-COOH \xrightarrow{Cl_2, \text{Red P}} CHCl_2COOH \xrightarrow{Cl_2, \text{Red P}} CCl_3COOH$
+The reaction has a great synthetic importance as the halogen atom can be replaced by a number of other groups giving useful products.
+$R-\underset{Cl}{\underset{|}{C}}H-COOH \xrightarrow{NH_3} R-\underset{NH_2}{\underset{|}{C}}H-COOH$ ($\alpha$-amino acid)
+$R-\underset{Cl}{\underset{|}{C}}H-COOH \xrightarrow{KOH(aq.), -KCl} R-\underset{OH}{\underset{|}{C}}H-COOH$ ($\alpha$-hydroxy acid)
+$R-\underset{Cl}{\underset{|}{C}}H-COOH \xrightarrow{KOH(alc.), -HCl} R-CH=CH-COOH$ ($\alpha, \beta$-unsaturated acid)
+$R-\underset{Cl}{\underset{|}{C}}H-COOH \xrightarrow{KCN, -KCl} R-\underset{CN}{\underset{|}{C}}H-COOH \xrightarrow{H_2O/H^+} \dots$
+
+**10. Arndt Eistert Reaction**
+Reaction of acyl chloride with diazomethane in presence of Ag$_2$O and water. (Arndt – Eistert synthesis).
+This reaction convert acyl chloride to carboxylic acid with one carbon atom more :
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-Cl + 2CH_2N_2 \rightarrow R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-\overset{\ominus}{C}H-N_2^{\oplus} + CH_3Cl + N_2$
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-\ddot{C}H-N_2 \xrightarrow{Ag_2O} R-CH=C=O \xrightarrow{H_2O} R-CH_2-COOH$
+$\quad\quad\quad\quad\quad\quad$ Ketene
+
+**11. Heating of $\beta$-keto acid**
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_2-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH \xrightarrow{100-150^\circ C} R-\overset{\large\text{O}}{\overset{||}{C}}-CH_3 + CO_2$
+$\beta$-keto acid
+
+There are two facts on which ease of decarboxylation depends.
+**(i) When the carboxylate ion decarboxylate, it forms a resonance stabilized enolate ion.**
+$R-\overset{\large\text{O}}{\overset{||}{C}}-CH_2-\overset{\large\text{O}}{\overset{||}{C}}-O^{\ominus} \xrightarrow{-CO_2} R-\overset{\large\text{O}}{\overset{||}{C}}-\overset{\ominus}{C}H_2 \leftrightarrow R-\overset{O^{\ominus}}{\overset{|}{\text{C}}}=CH_2$
+Resonance stabilized enolate anion
+Due to the resonance enolate ion is much more stable than normal carbanion.
+
+**(ii) When the acid itself decarboxylates it can do so through a six-membered cyclic transition state.**
+$[R-C(=O)-CH_2-C(=O)-OH \text{ cyclic transition state}] \xrightarrow{\Delta} [R-C(OH)=CH_2] + CO_2$
+$\xrightarrow{\text{Tautomerisation}} R-\overset{\large\text{O}}{\overset{||}{C}}-CH_3$
+
+---
+### **Page 7**
+
+*   **Mechanism**
+    $[R-C(=O)-CH_2-C(=O)-OH \text{ cyclic transition state}] \xrightarrow{\Delta} -CO_2 \rightarrow [R-C(OH)=CH_2] \xrightarrow{\text{Tautomerisation}} R-\overset{\large\text{O}}{\overset{||}{C}}-CH_3$
+    6 membered cyclic transition state $\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad$ keto form
+
+$\beta$-keto acid on warming in presence of a base undergoes rapid removal of CO$_2$.
+$Ph-\overset{Br}{\underset{|}{C}}H-\overset{\large\text{O}}{\overset{||}{C}}-OH \xrightarrow{KOH \text{ base}} [Ph-\overset{Br}{\underset{|}{C}}H-\overset{\large\text{O}}{\overset{||}{C}}-O^{\ominus}] \xrightarrow{-CO_2} Ph-\overset{\ominus}{C}H_2 + CO_2$
+This decarboxylation proceeds through elimination.
+
+**12. Heating of $\alpha, \beta$ and $\gamma$ Hydroxy Acid**
+**(i)** $2 H_3C-\overset{\alpha}{C}H(OH)-COOH \xrightarrow{\Delta} \text{[Lactide]}$
+$\alpha$-hydroxy Acid
+
+**(ii)** $H_3C-\overset{\beta}{C}H(OH)-\overset{\alpha}{C}H_2-COOH \xrightarrow{\Delta} H_3C-CH=CH-COOH$
+$\beta$-hydroxy Acid $\quad\quad\quad\quad$ $\alpha, \beta$-Unsaturated Carboxylic Acid
+
+**(iii)** $H_3C-\overset{\gamma}{C}H(OH)-CH_2-CH_2-COOH \xrightarrow{\Delta} \text{[}\gamma\text{-Lactone]}$
+$\gamma$-hydroxy Acid
+
+**13. Reaction of $\alpha, \beta$ and $\gamma$ halo carboxylic acid with aq. NaOH**
+$H_3C-\overset{\alpha}{C}H(Br)-COOH \xrightarrow{OH^{\ominus}} H_3C-\overset{\alpha}{C}H(OH)-COO^{\ominus}$
+
+$H_3C-\overset{\beta}{C}H(Br)-COOH \xrightarrow{OH^{\ominus}, E_2} H_2C=CH-COO^{\ominus}$
+
+---
+### **Page 8**
+
+$H_3C-\overset{\gamma}{C}H(Br)-(CH_2)_2-COOH \xrightarrow{OH^{\ominus}} \text{[}\gamma\text{-Lactone]}$
+Cyclization of $\gamma$ haloacid
+
+**14. Heating of Dicarboxylic Acids**
+*   **1, 2 - dicarboxylic acid**
+    $HOOC-COOH \xrightarrow{\Delta, -CO_2} HCOOH \xrightarrow{\Delta} CO + H_2O$
+*   **1, 3 - dicarboxylic acid**
+    $HOOC-CH_2-COOH \xrightarrow{\Delta} CH_3COOH + CO_2$
+*   **1, 4 - dicarboxylic acid**
+    $HOOC-(CH_2)_2-COOH \xrightarrow{\Delta} \text{Succinic Anhydride}$
+*   **1, 5 - dicarboxylic acid**
+    $HOOC-(CH_2)_3-COOH \xrightarrow{\Delta} \text{[Glutaric Anhydride]}$
+*   **1, 6 - dicarboxylic acid**
+    $HOOC-(CH_2)_4-COOH \xrightarrow{\Delta} \text{[Cyclopentanone]} + H_2O + CO_2$
+*   **1, 7 - dicarboxylic acid**
+    $HOOC-(CH_2)_5-COOH \xrightarrow{\Delta} \text{[Cyclohexanone]} + H_2O + CO_2$
+*   **1, 8 - dicarboxylic acid**
+    $HOOC-(CH_2)_6-COOH \xrightarrow{\Delta} -[OC-(CH_2)_6-COO]-_n$
+    Polymer
+
+*   **Blanc's Rule**
+    (1,4), (1,5) dicarboxylic acids give cyclic anhydride where as (1,6), (1,7) dicarboxylic acids give cyclic ketones on heating.
+
+---
+### **Page 9**
+
+**15. Oxidation of Carboxylic acid at $\alpha$-position**
+Oxidation can also occur at $\alpha$ carbon atom on treatment with oxidizing agent like selenium dioxide $SeO_2$.
+$RCH_2COOH + [O] \xrightarrow{SeO_2} R-\overset{\large\text{O}}{\overset{||}{C}}-COOH + Se + H_2O$
+$\quad\quad\quad\quad\quad\quad\quad\quad\quad$ $\alpha$ Keto acid
+
+**16. Abnormal Behaviour of Formic Acid**
+The behaviour of formic acid is different from other carboxylic acid due to presence of aldehydic group.
+Aldehydic Group $\leftarrow H-\overset{\large\text{O}}{\overset{||}{C}}-OH \rightarrow$ Carboxylic Group
+
+*   **Reaction with Tollen's reagent and Fehling Solution**
+    **(a) Tollen's reagents :** formic acid behaves as a reducing agent and reduces Tollen's reagent or Fehling solution. But others acid fail to do so.
+    $H-COOH + Ag_2O \rightarrow CO_2 + H_2O + 2Ag \downarrow$ Silver mirror
+    $H-COOH + 2CuO \rightarrow CO_2 + H_2O + Cu_2O \downarrow$ Red ppt.
+    **(b) Reaction with $HgCl_2$ :** Formic acid forms white ppt. of $Hg_2Cl_2$ with $HgCl_2$ which is converted to Grey ppt of mercury.
+    $2HCOOH + HgCl_2 \rightarrow CO_2 + Hg_2Cl_2 + 2HCl$ white ppt.
+
+#### **Test for HCOOH and CH$_3$COOH**
+| Test | HCOOH | CH$_3$COOH |
+|---|---|---|
+| (i) Reducing character: Tollen reagent, Fehling solution, HgCl$_2$ (Corrosive sublimate), $K_2Cr_2O_7$ | Reducing agents: Silver mirror, $Cu_2O$ red, (Calomel) $Hg_2Cl_2$, $Cr^{+3}$ | - |
+| (ii) Decarboxylation. | $Na_2CO_3 + H_2$ | $CH_4$ |
+
+### **1.5 USES OF FORMIC ACID**
+**(i)** As an antiseptic
+**(ii)** For leather tanning.
+**(iii)** As a coagulating agent for rubber.
+**(iv)** For preservation of fruits.
+**(v)** In dying wool and cotton fabrics.
+**(vi)** For hydrogenation of oil as Ni-formate.
+
+### **1.6 USES OF ACETIC ACID**
+**(i)** Vinegar (6- 10% solution) used as **table acid** and manufacture of pickles.
+**(ii)** In the form of salts, it is used in medicine and paints.
+**(iii)** For manufacture of rubber from latex and casein from milk $CH_3COOH$ is used as coagulant.
+**(iv)** Al and Cr acetates are used as mordants.
+**(v)** In the manufacture of dyes and perfumes.
+**(vi)** As a solvent and laboratory reagent.
+
+### **GOLDEN KEY POINTS**
+*   Carboxylic acid gives CO$_2$ gas on reaction with NaHCO$_3$.
+*   Carboxylic acid gives fruity smell on reaction with alcohol in acidic medium.
+
+---
+### **Page 10**
+
+### **1.7 DEGRADATION REACTIONS**
+
+**1. By Hofmann's Bromamide Reaction (Hofmann's Hypobromite Reaction)**
+This is a general method for the conversion of alkanamides in to one carbon less primary amines. Ethanamide is heated with bromine and excess of KOH.
+$CH_3CONH_2 + Br_2 + 4KOH \rightarrow CH_3NH_2 + K_2CO_3 + 2KBr + 2H_2O$
+*   **Mechanism**
+    **Step 1:** $CH_3-CONH_2 + Br_2 + KOH \rightarrow CH_3CONHBr + KBr + H_2O$
+    N-bromoethanamide
+    **Step 2:** $CH_3-\overset{\large\text{O}}{\overset{||}{C}}-NHBr \xrightarrow{KOH} CH_3-\overset{\large\text{O}}{\overset{||}{C}}-\overset{\ominus}{N}-Br + H_2O + K^{\oplus}$
+    **Step 3:** $CH_3-\overset{\large\text{O}}{\overset{||}{C}}-\overset{\ominus}{N}-Br \xrightarrow{R.D.S} CH_3-N=C=O$ (Methyl Isocyanate)
+    **Step 4:** $CH_3-N=C=O + 2KOH \rightarrow CH_3NH_2 + K_2CO_3$
+
+**2. Curtius Reaction**
+Acid chloride on treatment with sodium azide give acid azides which on pyrolysis gives isocyanates which on hydrolysis give corresponding amines.
+$RCOCl \xrightarrow{NaN_3} R-\overset{\large\text{O}}{\overset{||}{C}}-N_3 \xrightarrow{\Delta} R-NH_2 + N_2$
+Acid chloride $\quad\quad$ Alkyl amine
+*   **Mechanism**
+    $RCOCl + NaN_3 \rightarrow RCON_3 + NaCl$
+    $R-\overset{\large\text{O}}{\overset{||}{C}}-\ddot{N}=\overset{\oplus}{N}=\overset{\ominus}{\ddot{N}} \leftrightarrow R-\overset{\large\text{O}}{\overset{||}{C}}-\overset{\ominus}{\ddot{N}}-\overset{\oplus}{N}\equiv N \rightarrow R-N=C=O \xrightarrow{H_2O} R-NH-\overset{\large\text{O}}{\overset{||}{C}}-OH \xrightarrow{-CO_2} R-NH_2$
+    Alkyl isocyanate
+
+**3. Schmidt Reaction**
+In presence of conc. H$_2$SO$_4$ alkanoic acid reacts with hydrazoic acid ($N_3H$) to yield alkylamine.
+$R-COOH + N_3H \xrightarrow{Conc. H_2SO_4} R-NH_2 + N_2 + CO_2$
+*   **Mechanism**
+    [Mechanism scheme showing protonation of carboxylic acid, attack by hydrazoic acid, rearrangement with loss of N$_2$, and hydrolysis to form the amine.]
+
+---
+### **Page 11**
+
+**4. Lossen Rearrangement Reaction**
+In this reaction hydroxamic acid undergoes rearrangement and gives alkyl amine.
+$R-\overset{\large\text{O}}{\overset{||}{C}}-NH-OH + R'-\overset{\large\text{O}}{\overset{||}{C}}-Cl \xrightarrow{KOH} R-\overset{\large\text{O}}{\overset{||}{C}}-N-O-\overset{\large\text{O}}{\overset{||}{C}}-R' \xrightarrow{KOH} R-\overset{\ominus}{\ddot{N}}-\overset{\large\text{O}}{\overset{||}{C}}-O-\overset{\large\text{O}}{\overset{||}{C}}-R'$
+Hydroxamic acid
+$\rightarrow R-N=C=O \xrightarrow{H_2O, -CO_2} R-NH_2$
+
+### **1.8 THE BECKMANN REARRANGEMENT**
+The acid catalysed transformation of a Ketoxime to an N-substituted amide is known as the Beckmann rearrangement.
+$R-\overset{R'}{\underset{||}{C}}=N-OH \xrightarrow{H_2SO_4 \text{ or } PCl_5 \text{ or } SOCl_2} R'-\overset{\large\text{O}}{\overset{||}{C}}-NH-R$
+*   **Mechanism**
+    [Mechanism scheme showing protonation of the oxime hydroxyl group, departure of water, migration of the anti-R' group to the electron-deficient nitrogen, and subsequent hydrolysis of the resulting nitrilium ion to form the N-substituted amide.]
+The rearrangement is catalysed by a variety of acidic reagents such as $H_3PO_2$, $H_2SO_4$, $SOCl_2$, $PCl_5$, etc.
+
+---
+### **BEGINNER'S BOX-1**
+**1.** Which of the following orders of acid strength is correct :
+(A) RCOOH > HOH > ROH > HC$\equiv$CH
+(B) RCOOH > ROH > HOH > HC$\equiv$CH
+(C) RCOOH > ROH > HC$\equiv$CH > HOH
+(D) RCOOH > HC$\equiv$CH > HOH > ROH
+
+**2.** Which of the following compounds gives carbondioxide with $NaHCO_3$?
+(A) Acetic acid
+(B) Hexanol
+(C) Phenol
+(D) Acetylene
+
+**3.** In which reaction product is hydrocarbon?
+(A) RCOOK $\xrightarrow{\text{Eletrolysis}}$
+(B) RCOOAg $\xrightarrow{I_2/\Delta}$
+(C) $CH_3-CH_3 \xrightarrow{Cl_2/hv}$
+(D) $CH_3-\overset{CH_3}{\underset{Cl}{\underset{|}{C}}}-Cl \xrightarrow{C_2H_5OH}$
+
+**4.** Benzoic acid reacts with $Ca(OH)_2$. The product obtained on dry distillation gives–
+(A) Benzophenone
+(B) Acetophenone
+(C) Benzaldehyde
+(D) None of these
+
+### **Page 12**
+
+### **JEE-Chemistry**
+
+**5.** Reducing property of formic acid is due to the presence of :
+(A) -OH
+(B) $-\overset{\large\text{O}}{\overset{||}{\text{C}}}-\text{H}$
+(C) $-\overset{\large\text{O}}{\overset{||}{\text{C}}}-\text{OH}$
+(D) All of these
+
+**6.** Sodium bicarbonate reacts with salicylic acid to form:
+(A) [Sodium phenoxide with COONa group]
+(B) [Sodium salicylate with OH group]
+(C) [Sodium phenoxide with COOH group]
+(D) [Sodium salicylate, disodium salt]
+
+**7.** The carboxylic acids react with hydrazoic acid in presence of H$_2$SO$_4$ to form a primary amine. This reaction is called as :
+(A) Curtius rearrangement
+(B) Lossen rearrangement
+(C) Schmidt reaction
+(D) Schotten-Baumann reaction
+
+**8.** The treatment of $CH_3CH_2COOH$ with chlorine in the presence of phosphorus gives :
+(A) $CH_3CH_2COOCH_3$
+(B) $CH_3CH_2CHCl_2$
+(C) $CH_3CH(Cl)COOH$
+(D) $ClCH_2CH_2COOH$
+
+**9.** Which one of the following compounds gives carboxylic acid with $HNO_2$?
+(A) $C_6H_5-\overset{\large\text{O}}{\overset{||}{\text{C}}}-Cl$
+(B) $C_6H_5CONH_2$
+(C) $CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_3$
+(D) $CH_3COOC_2H_5$
+
+**10.** Which acid can be oxidised by Fehling solution:
+(A) Malonic acid
+(B) Acetic acid
+(C) Oxalic acid
+(D) formic acid
+
+**11.** What is the final product (B) of this sequence :
+[Toluene] $\xrightarrow{Br_2, \text{light}} A \xrightarrow{1. KCN} \xrightarrow{2. H_3O^+, \text{Heat}} B$
+(A) [o-Methylbenzoic acid]
+(B) [Phenylacetic acid]
+(C) [m-Methylbenzoic acid]
+(D) [Benzoic acid]
+
+---
+
+### **ACID DERIVATIVES**
+
+*   **DERIVATIVES OF CARBOXYLIC ACID**
+    The -OH of an acid can be replaced by -Cl, -OR, or -NH$_2$ group to yield an acid chloride an ester or an amide. These compounds are called functional derivatives of acid and they all contain acyl group. The functional derivatives are all readily converted into the acid by simple hydrolysis.
+
+    $R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH \xrightarrow[-H_2O]{+ZH} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-Z$
+    Acid $\quad\quad\quad\quad$ Acid derivative
+
+    $R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-$ is Acyl group and Z is nucleophile $Cl^{\ominus}, CH_3COO^{\ominus}, C_2H_5O^{\ominus}, NH_2^{\ominus}$ etc.
+
+---
+### **Page 13**
+
+### **Carboxylic Acid & Its Derivatives**
+[Reaction scheme showing formation of acid derivatives]
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH \xrightarrow[-X]{-OH} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-X$ (Acyl halide)
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH \xrightarrow[+NH_2]{-OH} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-NH_2$ (Amide)
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH \xrightarrow[+OR]{-OH} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OR$ (Ester)
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH \xrightarrow[+RCOO]{-OH} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O-\overset{\large\text{O}}{\overset{||}{\text{C}}}-R$ (Anhydride)
+
+### **2.0 CHARACTERISTIC REACTION FOR ACID DERIVATIVES IS NUCLEOPHILIC SUBSTITUTION REACTION**
+*   **Mechanism**
+    $CH_3-\overset{\large\text{O}}{\overset{||}{\underset{Z}{\underset{|}{C}}}} + Nu^{\ominus} \rightarrow CH_3-\overset{\large :O:^{\ominus}}{\underset{Z \quad Nu}{\underset{| \quad |}{C}}} \rightarrow CH_3-\overset{\large\text{O}}{\overset{||}{\underset{Nu}{\underset{|}{C}}}} + Z^{\ominus}$
+    $sp^2$ hybrid C-atom $\quad$ $sp^3$ hybrid C-atom
+    In this reaction Z is leaving group. Weak bases are good leaving groups.
+    Reactivity order - depends on the basic Character of Z
+    basicity : $Cl^- < CH_3COO^- < C_2H_5O^- < NH_2^-$
+    In the given groups Cl$^-$ is the weakest base so it is the best leaving group.
+
+*   **Reactivity order**
+    $CH_3COCl > CH_3COOCOCH_3 > CH_3COOC_2H_5 > CH_3CONH_2$
+    In acid derivatives the carbonyl group $>C=O$ is attached to highly electronegative $-Cl, CH_3COO-, -NH_2$ etc. group due to electron withdrawing effect of these groups, the electron density on the carbonyl carbon is reduced further. Thus acyl group is readily attacked by $\overset{\ominus}{Nu}$ shows nucleophilic substitution reaction.
+
+### **3.0 ACYL CHLORIDE (RCOCl)**
+These are the derivatives of carboxylic acid in which hydroxyl (-OH) part of carboxyl group is replaced by halo group. The most reactive compound of halo leaving group is chloro compounds.
+
+### **3.1 METHODS OF PREPARATION**
+Carboxylic acid chloride can be prepared by the reaction of carboxylic acid with $PCl_5$ or $SOCl_2$ or $PCl_3$.
+$R-COOH \xrightarrow{PCl_5, C_5H_5N} RCOCl + HCl + POCl_3$
+$R-COOH \xrightarrow{PCl_3, C_5H_5N} RCOCl + H_3PO_3$
+$R-COOH \xrightarrow{SOCl_2, C_5H_5N} RCOCl + SO_2 + HCl$
+
+---
+### **Page 14**
+
+### **JEE-Chemistry**
+
+### **3.2 CHEMICAL PROPERTIES**
+**A. Nucleophilic Substitution Reaction**
+[Flowchart showing reactions of Acyl Chloride, R-CO-Cl]
+*   $\rightarrow R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-ONa$
+*   $\xrightarrow{ROH, \text{base}} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OR$ (Ester)
+*   $\xrightarrow{NH_3} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-NH_2$ (Amide)
+*   $\xrightarrow{CH_3NH_2} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-NH-CH_3$ (N-methylacetamide)
+*   $\xrightarrow{(R)_2NH} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-N-R_2$ (N, N-dimethylacetamide)
+*   $\xrightarrow{H_2O \text{ (water)}} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH$
+*   $\xrightarrow{OH^{\ominus}/\text{aq., base}} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O^{\ominus} + Cl^{\ominus}$
+*   $\xrightarrow{R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-ONa} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O-\overset{\large\text{O}}{\overset{||}{\text{C}}}-R$ (Anhydride)
+
+**B. Catalytic hydrogenation**
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-Cl + H_2 \xrightarrow{Pd, BaSO_4} RCHO + HCl$ **(Rosenmund's Reaction)**
+
+$RCOCl + 4H \xrightarrow{LiAlH_4 \text{ or } NaBH_4 \text{ or } C_2H_5OH/Na} R-CH_2OH + HCl$
+
+*   **Mechanism**
+    $R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-Cl \xrightarrow{LiAlH_4, H_2O} [R-\overset{O^{\ominus}}{\underset{H}{\underset{|}{C}}}-Cl]_{\text{intermediate}} \xrightarrow{-Cl^{\ominus}} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-H_{\text{aldehyde}} \xrightarrow{LiAlH_4} R-CH_2OH_{\text{Alcohol}}$
+
+**C. Reaction with KCN**
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-Cl + KCN \rightarrow R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CN \xrightarrow{H_2O} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-COOH$ ($\alpha$ keto acid (Pyruvic acid))
+
+**D. Reaction with AgNO$_3$**
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-Cl + AgNO_3(aq.) \rightarrow R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH + AgCl\downarrow + HNO_3$
+The aliphatic acid chlorides are readily decomposed by water therefore aqueous solution of acid chloride gives white ppt with AgNO$_3$.
+
+### **4.0 ACID ANHYDRIDES (RCOOCOR)**
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O-\overset{\large\text{O}}{\overset{||}{\text{C}}}-R$
+
+---
+### **Page 15**
+
+### **Carboxylic Acid & Its Derivatives**
+Acid anhydrides are considered to be derived from carboxylic acids by the removal of a molecule of water from two molecules of the acid.
+$2R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH \rightarrow R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O-\overset{\large\text{O}}{\overset{||}{\text{C}}}-R + H_2O$
+carboxylic acid $\quad$ acetic anhydride
+
+### **4.1 METHODS OF PREPARATION**
+**A. Acylation**
+Carboxylic acid reacts with acyl chloride in the presence of pyridine to give carboxylic acid anhydride.
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH + R'-\overset{\large\text{O}}{\overset{||}{\text{C}}}-Cl + \text{[Pyridine]} \rightarrow R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O-\overset{\large\text{O}}{\overset{||}{\text{C}}}-R' + \text{[Pyridinium chloride]}$
+
+**B. Reaction of acyl chloride with sodium salt of carboxylic acid**
+$2R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-ONa + R'-\overset{\large\text{O}}{\overset{||}{\text{C}}}-Cl \rightarrow R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O-\overset{\large\text{O}}{\overset{||}{\text{C}}}-R' + NaCl$
+In this reaction a carboxylate ion acts as a nucleophile and brings about a nucleophilic substitution reaction at the acyl carbon of acyl chloride.
+
+**C. Cyclic anhydrides**
+By simple heating the appropriate dicarboxylic acid. This method leads to a five or six membered ring.
+Succinic acid $\xrightarrow{300^\circ C}$ Succinic anhydride $+ H_2O$
+Phthalic acid $\xrightarrow{230^\circ C}$ Phthalic anhydride $+ H_2O$
+
+### **4.2 CHEMICAL PROPERTIES**
+Acid anhydride are good acylating agents. Their reactions are less vigorous than the corresponding acyl halides.
+[Reactions of acid anhydride, $(R-CO)_2O$]
+*   $\xrightarrow{ROH} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OR + R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH$
+*   $\xrightarrow{NH_3} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-NH_2 + R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH$
+*   $\xrightarrow{H_2O, \text{hydrolysis}} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH + R'-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH$
+*   $\xrightarrow{OH^{\ominus}/H_2O} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O^{\ominus} + R'-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O^{\ominus}$
+
+---
+### **Page 16**
+
+### **5.0 ESTERS (RCOOR)**
+Ester are the derivative of the carboxylic acid in which the -OH part of the carboxylic group has been replaced by -OR group where R may be alkyl or aryl group.
+
+### **5.1 METHODS OF PREPARATION**
+(a) $RCOOH + C_2H_5OH \xrightarrow{H^+/H_2O} R-COOC_2H_5 + H_2O$
+(b) $R-COOH + CH_2N_2 \xrightarrow{\text{ether}} RCOOCH_3 + N_2$
+Ester
+(c) $R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-Cl + C_2H_5OH \xrightarrow{C_5H_5N} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OC_2H_5 + HCl$
+(d) $R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O-\overset{\large\text{O}}{\overset{||}{\text{C}}}-R + C_2H_5OH \xrightarrow{C_5H_5N} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OC_2H_5 + R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH$
+
+### **5.2 CHEMICAL PROPERTIES**
+**A. Conversion to other esters (Transesterifications)**
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OR' + R''-OH \xrightarrow{H^{\oplus}} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OR'' + R'-OH$
+
+**B. Conversion to amides**
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OR' + HN\langle_{R'''}^{R''} \rightarrow R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-N\langle_{R'''}^{R''} + R'-OH$
+
+**C. Reaction with Grignard Reagent**
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OR' + 2R''MgX \xrightarrow{\text{diethyl ether}, -R'OMgX} R-\overset{OMgX}{\underset{R''}{\underset{|}{C}}}-R'' \xrightarrow{H^+} R-\overset{OH}{\underset{R''}{\underset{|}{C}}}-R''$ (3° alcohol)
+
+**D. Reduction of ester**
+$MeCO_2CH_2COOC_2H_5 \xrightarrow{NaBH_4} MeCH(OH)CH_2COOC_2H_5$
+$MeCO_2CH_2COOC_2H_5 \xrightarrow{LiAlH_4} MeCH(OH)CH_2CH_2OH + C_2H_5OH$
+Phthalic anhydride $\xrightarrow{LiAlH_4}$ [1,2-bis(hydroxymethyl)benzene]
+
+---
+### **Page 17**
+
+**E. Reaction of NH$_3$ with keto ester**
+$R-CO-CH_2CO_2C_2H_5 + NH_3 \rightarrow R-\overset{NH_2}{\underset{|}{C}}=CHCO_2C_2H_5 + H_2O$
+*   **Mechanism**
+    $R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_2COOC_2H_5 \xrightarrow{NH_3} R-\overset{OH}{\underset{NH_2}{\underset{|}{C}}}-CH_2COOC_2H_5 \xrightarrow{H^{\oplus}} \dots \xrightarrow{-H_2O} R-\overset{NH_2}{\underset{|}{C}}=CH-COOC_2H_5$
+    Attack will occur at carbonyl group first because of high degree of +ve charge on carbonyl carbon atom.
+
+**F. Acyloin condensation**
+$2R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OR \xrightarrow{Na/Xylene} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH(OH)-R$
+$\alpha$-hydroxyl ketone
+*   **Mechanism**
+    It is the intermolecular, sodium promoted condensation of two moles of ester or the intra molecular condensation of a ester to $\alpha$-hydroxy ketone (acyloin).
+    [Mechanism of Acyloin condensation showing electron donation from Na, dimerization, elimination of alkoxide, and tautomerization to form the acyloin product.]
+
+**G. Claisen condensation**
+When two molecules of ester undergo a condensation reaction, the reaction is called Claisen condensation. The product of the Claisen condensation is a $\beta$-keto ester.
+$2H_3C-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OC_2H_5 \xrightarrow{^{\ominus}OCH_2CH_3Na^{\oplus}} H_3C-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_2-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OC_2H_5 + C_2H_5OH$
+$\beta$-keto ester
+After nucleophilic attack, the aldol addition and the Claisen condensation differs. In the Claisen condensation, the negatively charged oxygen reforms the carbon oxygen $\pi$-bond and eliminates the OR group.
+
+*   **Mixed claisen condensation**
+    [Benzoyl acetate] $+ H_3C-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OC_2H_5 \xrightarrow{\text{(i) } CH_3CH_2O^{\ominus}} \xrightarrow{\text{(ii) } H^{\oplus}} \text{[Ethyl benzoylacetate]}$
+    $\beta$-keto ester
+
+---
+### **Page 18**
+
+### **JEE-Chemistry**
+
+*   **Intramolecular claisen condensation**
+    Dieckmann condensation : The addition of base to a 1,6-diester causes the diester to undergo intramolecular claisen condensation forming a five membered ring $\beta$-keto ester. An intramolecular claisen condensation is called a Dieckmann condensation.
+    [Dimethyl adipate] $\xrightarrow{\text{(i)} CH_3O^{\ominus}} \xrightarrow{\text{(ii)} H^{\oplus}} \text{[Methyl 2-oxocyclopentanecarboxylate]} + CH_3OH$
+    [Dimethyl pimelate] $\xrightarrow{\text{(i)} CH_3O^{\ominus}} \xrightarrow{\text{(ii)} H^{\oplus}} \text{[Methyl 2-oxocyclohexanecarboxylate]} + CH_3OH$
+
+### **6.0 AMIDES (RCONH$_2$)**
+### **6.1 METHODS OF PREPARATION**
+**A. Amides from Acyl chloride**
+Primary amines, secondary amines and ammonia all react rapidly with acid chloride to form amides. An excess of ammonia or amine is used to neutralize the HCl that would be formed otherwise.
+$R-COCl + NH_3 \rightarrow R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-NH_2 + NH_4Cl$
+$R-COCl + RR'NH \rightarrow RCON(R')R + RR'N \cdot H_2Cl$
+N, N-disubstituted amide
+
+**B. Amides from acid anhydride**
+$RCOOCOR + 2NH_3 \rightarrow R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-NH_2 + RCOO^{\ominus}NH_4^{\oplus}$
+Phthalic anhydride $+ 2NH_3 \xrightarrow{H_2O}$ Phthalamide $\xrightarrow{H_2O, \Delta}$ Phthalic acid
+Phthalamic acid both amide and acid
+
+**C. From Esters (Ammonolysis)**
+Ester undergoes nucleophilic substitution at their acyl carbon by nucleophilic ammonia or its derivative
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OR' + H-N\langle_{R'''} \rightarrow R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-N\langle_{R'''} + R'OH$
+
+**D. By partial hydrolysis of alkyl nitriles**
+$R-C\equiv N + H_2O \xrightarrow{H^+ \text{ or } OH^-} R-CO-NH_2$
+
+---
+### **Page 19**
+
+**E. From Carboxylic Acid**
+$RCOOH + NH_3 \rightarrow RCONH_2 + H_2O$
+
+### **6.2 PHYSICAL PROPERTIES**
+All amides except formamide are crystalline solid at room temperature. They have relatively high melting and boiling point due to association of amide molecules by inter molecular hydrogen bonds.
+$...O=C(R)-N(H)-H...O=C(R)-N(H)-H...$
+
+### **6.3 CHEMICAL PROPERTIES**
+**A. Amphoteric character**
+Amides are very feeble bases due to involvement of pair of electron present on N atom in resonance with carboxyl groups. As a result N atom receives partial +ve charge showing feeble acidic character as well
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-\ddot{N}H_2 \leftrightarrow R-\overset{:\ddot{O}:^{\ominus}}{\overset{|}{\text{C}}}=\overset{\oplus}{N}H_2$
+(I) $\quad\quad\quad$ (II)
+
+*   **Acidic character**
+    Due to structure II amide can act as acid.
+    $CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-NH_2 + CaO \rightarrow (CH_3CONH)_2Ca + H_2O$
+    As acid
+    $CH_3CONH_2 + Na \rightarrow CH_3CONH^{\ominus}Na^{\oplus} + \frac{1}{2}H_2$
+    Acid
+*   **Basic Character**
+    Due to structure I having lone pair of electrons on N atom it acts as base.
+    $CH_3CONH_2 + HCl \rightarrow CH_3CONH_3^{\oplus}Cl^{\ominus}$
+    As base $\quad$ Acid $\quad$ Salt
+
+**B. Reaction with nitrous acid**
+$R-CONH_2 + HONO \rightarrow R-COOH + N_2 + H_2O$
+The reaction proceeds via the attack of electrophilic species $NO^+$ generated from $HNO_2$.
+
+**C. Reaction with PCl$_5$**
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-NH_2 \xrightarrow{PCl_5 \text{ or } P_2O_5} RCN + H_2O$
+
+**D. Reduction**
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-NH_2 \xrightarrow{Na/C_2H_5OH} R-CH_2NH_2 + H_2O$
+$R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-NH_2 \xrightarrow{LiAlH_4^{\ominus}} R-CH_2-NH_2$
+
+---
+### **Page 20**
+
+### **JEE-Chemistry**
+
+### **7.0 HYDROLYSIS OF ACYL DERIVATIVES**
+*   **By alkaline hydrolysis**
+    $R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OR \xrightarrow{NaOH} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-ONa + R-OH$
+*   **By acidic hydrolysis**
+    $R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OR \xrightarrow{H_2O(excess), H^\oplus} R-\overset{\large\text{O}}{\overset{||}{\text{C}}}-OH + R-OH$
+    $CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O^{18}-C_2H_5 \xrightarrow{H_2\overset{18}{O}} CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-O^{18}H + C_2H_5OH^{18}$
+
+### **8.0 ACYLATION OF AROMATIC COMPOUND [FRIEDEL CRAFT'S REACTION]**
+[Benzene] $+ RCOCl \xrightarrow{\text{anhy. } AlCl_3} \text{[Acylbenzene]} + HCl$
+[Benzene] $+ CH_3COCl \rightarrow \text{[Acetophenone]}$
+[Benzene] $+ C_6H_5COCl \rightarrow \text{[Benzophenone]}$
+
+### **GOLDEN KEY POINTS**
+*   Carboxylic acid and its derivatives (except amide) give alcohol on reduction with LiAlH$_4$.
+*   Amide gives amine on reduction with LiAlH$_4$.
+
+---
+### **BEGINNER'S BOX-2**
+
+**1.** The correct reactivity order with the nucleophile is :
+(A) $CH_3COCl > CH_3COOCH_3 > CH_3CONH_2$
+(B) $CH_3COCl > CH_3COOCH_3 > CH_3CONH_2$
+(C) $CH_3CONH_2 > CH_3COOCH_3 > CH_3COCl$
+(D) $CH_3COOCH_3 > CH_3CONH_2 > CH_3COCl$
+
+**2.** Which one of the following reactions can be used for the preparation of $\beta$-hydroxy ester:
+(A) Perkin reaction
+(B) Reformatsky reaction
+(C) Aldol condensation
+(D) Claisen condensation
+
+---
+### **Page 21**
+
+**3.** Arrange following compounds in decreasing order of reactivity for hydrolysis reaction :
+(I) $C_6H_5COCl$
+(II) $NO_2-C_6H_4-COCl$
+(III) $CH_3-C_6H_4-COCl$
+(IV) $OHC-C_6H_4-COCl$
+(A) II > IV > I > III
+(B) II > IV > III > I
+(C) I > II > III > IV
+(D) IV > III > II > I
+
+**4.** The reaction of an amide with bromine and alkali to form a primary amine is called :-
+(A) Hunsdiecker reaction
+(B) Hofmann mustard oil reaction
+(C) Hoffmann bromide degradation of amides
+(D) Hell-Volhard-Zelinski reaction
+
+**5.** The treatment of an ester with $LiAlH_4$ followed by acid hydrolysis produces :
+(A) Two aldehyde
+(B) One carboxylic acid and one alcohol
+(C) Two alcohols
+(D) Two acids
+
+**6.** $(CH_3)_3C-\overset{\large\text{O}}{\overset{||}{\text{C}}}-Cl + LiAlH_4 (\text{excess}) \xrightarrow{H_3O^+} X, X$ is
+(A) $(CH_3)_3C-\overset{\large\text{O}}{\overset{||}{\text{C}}}-H$
+(B) $CH_3-CH_2-\overset{CH_3}{\overset{|}{C}}H-OH$
+(C) $CH_3-\overset{CH_3}{\underset{CH_3}{\underset{|}{C}}}-OH$
+(D) $CH_3-CH_2-CH_2-CH_2-OH$
+
+**7.** $Ph-Cl + \text{[Pyrrolidine]} \rightarrow X, X$ is
+(A) [N-benzoylpyrrolidine]
+(B) [N-phenylpyrrolidine]
+(C) [C-benzoylpyrrolidine]
+(D) [N-phenylbenzamide]
+
+**8.** [Cyclohexanone] $\xrightarrow{CH_3NH_2, \text{heat}} X, X$ is
+(A) [N-methylcyclohexanamine]
+(B) [N-methylcyclohex-1-en-1-amine]
+(C) [N-methylcyclohex-2-en-1-amine]
+(D) [2-(methylamino)cyclohexanone]
+
+---
+### **Page 22**
+
+### **JEE-Chemistry**
+
+**9.** Which will form lactone on treatment with NaOH ?
+(A) $\alpha$-Bromo acid
+(B) $\beta$-Bromo acid
+(C) $\beta$-Hydroxy acid
+(D) $\delta$-Bromo acid
+
+**10.** Ethyl acetate $\xrightarrow{CH_3MgBr, \text{Excess}} P$.
+The product P will be :-
+(A) $H_3C-\overset{CH_3}{\underset{OH}{\underset{|}{C}}}-CH_3$
+(B) $H_3C-\overset{C_2H_5}{\underset{OH}{\underset{|}{C}}}-C_2H_5$
+(C) $H_3C-\overset{C_2H_5}{\underset{OH}{\underset{|}{C}}}-CH_3$
+(D) $H_3C-\overset{C_2H_5}{\underset{OH}{\underset{|}{C}}}-OH$
+
+**11.** Acids have much higher boiling points than isomeric esters because :-
+(A) Acids form dimers by H-Bonding
+(B) Acids are volatile in steam
+(C) Ester are non-volatile
+(D) Acids can ionise to give protons in aqueous solution
+
+**12.** In the given reaction :
+$C_6H_5-\overset{\large\text{O}}{\overset{||}{\underset{CH_3}{\underset{|}{C}}}}-N-CH_3 \xrightarrow{LiAlH_4} [X]$
+[X] will be :
+(A) $C_6H_5-CH_2OH$
+(B) $C_6H_5COOH$
+(C) $C_6H_5CONH_2$
+(D) $C_6H_5-CH_2-N\langle_{CH_3}^{CH_3}$
+
+---
+### **Page 23**
+
+### **SOME WORKED OUT ILLUSTRATIONS**
+
+**Illustration 1.**
+End product of this conversion $CH_3-\overset{\large\text{O}}{\overset{||}{\text{C}}}-CH_2-(CH_2)_2-CO_2H \xrightarrow{\text{(i) } NaBH_4} \xrightarrow{\text{(ii) } H_3O^+, \Delta}$ is ?
+(A) [Tetrahydropyran-2-one]
+(B) [Oxepan-2-one]
+(C) [Oxolan-2-one]
+(D) [5-hydroxyhexanoic acid]
+
+**Solution (A)**
+$NaBH_4$ reduces reactant to
+$CH_3-\underset{OH}{\underset{|}{C}}H-CH_2-CH_2-CH_2-CO_2H$ which forms ester.
+
+**Illustration 2.**
+When acetic acid reacts with ketene, product formed is :
+(A) ethyl acetate
+(B) aceto-acetic ester
+(C) acetic anhydride
+(D) no reaction
+**Solution. (C)**
+$CH_3COOH + CH_2=C=O \rightarrow \text{acetic anhydride}$
+Ketene
+
+**Illustration 3.**
+$R-CH_2-CH_2OH$ can be converted in $R-CH_2CH_2COOH$. The correct sequence of reagents is :
+(A) $PBr_3, KCN, H_2$
+(B) $PBr_3, KCN, H_2$
+(C) $KCN, H^{\oplus}$
+(D) $HCN, PBr_3, H^{\oplus}$
+**Solution (A)**
+$RCH_2CH_2OH \xrightarrow{PBr_3} RCH_2CH_2Br \xrightarrow{KCN} RCH_2CH_2CN \xrightarrow{H_2O/H^+} RCH_2CH_2COOH$
+
+**Illustration 4.**
+Which of the following compound would be expected to decarboxylate when heated :
+(A) [2-oxocyclohexanecarboxylic acid]
+(B) [Cyclohex-2-enecarboxylic acid]
+(C) [1-methyl-2-oxocyclohexanecarboxylic acid]
+(D) [2,4-dioxocyclohexanecarboxylic acid]
+**Solution. (A)**
+In case of $\beta$-keto acid, the decarboxylation occurs radily due to 6-membered low energy transition state formation.
+
+---
+### **Page 24**
+
+### **JEE-Chemistry**
+
+**Illustration 5.**
+[$\gamma$-Butyrolactone] $\xrightarrow{CH_3OH} A$; A is?
+(A) [Methyl 4-hydroxybutanoate]
+(B) [Butyl acetate]
+(C) Both are correct
+(D) None is correct
+**Solution (A)**
+This bond breaks hence intermediate is $\rightarrow$
+[Intermediate structure] $\xrightarrow{CH_3OH}$ [Product]
+
+**Illustration 6.**
+End product of the following sequence of reaction is :
+[3-Methylcyclohexanone] $\xrightarrow{\text{(i)} I_2+NaOH, \Delta} \xrightarrow{\text{(ii)} H_3O^+}$
+(A) Yellow ppt. of $CHI_3$, [1-methylcyclohexane-1-carboxylic acid]
+(B) Yellow ppt. of $CHI_3$, [2-methylcyclohexan-1-one]
+(C) Yellow ppt. of $CHI_3$, [Cyclohexanecarboxylic acid]
+(D) Yellow ppt. of $CHI_3$, [Cyclohexanecarboxylic acid]
+**Solution (C)**
+Intermediate is [structure] which loses $CO_2$ on heating ($\beta$-keto acid)
+
+**Illustration 7.**
+The final product obtained in the reaction :
+$CH_2=CHCH_2CH_2CH_2OH \xrightarrow{Br_2/CCl_4}$
+(A) $BrCH_2-\underset{OH}{\underset{|}{C}}H-CH_2CH_2CH_2Br$
+(B) $HOCH_2-CH_2CH_2CH_2CH_2Br$
+(C) [2-(bromomethyl)tetrahydrofuran]
+(D) [Tetrahydropyran-2-one]
+**Solution. (C)**
+
+**Illustration 8.**
+On subjecting mesityl oxide to the iodoform reaction, one of the products is the sodium salt of an organic acid. Which acid is obtained ?
+(A) $(CH_3)_2C=CH-COOH$
+(B) $(CH_3)_2CH-COOH$
+(C) $(CH_3)_2C=CH-CO-COOH$
+(D) $(CH_3)_2C-COOH$
+**Solution. (A)**
+
+---
+### **Page 25**
+
+**Solution. (C)**
+[Reaction of mesityl oxide with NaOH/I$_2$]
+$(CH_3)_2C=CH-CO-CH_3 \xrightarrow{NaOH/I_2} (CH_3)_2C=CH-CO-CHI_3$
+mesityl oxide
+
+**Illustration 9.**
+The ease of alkaline hydrolysis is more for :
+(A) [Methyl p-nitrobenzoate]
+(B) [Methyl p-chlorobenzoate]
+(C) [Methyl benzoate]
+(D) [Methyl p-methoxybenzoate]
+**Solution. (A)**
+[Methyl p-nitrobenzoate]. There is more electron deficiency on carbonyl carbon.
+
+**Illustration 10.**
+Which of the following does not undergo Hell-volhard Zelinsky reaction ?
+(A) HCOOH
+(B) $CCl_3COOH$
+(C) $C_2H_5COOH$
+(D) All
+**Solution. (D)**
+None of these contain alpha H-atom.

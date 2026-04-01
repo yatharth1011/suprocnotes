@@ -1,0 +1,685 @@
+***
+
+# Polymers
+
+**INTRODUCTION TO POLYMERS; DEFINITION OF POLYMERS; CLASSIFICATIONS OF POLYMERS; SOURCE OF**
+
+The term polymer is used to describe a very large molecule that is made up of many repeating small molecular units. These small molecular units from which the polymer is formed are called monomers. The chemical reaction that joins the monomers together is called polymerisation. Starting from n molecules of a compound M, linking in a linear manner will form polymer $x–M–(M)_{n–2}–M–y$. The nature of linkages at the terminal units i.e. M – x and M – y depends upon the mode of reaction used in making the polymers.
+
+## 1.0 HOMOPOLYMERS AND COPOLYMERS
+
+Polymers which are formed by only one type of monomer are called Homopolymers. Some examples of homopolymers and their monomers are given below:
+
+| **Homopolymer** | **Monomer** |
+| :--- | :--- |
+| Starch | Glucose |
+| Cellulose | Glucose |
+| Glycogen | Glucose |
+| Dextrin | Glucose |
+| Inulin | Fructose |
+| Polyethylene | Ethylene |
+| Polyvinyl chloride | Vinyl chloride |
+| Teflon | Tetrafluoro ethylene |
+| Nylon–6 | Caprolactam |
+| Polystyrene | Styrene |
+| Orlon (Acrilan) | Acrylonitrile |
+| Plexiglas (Lucite) | Methyl methacrylate |
+| Polyvinyl acetate | Vinyl acetate |
+
+Polymers, which are formed by more than one type of monomers are known as copolymers. Some examples are given below in the table:
+
+| **Copolymer** | **Monomers** |
+| :--- | :--- |
+| Saran | Vinyl chloride and vinylidene chloride |
+| SAN | Styrene and acrylonitrile |
+| ABS | Acrylonitrile, butadiene and styrene |
+| Butyl rubber | Isobutylene and Isoprene |
+| Buna–S, SBR | Styrene and Butadiene |
+| Buna–N, NBR | Acrylonitrile and Butadiene |
+| Nylon–66 | Hexamethylenediamine and Adipic acid |
+| Terylene | Terephthalic acid and ethylene glycol |
+
+## 2.0 TYPES OF COPOLYMERS
+
+Depending upon the distribution of monomer units, the following types of copolymers are possible.
+
+**(1) Random Copolymer**
+If the monomer units have random distribution throughout the chain, it is called random copolymer. For example, if the monomer A and monomer B undergo copolymerisation then the structure of the random copolymer is
+$nA + nB \rightarrow –A–A–B–A–B–B–A–B–A–A–A–B–$
+segment of random copolymer
+
+**(2) Alternating Copolymer**
+If the two monomer units occur alternatively throughout the polymer chain, it is said to be alternating copolymer. For example,
+$nA + nB \rightarrow –A–B–A–B–A–B–$
+segment of alternating copolymer
+
+The exact distribution depends upon the proportion of the two reactant monomers and their relative reactivities. In practice neither perfectly random nor perfectly alternating copolymers are usually formed. However, most copolymers tend more towards alternating type but have many random imperfections.
+
+---
+**178**
+
+*Polymers*
+***
+
+**(3) Block copolymer**
+Polymers in which different blocks of identical monomer units alternate with each other are called block copolymers.
+For example,
+–B–B–A–A–A–A–A–B–B–B–B–B–A–A–
+segment of a block polymer
+Block copolymers can be prepared by initiating the radical polymerisation of one monomer to grow homopolymer chains, followed by addition of an excess of the second monomer.
+
+**(4) Graft copolymer**
+Polymers in which homopolymer branches of one monomer unit are grafted onto a homopolymer chain of another monomer unit are called graft co-polymers. For example:
+
+```
+  –A–A–A–A–A–A–A–A–A–A–
+      |   |   |   |
+      B   B   B   B
+      |   |   |   |
+      B   B   B   B
+      |   |   |   |
+      B   B   B   B
+      |   |   |   |
+```
+(Segment of a graft copolymer)
+
+Graft copolymers are prepared by $\gamma$-irradiation of a homopolymer chain in the presence of a second monomer. The high energy radiation knock out H-atoms from the homopolymer chain at random points thus generating radical sites that can initiate polymerisation of the second monomer.
+
+## 3.0 CLASSIFICATION OF POLYMERS; MOLECULAR FORCES; DEGRADATIONS; MODE OF POLYMERISATION
+
+Polymers are classified in following ways :
+
+**(I) CLASSIFICATION BASED UPON SOURCE**
+
+**(1) Natural polymers**
+Polymers which are obtained from animals and plants are known as natural polymers. Examples of natural polymers are given below.
+
+| **Natural polymer** | **Monomers** |
+| :--- | :--- |
+| 1. Polysaccharide | Monosaccharide |
+| 2. Proteins | $\alpha$-L-Amino acids |
+| 3. Nucleic acid | Nucleotide |
+| 4. Silk | Amino acids |
+| 5. Natural Rubber (cis polyisoprene) | Isoprene (2-Methyl-1,3-butadiene) |
+| 6. Gutta purcha (trans polyisoprene) | Isoprene |
+
+Natural polymers which take part in metabolic processes are known as biopolymers. Examples are polysaccharides, proteins, RNA and DNA.
+
+**(2) Semisynthetic polymers**
+Polymers which are prepared from natural polymers are known as semisynthetic polymers. Most of the semisynthetic polymers are prepared from cellulose. Examples are: cellulose acetate, cellulose nitrate, cellulose xanthate and Rayon.
+
+**(3) Synthetic polymers**
+Man-made polymers, i.e., polymers prepared in laboratory are known as synthetic polymers. Example are : PVC, polyethylene, polystyrene, nylon-6, nylon-66, nylon-610, terylene, synthetic rubbers etc.
+
+---
+**179**
+
+***
+
+JEE-Chemistry
+
+**(II) CLASSIFICATION BASED UPON SHAPE**
+
+**(1) Linear polymers**
+Polymer whose structure is linear is known as linear polymer. The various linear polymeric chains are stacked over one another to give a well packed structure.
+
+*(A diagram shows several parallel, wavy lines representing stacked polymer chains.)*
+
+The chains are highly ordered with respect to one another. The structure is close packed in nature, due to which they have high densities, high melting point and high tensile (pulling) strength. Linear polymers can be converted into fibres.
+
+**Note :**
+(i) All fibers are linear polymers. Examples are cellulose, silk, nylon, terylene etc.
+(ii) Linear polymers may be condensation as well as addition polymers. Examples are cellulose, polypeptide, nucleic acid, nylon, terylene etc.
+
+**(2) Branched chain polymers**
+Branched chain polymers are those in which the monomeric units constitute a branched chain. Due to the presence of branches, these polymers do not pack well. As a result branched chain polymers have lower melting points, low densities and tensile strength as compared to linear polymers.
+
+Branched chain polymers may be formed due to addition as well as condensation polymerisation. Examples are amylopectin, glycogen, low density polyethylene and all vulcanised rubbers.
+
+*(A diagram shows a main wavy line with smaller lines branching off of it.)*
+
+**(3) Cross-linked or Three Dimensional network polymers**
+In these polymers the initially formed linear polymeric chains are joined together to form a three dimensional network structure. These polymers are hard, rigid and brittle. Cross-linked polymers are always condensation polymers. Resins are cross linked polymers.
+
+*(A diagram shows several wavy lines that are interconnected by cross-links.)*
+
+**(III) CLASSIFICATION BASED UPON SYNTHESIS**
+
+**(1) Condensation polymerisation**
+(i) They are formed due to condensation reactions.
+(ii) Condensation polymerisation is also known as step growth polymerisation.
+(iii) For condensation polymerisation, monomers should have at least two functional groups. Both functional groups may be same or different.
+(iii) Monomers having only two functional group always give linear polymer.
+For example,
+
+$n\text{NH}_2–\text{R}–\text{NH}_2 + n\text{HOOC}–\text{R'}–\text{COOH} \xrightarrow{\text{Condensation reaction}} [–\text{NH}–\text{R}–\text{NH}–\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}–\text{R'}–\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}–]_n + (n-1)\text{H}_2\text{O}$
+(Polyamide)
+
+$n\text{HO}–\text{R}–\text{OH} + n\text{HO}–\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}–\text{R'}–\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}–\text{OH} \xrightarrow{\text{Condensation reaction}} [–\text{O}–\text{R}–\text{O}–\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}–\text{R'}–\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}–]_n + (n-1)\text{H}_2\text{O}$
+(Polyester)
+
+---
+**180**
+
+*Polymers*
+***
+
+$n\text{NH}_2–\text{R}–\text{COOH} \xrightarrow{\text{Condensation reaction}} [–\text{NH}–\text{R}–\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}–]_n + n\text{H}_2\text{O}$
+(Polyamide)
+
+(iv) Condensation polymers do not contain all atoms initially present in the monomer. Some atoms are lost in the form of small molecules.
+(v) Monomer having three functional groups always gives cross-linked polymer. **Examples are :** Urea-formaldehyde resin, phenol-formaldehyde resin.
+
+**(3) Addition polymerisation**
+(i) Polymers which are formed by addition reaction are known as addition polymers.
+(ii) If monomer is ethylene or its derivative, then addition polymer is either linear polymer of branch chain polymer. **Examples are :** polystyrene, polytetrafluoroethylene, polyacrylonitrile etc.
+(iii) If monomer is 1, 3-butadiene or 2-substituted-1, 3-butadiene ($CH_2=C(G)-CH=CH_2$), then polymer is always branched chain polymer.
+
+$n\underset{\text{(Monomer)}}{\mathrm{CH_2}=\underset{\underset{\mathrm{G}}{|}}{\mathrm{C}}-\mathrm{CH}=\mathrm{CH_2}} \rightarrow \underset{\text{(Polymer)}}{[-\mathrm{CH_2}-\underset{\underset{\mathrm{G}}{|}}{\mathrm{C}}=\mathrm{CH}-\mathrm{CH_2}-]_n}$
+
+| (Monomer) | (Polymer) |
+| :--- | :--- |
+| (i) G=H : 1,3-Butadiene | (i) Polybutadiene |
+| (ii) G=CH$_3$ : 2-Methyl-1,3-butadiene or isoprene | (ii) Polyisoprene |
+| (iii) G=Cl : 2-Chloro-1,3-butadiene or chloroprene | (iii) Polychloroprene (Neoprene) |
+
+(iv) Addition polymers retain all the atoms of the monomer units in the polymer.
+(v) Addition polymerisation takes place in three steps. Initiation, chain propagation and chain termination.
+(vi) Addition polymers are called as chain growth polymers.
+
+## 4.0 MECHANISM OF FREE RADICAL POLYMERISATION QUESTIONS
+
+**(A) Radical Polymerisation :**
+(i) Radical polymerisaiton takes place in the presence of radical initiators. The radical initiator may be any of the following:
+
+| | | |
+| :---: | :---: | :---: |
+| H$_2$O$_2$ , CH$_3\underset{\underset{\mathrm{CH_3}}{|}}{\overset{\overset{\mathrm{CH_3}}{|}}{\mathrm{C}}}-\mathrm{O}-\mathrm{O}-\mathrm{H}$ | $\mathrm{K}\overset{\large\mathrm{O}}{\overset{||}{\underset{\underset{\large\mathrm{O}}{||}}{\mathrm{S}}}}-\mathrm{O}-\mathrm{O}-\overset{\large\mathrm{O}}{\overset{||}{\underset{\underset{\large\mathrm{O}}{||}}{\mathrm{S}}}}-\mathrm{OK}$ | CH$_3-\underset{\underset{\mathrm{CN}}{|}}{\overset{\overset{\mathrm{CH_3}}{|}}{\mathrm{C}}}-\mathrm{N}=\mathrm{N}-\underset{\underset{\mathrm{CN}}{|}}{\overset{\overset{\mathrm{CH_3}}{|}}{\mathrm{C}}}-\mathrm{CH_3}$ |
+
+(ii) Reaction intermediate of radical polymerizaiton is a free radical.
+(iii) Radical polymerization has more chance for those monomers whose free radicals are more stable. **Examples are :**
+
+| | | |
+| :---: | :---: | :---: |
+| C$_6$H$_5$–CH=CH$_2$ | CH$_2$=CH–Cl | CH$_2$=CH–O–$\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}$–CH$_3$ |
+| Styrene | Vinyl chloride | Vinyl acetate |
+
+---
+**181**
+
+***
+JEE-Chemistry
+
+| | | |
+| :---: | :---: | :---: |
+| CH$_2$=CH–CN | CH$_2$=$\underset{\underset{\mathrm{CH_3}}{|}}{\mathrm{C}}-\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}-\mathrm{O}-\mathrm{CH_3}$ | $\underset{\underset{\mathrm{G}}{|}}{\mathrm{CH_2}}=\mathrm{C}-\mathrm{CH}=\mathrm{CH_2}$ (G=H, CH$_3$ and Cl) |
+| Acrylonitrile (vinyl cyanide) | Methyl methacrylate | 2-substituted-1,3-butadiene |
+
+(iv) Radical polymer has linear as well as branched chain structure. Most of the commercial addition polymers are vinyl polymers obtained from alkenes and their derivatives CH$_2$=CHG [G is H, C$_6$H$_5$, R etc.]
+
+This type of polymerisation is preformed by heating the monomer with only a very small amount of the initiator or by exposing the monomer to light. The general mode of radical polymerisation of vinyl monomers is depicted below:
+**Chain initiation step :**
+Initiator $\rightarrow$ In$^{\bullet}$
+
+In$^{\bullet}$ + CH$_2$=$\underset{\underset{\mathrm{G}}{|}}{\mathrm{C}}$H $\rightarrow$ In–CH$_2$–$\underset{\underset{\mathrm{G}}{|}}{\overset{\bullet}{\mathrm{C}}}$H
+
+**Chain propagating step :**
+CH$_2$=$\underset{\underset{\mathrm{G}}{|}}{\mathrm{C}}$H + In–CH$_2$–$\underset{\underset{\mathrm{G}}{|}}{\overset{\bullet}{\mathrm{C}}}$H $\rightarrow$ In–CH$_2$–$\underset{\underset{\mathrm{G}}{|}}{\mathrm{C}}$H–CH$_2$–$\underset{\underset{\mathrm{G}}{|}}{\overset{\bullet}{\mathrm{C}}}$H $\rightarrow$ In–(CH$_2$–$\underset{\underset{\mathrm{G}}{|}}{\mathrm{C}}$H)$_n$–CH$_2$–$\underset{\underset{\mathrm{G}}{|}}{\overset{\bullet}{\mathrm{C}}}$H
+
+**Chain terminating step :**
+2In(CH$_2$–$\underset{\underset{\mathrm{G}}{|}}{\mathrm{C}}$H)$_n$CH$_2$–$\underset{\underset{\mathrm{G}}{|}}{\overset{\bullet}{\mathrm{C}}}$H $\rightarrow$ In–(CH$_2$–$\underset{\underset{\mathrm{G}}{|}}{\mathrm{C}}$H)$_n$CH$_2$–$\underset{\underset{\mathrm{G}}{|}}{\mathrm{C}}$H–$\underset{\underset{\mathrm{G}}{|}}{\mathrm{C}}$H–CH$_2$–($\underset{\underset{\mathrm{G}}{|}}{\mathrm{C}}$H–CH$_2$)$_n$In
+(Polymer)
+
+In vinyl polymerisation, various other reaction of free radicals with some other compounds present may compete with the parent addition chain reactions. One such reaction takes place with molecules that can react with the growing chain to interrupt the further growth. This leads to the lowering of the average molecular mass of the polymer. Such reagents are called as chain transfer agents and include CCl$_4$, CBr$_4$ etc.
+
+For example, in the presence of CCl$_4$ styrene polymerises to form polystyrene of a lower average molecular mass which also contains some chlorine what happens here is that growing polystyrene radical which normally would add on a monomer reacts with the chain transfer agent to end the original chain and produces a new radical. The latter initiates a new polymerisation chain and thereby forms a new polymer as depicted below.
+
+–CH$_2$–$\underset{\underset{\mathrm{C_6H_5}}{|}}{\overset{\bullet}{\mathrm{C}}}$H + CCl$_4 \rightarrow$ –CH$_2$–$\underset{\underset{\mathrm{C_6H_5}}{|}}{\overset{\mathrm{Cl}|}{\mathrm{C}}}$H + $^{\bullet}$CCl$_3$
+
+$^{\bullet}$CCl$_3$ + CH$_2$=$\underset{\underset{\mathrm{C_6H_5}}{|}}{\mathrm{C}}$H $\rightarrow$ Cl$_3$C–CH$_2$–$\underset{\underset{\mathrm{C_6H_5}}{|}}{\overset{\bullet}{\mathrm{C}}}$H $\xrightarrow{\text{Styrene}}$ Cl$_3$C–CH$_2$–$\underset{\underset{\mathrm{C_6H_5}}{|}}{\mathrm{C}}$H–(CH$_2$–$\underset{\underset{\mathrm{C_6H_5}}{|}}{\mathrm{C}}$H)$_n$etc.
+
+---
+**182**
+
+You've made an excellent point. Simply stating "cis" and "trans" doesn't capture the structural information depicted in the diagram. Using some more advanced MathJax to visually represent the stereochemistry is a much better approach.
+
+Here is the transcription of the pages, with the cis/trans structures represented visually to better match the source material.
+
+***
+
+*Polymers*
+***
+
+If the chain transfer agent is a radical, which is highly unreactive, the reaction chain gets terminated such a compound thus inhibits or arrests polymerisation. Many amines, phenols, quinones etc. act as inhibitors. So, even traces of certain impurities, which can act as chain transfer agent or an inhibitor can interfere with the original polymerisation chain reaction. Hence, the monomers could be free from such inhibitors.
+
+In case the alkene is a diene, the following kinds of polymerisation is possible :
+**(1) 1,4 - polymerisation.**
+
+When the polymerisation takes place at C$_1$ and C$_4$ of butadiene, an unbranched polymer is formed. This product is different from that formed from an alkene having a double bond, which at each of its carbons is substituted by different groups and hence can exist either as trans-polybutadiene or cis-polybutadiene or a mixture as shown below.
+
+R$^{\bullet}$ + CH$_2$=CH–CH=CH$_2$ $\rightarrow$ R–CH$_2$–$\overset{\bullet}{\mathrm{C}}$H–CH=CH$_2$ $\leftrightarrow$ R–CH$_2$–CH=CH–$\overset{\bullet}{\mathrm{C}}$H$_2$
+
+And
+$\underset{\text{trans-1,4 structure}}{R-[\underset{\mathrm{H}}{\overset{\mathrm{CH_2}}{\mathrm{C}}}=\overset{\mathrm{H}}{\underset{\mathrm{CH_2}}{\mathrm{C}}}]_n}$
+$\underset{\text{cis-1,4 structure}}{R-[\underset{\mathrm{H}}{\overset{\mathrm{CH_2}}{\mathrm{C}}}=\underset{\mathrm{H}}{\overset{\mathrm{CH_2}}{\mathrm{C}}}]_n}$
+
+**(2) 1,2-Polymerisation**
+
+Alternatively, 1,3-butadiene can undergo polymerisaiton at C$_1$ and C$_2$ to yield the polymeric product, polyvinyl polythene.
+
+$2n \overset{1}{\mathrm{C}}\mathrm{H}_2=\overset{2}{\mathrm{C}}\mathrm{H}-\overset{3}{\mathrm{C}}\mathrm{H}=\overset{4}{\mathrm{C}}\mathrm{H}_2 \quad + \quad R^{\bullet} \quad \rightarrow \quad R(- \overset{1}{\mathrm{C}}\mathrm{H}_2-\overset{2}{\underset{\underset{\mathrm{CH=CH_2}}{||}}{\mathrm{C}}}H - \overset{1'}{\mathrm{C}}\mathrm{H}_2-\overset{2'}{\underset{\underset{\mathrm{CH=CH_2}}{||}}{\mathrm{C}}}H-)_{n}^{\bullet}$
+
+The double bonds in these initial polymers can be linked by further treatment with chemicals to modify the properties of the polymers. These reactions form the basis of the formation of rubber.
+
+**(B) Cationic Polymerisation :**
+(i) Polymerisation which is initiated by an electrophile is known as cationic polymerisation.
+(ii) Reaction intermediate of cationic polymerisation is a carbocation.
+(iii) Carbocations can undergo rearrangement leading to the formation of a more stable carbocation.
+(iv) The electrophile commonly used for initiation is BF$_3 \cdot$OEt$_2$.
+(v) Monomers that are best able to undergo polymerisation by a cationic mechanism are those with electron - donating substituents that can stabilise the carbocation. Some examples are:
+
+| | | | | |
+| :---: | :---: | :---: | :---: | :---: |
+| CH$_2$=CH–CH$_3$ | CH$_3$–$\underset{\underset{\mathrm{CH_3}}{|}}{\mathrm{C}}$=CH$_2$ | CH$_2$=CH–O–$\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}$–CH$_3$ | C$_6$H$_5$–CH=CH$_2$ | |
+| Propene | Isobutene | Vinyl acetate | Styrene | |
+
+(v) It is terminated by a base.
+Thus, when the initiator is cationic in nature, it would generate a cationic intermediate on addition to the double bond for propagating the addition chain process and is termed as cationic addition polymerisation. The process is initiated by an acid. The stages of polymerisation are depicted below.
+
+---
+**183**
+***
+
+JEE-Chemistry
+
+**Chain initiation step :**
+$\mathrm{H}^{\oplus}$ + CH$_2$=$\underset{\underset{\mathrm{G}}{|}}{\mathrm{C}}$H $\rightarrow$ CH$_3$–$\underset{\underset{\mathrm{G}}{|}}{\overset{\oplus}{\mathrm{C}}}$H
+
+**Chain propagating step :**
+CH$_3$–$\underset{\underset{\mathrm{G}}{|}}{\overset{\oplus}{\mathrm{C}}}$H + CH$_2$=$\underset{\underset{\mathrm{G}}{|}}{\mathrm{C}}$H $\rightarrow$ CH$_3$–CH($\underset{\mathrm{G}}{|}$)–CH$_2$–$\underset{\underset{\mathrm{G}}{|}}{\overset{\oplus}{\mathrm{C}}}$H $\xrightarrow{\text{So on}}$
+
+**Chain terminating step :**
+CH$_3$–CH($\underset{\mathrm{G}}{|}$)(CH$_2$–CH($\underset{\mathrm{G}}{|}$))$_n$CH$_2$–$\underset{\underset{\mathrm{G}}{|}}{\overset{\oplus}{\mathrm{C}}}$H + A$^{\ominus}$ $\rightarrow$ CH$_3$–CH($\underset{\mathrm{G}}{|}$)(CH$_2$–CH($\underset{\mathrm{G}}{|}$))$_n$CH=CH($\underset{\mathrm{G}}{|}$) + HA
+
+Cationic polymerisation is facilitated in monomers containing electron - releasing groups. Thus, isobutylene undergoes cationic polymerisation easily as it has two electron releasing -CH$_3$ groups that will stabilise the intermediate carbo cation.
+
+$\mathrm{H}^{\oplus}$ + CH$_2$=$\underset{\underset{\mathrm{CH_3}}{|}}{\mathrm{C}}$–CH$_3$ $\rightarrow$ CH$_3$–$\underset{\underset{\mathrm{CH_3}}{|}}{\overset{\overset{\mathrm{CH_3}}{|}}{\overset{\oplus}{\mathrm{C}}}}$
+
+$\underset{\mathrm{CH_3}}{\overset{\mathrm{CH_3}}{\underset{\oplus}{\mathrm{C}}}}-\mathrm{CH_3} + \mathrm{CH_2}=\underset{\underset{\mathrm{CH_3}}}{|}{\mathrm{C}}-\mathrm{CH_3} \rightarrow \mathrm{CH_3}-\underset{\underset{\mathrm{CH_3}}}{|}{\overset{\overset{\mathrm{CH_3}}}{|}{\mathrm{C}}}-\mathrm{CH_2}-\underset{\underset{\mathrm{CH_3}}}{|}{\overset{\overset{\mathrm{CH_3}}}{|}{\overset{\oplus}{\mathrm{C}}}}$
+(Butyl Rubber)
+
+**(C) Anionic Polymerisation :**
+(i) Anionic polymerisation takes place in the presence of base or nucleophile, which is initiator in this polymerization.
+(ii) Reaction intermediate in propagation steps are carboanion.
+(iii) The suitable initiator can be NaNH$_2$ or RLi.
+(iv) Those monomers undergo anionic polymerisation reaction whose anion is stable. Example of monomers are :
+
+| | | | |
+| :---: | :---: | :---: | :---: |
+| CH$_2$=CH–Cl | CH$_2$=CH–CN | CH$_2$=$\underset{\underset{\mathrm{O}-\mathrm{CH_3}}{|}}{\mathrm{C}}$–$\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}$–CH$_3$ | C$_6$H$_5$–CH=CH$_2$ |
+| Vinyl chloride | Acrylonitrile | Methyl methacrylate | Styrene |
+
+(v) Anionic polymerisation always gives linear polymer.
+(vi) Anionic polymerisation terminated by an acid.
+The formation of polystyrene from styrene in the presence of potassium amide is an important example of this category of polymerisation. The mode of anionic polymerisation is depicted below:
+
+---
+**184**
+***
+
+*Polymers*
+***
+
+**Chain initiation step :**
+K$^{\oplus}$NH$_{2}^{\ominus}$ + CH$_2$=$\underset{\underset{\mathrm{X}}{|}}{\mathrm{C}}$H $\rightarrow$ NH$_2$–CH$_2$–$\underset{\underset{\mathrm{X}}{|}}{\overset{\ominus}{\mathrm{C}}}$HK$^{\oplus}$
+
+**Chain propagating step :**
+NH$_2$–CH$_2$–$\underset{\underset{\mathrm{X}}{|}}{\overset{\ominus}{\mathrm{C}}}$H + nCH$_2$=$\underset{\underset{\mathrm{X}}{|}}{\mathrm{C}}$H $\rightarrow$ NH$_2$–CH$_2$–($\underset{\mathrm{X}}{|}}{\mathrm{C}}$H–CH$_2$)$_n$$\underset{\underset{\mathrm{X}}{|}}{\overset{\ominus}{\mathrm{C}}}$H K$^{\oplus}$
+
+**Chain terminating step :**
+NH$_2$–CH$_2$–($\underset{\mathrm{X}}{|}}{\mathrm{C}}$H–CH$_2$)$_n$$\underset{\underset{\mathrm{X}}{|}}{\overset{\ominus}{\mathrm{C}}}$H $\xrightarrow{\text{H}^+}$ H$_2$N–CH$_2$–($\underset{\mathrm{X}}{|}}{\mathrm{C}}$H–CH$_2$)$_n$$\underset{\underset{\mathrm{X}}{|}}{\mathrm{C}}$H$_2$
+
+**(D) Ziegler- Natta polymerisation :**
+(i) Addition polymerisation which takes place in the presence of Ziegler- Natta catalyst [(C$_2$H$_5$)$_3$Al and TiCl$_4$] is known as Ziegler- Natta polymerisation or coordination polymerisation.
+(ii) Ziegler- Natta polymerisation always gives linear, stereo-regular polymers.
+(iii) Ziegler- Natta catalyst revolutionised the field of polymer chemistry because they allow the synthesis of stronger and stiffer polymers (due to linear geometry) that have greater resistance to cracking and heat. High density polyethylene is prepared using a Ziegler- Natta catalyst.
+
+## 5.0 CLASSIFICATION BASED ON INTERMOLECULAR FORCES (SECONDARY FORCES)
+
+(i) Intermolecular forces present between polymeric chains are (a) Van der waals forces (b) Hydrogen bonds and (c) Dipole - dipole attractions.
+(ii) Mechanical properties such as tensile strength, elasticity, toughness etc. depend upon the secondary forces present between the polymeric chains.
+(iii) Magnitude of secondary forces depends upon the size of the molecule and the number of functional groups along the polymeric chains.
+Magnitude of secondary forces is directly proportional to the length of the polymeric chain. On the basis of magnitude of secondary forces, polymers can be divided into the following **following categories.**
+
+**(1) Elastomers**
+An elastomer is a plastic that stretches and then reverts back to its original shape. It is randomly oriented amorphous polymer. It must have some cross-links so that the chains do not slip over one another. Very weak Van der waal forces are present in between polymeric chains. When elastomers are stretched, the random chains stretch out, but there are insufficient Van der Waal forces to maintain them in that configuration and position. When the stretching force is removed, they go back to their random shape. Elastomers have the ability to stretch out over ten times their normal length. Important examples are vulcanized rubbers.
+**Note :** Addition polymers obtained from butadiene and its derivatives are elastomers.
+**(2) Fibres**
+Fibres are linear polymers in which the individual chains of a polymer are held together by hydrogen bonds and / or dipole–dipole attraction. In the fibres, the polymeric chains are highly ordered with respect to one another.
+
+---
+**185**
+***
+
+JEE-Chemistry
+
+Due to strong intermolecular forces of attraction and highly ordered geometry, fibres have high tensile strength and least elasticity, they have crystalline character and have high melting points and low solubility. Examples are cellulose, nylon, terylene, wool, silk etc.
+**Note :**
+(i) Condensation polymers formed from bifunctional monomers are fibres in character.
+(ii) Addition polymers of alkene derivatives having strong- I group are fibres in character.
+
+**(3) Thermoplastic Polymers**
+Thermoplastic polymers are polymers that have both ordered crystalline regions (the regions of the polymer in which the chains are highly ordered with respect to one another) and amorphous, non crystalline regions (the regions of the polymer in which the chains are randomly oriented).
+
+The intermolecular forces of attraction are in between elastomers and fibres. There are no cross links between the polymeric chains. Thermoplastic polymers are hard at room temperature, but when they are heated, the individual chains can slip past one another and the polymer become soft and viscous. This soft and viscous material becomes rigid on cooling. The process of heating, softening and cooling can be repeated as many times as desired without any change in chemical composition and mechanical properties of the plastic. As a result, these plastics can be moulded into toys, buckets, telephone and television cases. Some common examples are : polyethylene, polypropylene, polystyrene, polyvinyl chloride, teflon etc.
+**Note :** Addition polymers obtained from ethylene and ethylene derivatives are thermoplastic polymers.
+
+**(4) Thermosetting Polymers**
+Polymers which become hard on heating are called thermosetting polymers. thermosetting polymers can be heated only once when it permanently sets into a solid, which cannot be remelted by heating.
+
+Thermosetting polymers are cross- linked polymers . Greater the degree of cross - linking that exist, the more rigid is the polymer. Cross-linking reduces the mobility of the polymer chains, causing them to be relatively brittle materials. the hardening on heating is due to the extensive cross-linking between different polymer chains to give a three dimensional network solid. Examples are : phenol formaldehyde resin, urea-formaldehyde resin melamine - formaldehyde resin.
+
+## 6.0 DIFFERENCE BETWEEN THERMOPLASTIC AND THERMOSETTING POLYMERS
+
+| S.No. | Thermoplastic polymers | Thermosetting polymers |
+| :--- | :--- | :--- |
+| 1. | Soften and melt on heating and become hard on cooling i.e. process is reversible | Become hard on heating and process is irreversible. |
+| 2. | Can be moulded and remoulded and reshaped. | They can be moulded once and cannot be remoulded or reshaped. |
+| 3. | They are addition polymers | They are condensation polymers. |
+| 4. | Structure is generally linear | Structure is cross - linked. |
+
+## 7.0 RUBBER
+## 7.1 Natural Rubber
+Natural rubber is obtained from nearly five hundred different plants but the main source is a braziliensis tree. It is obtained in the form of milky sap known as latex. This latex is coagulated with acetic acid and formic acid. The coagulated mass is then squeezed.
+
+The raw natural rubber is a soft gummy and sticky mass. It is insoluble in water, dilute acids and alkalies but soluble in non-polar solvents. It has low elasticity and low tensile strength. Natural rubber is a polymer of 2-methyl-1,3-butadiene(isoprene). An average molecule of rubber contain 5000 isoprene units held together by head to tail. All the double bonds in rubber are cis, hence, natural rubber is cis-polyisoprene.
+
+---
+**186**
+
+***
+
+*Polymers*
+***
+
+... + $\underset{Isoprene}{\mathrm{CH_2=C(CH_3)-CH=CH_2}}$ + $\mathrm{CH_2=C(CH_3)-CH=CH_2}$ + ... $\xrightarrow{\text{Polymerisation (1,4 addition reaction)}}$ ($-\mathrm{CH_2-C(CH_3)=CH-CH_2-})_n$
+
+Gutta - percha is a naturally occuring isomer of rubber in which all the double bonds trans. Thus, gutta-percha is trans-polyisoprene.
+$n\underset{\text{Isoprene}}{\mathrm{CH_2}=\underset{\underset{\mathrm{CH_3}}{|}}{\mathrm{C}}-\mathrm{CH}=\mathrm{CH_2}} \xrightarrow[\text{1,4 addition reaction}]{\text{Polymerisation}} \underset{\text{trans-polyisoprene}}{\left[\underset{\diagup}{\mathrm{CH_2}}-\overset{\mathrm{CH_3}}{\mathrm{C}}=\underset{\mathrm{H}}{\mathrm{C}}-\overset{\diagup}{\mathrm{CH_2}}\right]_n}$
+
+It is harder and more brittle than rubber. It is the filling material that dentists use in root canal treatment. In order to give strength and elasticity to natural rubber, it is vulcanized. Heating of rubber with sulphur or sulphur containing compound at 150°C for few hours is known as vulcanisation. The essential feature of the vulcanisation is the formation of cross-linking between the polymeric chains. This cross linking gives mechanical strength to the rubber. Vulcanisation process can be enhanced in the presence of certain organic compounds known as accelerators. The common accelerators are:
+
+| | |
+| :---: | :---: |
+| $\mathrm{C_6H_5-NH-\underset{\underset{\mathrm{NH}}{|}}{\mathrm{C}}-NH-C_6H_5}$ | $\underset{\mathrm{CH_3}}{\overset{\mathrm{CH_3}}{\mathrm{N}}}-\underset{\underset{\mathrm{S}}{|}}{\mathrm{C}}-\mathrm{S}-\mathrm{S}-\underset{\underset{\mathrm{S}}{|}}{\mathrm{C}}-\underset{\mathrm{CH_3}}{\overset{\mathrm{CH_3}}{\mathrm{N}}}$ |
+| Diphenyl guanidine | Tetramethylthioureadisulphide |
+
+In addition, fillers such as carbon black and zinc oxide are usually added to the crude rubber before vulcanisation in order to improve its wearing characteristics.
+
+Natural rubber is used for making shoes, water – proof coats and golf balls. Vulcanised rubber is used for manufacture of rubber bands, gloves tubing and car tyres.
+
+## 8.0 Examples Of Addition Polymerisation; Difference Between LDPE and HDPE; Examples Of Condensation Polymerisation
+
+Polymers of 1,3 - butadienes are called synthetic rubbers because they have some of the properties of natural rubbers including the fact that they are water proof and elastic.
+
+Synthetic rubbers have some improved properties. They are more flexible, tougher and more durable than natural rubber.
+
+### 8.1 Homopolymers
+Monomer of this class is 2 - substituted - 1,3 - butadienes.
+$\mathrm{CH_2}=\underset{\underset{\mathrm{G}}{|}}{\mathrm{C}}-\mathrm{CH}=\mathrm{CH_2}$ where G=H, CH$_3$ or Cl.
+
+Polymerisation is always carried out in the presence of Ziegler-Natta catalyst which gives stereo regular polymers.
+
+... + $\underset{\text{Isoprene}}{\mathrm{CH_2=C(CH_3)-CH=CH_2}}$ + ... $\xrightarrow[\text{catalyst}]{\text{Zieglar - Natta}} \underset{\text{cis poly (1,3 diene)}}{\left[\overset{\diagup}{\mathrm{CH_2}}-\overset{\mathrm{CH_3}}{\mathrm{C}}=\underset{\mathrm{H}}{\mathrm{C}}-\overset{\diagup}{\mathrm{CH_2}}\right]_n}$
+
+Neoprene was the first synthetic rubber manufactured on large scale. It is also called dieprene. Its monomer, chloroprene(2-chlorobutadiene) is prepared from acetylene.
+
+---
+**187**
+
+***
+JEE-Chemistry
+
+$2\mathrm{HC}\equiv\mathrm{CH} \xrightarrow[\mathrm{NH_4Cl}]{\mathrm{Cu_2Cl_2}} \underset{\text{Vinyl acetylene}}{\mathrm{CH_2}=\mathrm{CH}-\mathrm{C}\equiv\mathrm{CH}} \xrightarrow{\mathrm{HCl}} \underset{\text{Chloroprene}}{\mathrm{CH_2}=\mathrm{CH}-\underset{\underset{\mathrm{Cl}}{|}}{\mathrm{C}}=\mathrm{CH_2}}$
+
+Chloroprene undergoes free radical polymerisation to form neoprene (polychloroprene).
+$n\underset{\text{2-chloro-1,3-butadiene or chloroprene}}{\mathrm{CH_2}=\underset{\underset{\mathrm{Cl}}{|}}{\mathrm{C}}-\mathrm{CH}=\mathrm{CH_2}} \xrightarrow[\text{Catalyst}]{\text{Zieglar-Natta}} \underset{\text{Trans polychloroprene or Neoprene}}{\left[\underset{\diagup}{\mathrm{CH_2}}-\overset{\mathrm{Cl}}{\mathrm{C}}=\underset{\mathrm{H}}{\mathrm{C}}-\overset{\diagup}{\mathrm{CH_2}}\right]_n}$
+
+Many of the properties of neoprene are similar to natural rubber but neoprene is more resistant to action of oils, gasoline and other hydrocarbons. It is also resistant to sunlight, oxygen, ozone and heat. It is non - inflammable. It is used for making automobile and refrigerator parts, hoses for petrol and oil containers, insulation of electric wires and conveyor belts.
+
+### 8.2 Copolymers
+The following synthetic rubbers are example of copolymers.
+
+| Synthetic rubber | Monomers |
+| :--- | :--- |
+| 1. Buna-S, SBR (styrene-Butadiene rubber) | C$_6$H$_5$-CH=CH$_2$ (25%) + CH$_2$=CH–CH=CH$_2$ (75%) |
+| 2. Buna-N, NBR (Nitrile-Butadiene rubber) | CH$_2$=CH–CN (25%) + CH$_2$=CH–CH=CH$_2$ (75%) |
+| 3. Butyl rubber | CH$_3$–C(CH$_3$)=CH$_2$ (Isobutylene) (98%) + CH$_2$=C(CH$_3$)–CH=CH$_2$ (Isoprene) (2%) |
+| 4. ABS; Acrylonitrile, Butadiene, Styrene | CH$_2$=CH–CN + CH$_2$=CH–CH=CH$_2$ + C$_6$H$_5$CH=CH$_2$ |
+
+**(a) Thiokol :** Thiokol is made by polymerising ethylene chloride and sodium polysulphide.
+$2\mathrm{Cl}-\mathrm{CH_2}-\mathrm{CH_2}-\mathrm{Cl} + \mathrm{Na}-\mathrm{S}-\mathrm{S}-\mathrm{S}-\mathrm{S}-\mathrm{Na} \xrightarrow{\text{Polymerisation}} \underset{\text{Thiokol rubber}}{-\mathrm{CH_2}-\mathrm{CH_2}-\mathrm{S}-\mathrm{S}-\mathrm{S}-\mathrm{S}-\mathrm{CH_2}-\mathrm{CH_2}-}$
+
+The repeating unit is –CH$_2$–S–S–CH$_2$–. Thiokol is chemically resistant polymer. It is used in the manufacture of hoses and tank linings, engine gaskets and rocket fuel when mixed with oxidising agents.
+**(b) Buna - S (SBR : Styrene butadiene rubber) :** Buna-S rubber is a copolymer of three moles of butadiene and one mole of styrene. In Buna-S, ‘Bu’ stands for butadiene, ‘na’ for symbol of sodium (Na) which is a polymerizing agent and ‘S’ stands for styrene. It is an elastomer (General purpose styrene Rubber or GRS).
+
+$n\underset{\text{1,3-Butadiene}}{\mathrm{CH_2}=\mathrm{CH}-\mathrm{CH_2}-\mathrm{CH_2}} + n\underset{\text{Styrene}}{\mathrm{C_6H_5}-\mathrm{CH}=\mathrm{CH_2}} \rightarrow \underset{\text{Buna-S}}{\left[-\mathrm{CH_2}-\mathrm{CH}=\mathrm{CH}-\mathrm{CH_2}-\underset{\underset{\mathrm{C_6H_5}}{|}}{\mathrm{CH}}-\mathrm{CH_2}\right]_n}$
+
+Buna-S is generally compounded with carbon black and vulcanised with sulphur. It is extremely resistant to wear and tear and therefore used in the manufacture of tyres and other mechanical rubber goods. It is obtained as a result of free radical copolymerisation of its monomers.
+
+---
+**188**
+
+***
+*Polymers*
+***
+
+**(c) Buna-N :** It is obtained by copolymerisation of butadiene and acrylonitrile (General purpose Rubber acrylonitrile or GRA).
+$n\mathrm{CH_2}=\mathrm{CH}-\mathrm{CH}=\mathrm{CH_2} + n\underset{\mathrm{CN}}{\mathrm{CH_2}=\mathrm{CH}} \rightarrow \left[-\mathrm{CH_2}-\mathrm{CH}=\mathrm{CH}-\mathrm{CH_2}-\underset{\underset{\mathrm{CN}}{|}}{\mathrm{CH}}-\mathrm{CH_2}-\right]_n$
+
+It is very rigid and is very resistant to action of petrol, lubricating oil and many organic solvents. It is mainly used for making fuel tanks.
+**(d) Cold Rubber :** Cold rubber is obtained by polymerisation of butadiene and styrene at –18° to 5°C temperature in the presence of redox system. Cold rubber has a greater tensile strength and greater resistance of abrasion than SBR.
+
+## 9.0 NYLON
+Nylon is used as a general name for all synthetic fibres forming polyamides, i.e., having a protein like structure. A number is usually suffixed with the name 'nylon' which refers to the number of carbon atoms present in the monomers.
+
+### 9.1 NYLON - 66 (Nylon six, six)
+It is obtained by the condensation polymerisation of hexamethylenediamine (a diamine with six carbon atoms) and adipic acid (a dibasic acid having 6 carbon atoms).
+$\underset{\text{Adipic acid}}{n\mathrm{HOOC(CH_2)_4COOH}} + \underset{\text{Hexamethylene diamine}}{n\mathrm{H_2N(CH_2)_6NH_2}} \xrightarrow[-(n-1)\mathrm{H_2O}]{280^\circ C, \text{High pressure}} \underset{\text{Nylon - 66}}{[-\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}\mathrm{(CH_2)_4}\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}\mathrm{NH(CH_2)_6NH}-]_n}$
+
+### 9.2 NYLON-610 (Nylon six, ten)
+It is obtained by condensation polymerisation of hexamethylenediamine (six carbon atoms) and sebacic acid (a dibasic acid with 10 carbon atoms.)
+Nylon fibres are stronger than natural fibres and so are used in making cords and ropes. The fibres are elastic, light, very strong and flexible. They have drip dry property and retain creases. It is inert towards chemicals and biological agents. It can be blended with wool. Nylon fibres are used in making garments, carpets, fabrics, tyre cords, ropes, etc.
+
+### 9.3 NYLON-6 (Perlon L)
+A polyamide closely related to nylon is known as perlon L (Germany) or Nylon – 6 (USA). It is prepared by prolonged heating of caprolactam at 260–270°C. It is formed by self condensation of a large number of molecules of amino-caproic acid. Since, caprolactum is more easily available, it is used for polymerization, with is carried out in the presence of H$_2$O that first hydrolyses the lactam to amino acid. Subsequently, the amino acid can react with the lactam and the process goes on and onto form the polyamide polymer. Carpolactam is obtained by Backmann rearrangement of cyclohexanone oxime.
+
+**Reaction Sequence for Nylon-6 Synthesis:**
+$\underset{\text{Cyclohexane}}{(\text{C}_6\text{H}_{12})} \xrightarrow{[\text{O}]} \underset{\text{Cyclohexanol}}{(\text{C}_6\text{H}_{11}\text{OH})} \xrightarrow{[\text{O}]} \underset{\text{Cyclohexanone}}{(\text{C}_6\text{H}_{10}=\text{O})} \xrightarrow{\text{NH}_2\text{OH}} \underset{\text{Cyclohexanone Oxime}}{(\text{C}_6\text{H}_{10}=\text{NOH})} \xrightarrow[\text{rearrangement}]{\text{H}_2\text{SO}_4, \text{Backmann}} \underset{\text{Caprolactam}}{(\text{cyclic amide})} \xrightarrow[ \text{H_2O}]{260-270^\circ\mathrm{C}} \underset{\text{(six carbon atoms in the repeating units) Nylon-6}}{\left[-\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}-(\mathrm{CH_2})_5-\mathrm{NH}-\right]_n}$
+
+### 9.4 NYON-2-NYLON-6
+It is in alternating polyamide copolymer of glycine and amino caproic acid and is biodegradable.
+
+## 10.0 POLYETHYLENE
+Polyethylene is of two types :
+**(a) Low Density Poly Ethylene (LDPE) :** It is manufactured by heating ethylene at 200°C under a pressure of 1500 atmospheres and in the presence of traces of oxygen. This polymerisation is a free radical polymerisation.
+
+---
+**189**
+
+***
+$n\mathrm{CH_2}=\mathrm{CH_2} \xrightarrow[1500 \text{ atm.}]{\sim 200^\circ\mathrm{C}} [-\mathrm{CH_2}-\mathrm{CH_2}-]_n$
+
+The polyethylene produced has a molecular mass of about 20,000 and has a branched structure. Due to this, polyethylene has a low density (0.92) and low melting point (110°C). That is why polyethylene prepared by free radical polymerisation is called low density polyethylene. It is a translucent polymer of moderate tensile strength and high toughness. It is widely used as a packing material and as insulation for electrical wires and cables.
+**(b) High Density Poly Ethylene (HDPE) :** It is prepared by the use of Ziegler - Natta catalyst at 160°C under pressure of 6 to 7 atmosphere.
+The polymer is linear chain, hence it has high density (0.97) and has high melting point (130°C). That is why it is called high density polyethylene. It is a translucent polymer. It has greater toughness, hardness and tensile strength than low density polyethylene. It is used in the manufacture of containers (buckets, tubes), house wares, bottles and toys.
+
+## 11.0 PLASTICISER
+A plasticiser is an organic compound that dissolves in the polymer and allows the polymer chains to slide past one another. This makes polymer more flexible. Dibutylphthalate is a commonly used plasticiser.
+
+**Structure of Dibutylphthalate:**
+Benzene ring with two adjacent $-\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}-\mathrm{O}-(\mathrm{CH_2})_3\mathrm{CH_3}$ groups.
+
+## 12.0 MELAMINE - FORMALDEHYDE RESIN
+This resin is formed by condensation polymerisation of melamine and formaldehyde.
+$\underset{\text{Melamine}}{\mathrm{C_3N_3(NH_2)_3}} + \mathrm{HCHO} \rightarrow \underset{\text{(Intermediate)}}{\mathrm{C_3N_3(NH_2)_2(NHCH_2OH)}} \xrightarrow{\text{Polymerisation}} \underset{\text{Melamine-formaldehyde polymer}}{[-\mathrm{C_3N_3(NH_2)_2(NH-CH_2)}-]_n}$
+
+It is a quite hard polymer and is used widely for making plastic crockery under the name melamine.The articles made from this polymer do not break even when dropped from considerable height.
+
+## 13.0 BAKELITE
+Phenol-formaldehyde resins are obtained by the reaction of phenol and formaldehyde in the presence of either an acidic or a basic catalyst. The reaction starts with the initial formation of ortho and para-hydroxymethyl phenol derivatives, which further react with phenol to form compounds where rings are joined to each other with –CH$_2$ groups. The reaction involves the formation of methylene bridges in ortho, para or both ortho and para positions. Linear or cross - linded materials are obtained depending on the conditions of the reaction.
+
+$\underset{\text{Phenol}}{(\text{C}_6\text{H}_5\text{OH})} + \mathrm{HCHO} \xrightarrow{\text{H}^+ \text{ or } \text{OH}^-} \underset{\text{o- and p-hydroxymethyl phenol}}{\text{o-(HOC}_6\text{H}_4\text{CH}_2\text{OH}) + \text{p-(HOC}_6\text{H}_4\text{CH}_2\text{OH})}$
+
+---
+**190**
+
+***
+*Polymers*
+***
+
+**Formation of Linear Polymer (Novolac):**
+$n(\text{HOC}_6\text{H}_5) \xrightarrow{\text{Polymerisation}} [-\text{C}_6\text{H}_3(\text{OH})-\text{CH}_2-]_n$
+(A linear chain of phenol units linked by -CH$_2$- bridges at ortho positions)
+
+**Formation of Cross-linked Polymer (Bakelite):**
+(A 3D network structure showing phenol units cross-linked by -CH$_2$- bridges at ortho and para positions)
+
+## 14.0 POLYESTERS
+Dacron is a common polyester, prepared using ethylene glycol and terephthalic acid. The reaction is carried out at 140° to 180° C in the presence of zinc acetate and Sb$_2$O$_3$ as catalyst.
+$n\mathrm{HOCH_2CH_2OH} + n\mathrm{HO}\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}-\mathrm{C_6H_4}-\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}\mathrm{OH} \rightarrow \underset{\text{Dacron}}{\left[-\mathrm{OCH_2CH_2}-\overset{\large\mathrm{O}}{\overset{||}{\mathrm{O}}}\mathrm{C}-\mathrm{C_6H_4}-\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}-\right]_n}$
+
+The terylene fibre (Dacron) is crease resistant and has low moisture absorption. It has high tensile strength. It is mainly used in making wash and wear garments, in blending with wood to provide better crease and wrinkle resistance.
+
+## 15.0 BIODEGRADABLE POLYMERS
+By far the largest use of synthetic polymers is as a plastic. A major portion of it is used as throwaway containers and packing materials. Since plastics do not disintegrate by themselves, they are not biodegradable over a period of time. Non - biodegradability is due the carbon-carbon bonds of addition polymers which are inert to enzyme catalysed reaction. These polymers create pollution problem.
+
+Biodegradable polymers are the polymers that can be broken into small segments by enzyme catalysed reactions using enzymes produced by microorganisms. In biodegradable polymers, bonds that can be broken by the enzymes are inserted into the polymers. Therefore, when they are buried as waste, enzymes present in the ground can degrade the polymer.
+
+One method involves inserting hydrolysable ester group into the polymer. For example, when acetal (I) is added during the polymerization of alkene, ester group is inserted into the polymeric chains.
+$n\mathrm{R}-\mathrm{CH}=\mathrm{CH_2} + n\underset{\text{(I)}}{\mathrm{CH_2}=\underset{\underset{\mathrm{O}-\mathrm{CH_2}-\mathrm{CH_2}}{\diagup}}{\mathrm{C}}\mathrm{O}-\mathrm{CH_2}-\mathrm{CH_2}} \xrightarrow{\text{Peroxide}} \left[-\mathrm{CH_2}-\underset{\underset{\mathrm{R}}{|}}{\mathrm{CH}}-\underset{\underset{\text{Ester linkage attacked by enzyme}}|}{\mathrm{CH_2}-\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}-\mathrm{O}-\mathrm{CH_2}-\mathrm{CH_2}}-\right]_n$
+
+Aliphatic polyesters are important class of biodegradable polymers. some examples are described below:
+
+---
+**191**
+
+***
+JEE-Chemistry
+
+**(1) Poly - Hydroxybutyrate-CO-β-Hydroxyvalerate (PHBV)**
+It is a copolymer of 3- hydroxybutanoic acid and 3 hydroxypentanoic acid, in which the monomer units are connected by ester linkages.
+CH$_3$–CH(OH)–CH$_2$–COOH + CH$_3$–CH$_2$–CH(OH)–CH$_2$–COOH $\rightarrow$
+$\left[–\mathrm{O}–\underset{\underset{\mathrm{R}}{|}}{\mathrm{CH}}–\mathrm{CH_2}–\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}–\right]_n$ where R=CH$_3$, C$_2$H$_5$
+
+The properties of PHBV vary according to the ratio of the both the acids. 3-Hydroxybutanoic acid provides stiffness and 3-hydroxypentanoic acid imparts flexibility to the co-polymer. It is used in specialty packaging, orthopaedic devices and even in controlled drug release. When a drug is put in a capsule of PHBV. It is released only after the polymer is degraded. PHBV can undergo bacterial degradation in the environment.
+
+**(2) POLY (GLYCOLIC ACID) AND POLY (LACTIC ACID)**
+They constitute commercially successful biodegradable polymers such as sutures. Dextron was the first bioadsorbable suture made for biodegradable polyesters for post - operative stitches.
+
+## 16.0 MOLECULAR MASS OF POLYMER
+Normally, a polymer contains chains of varying lengths and therefore, its molecular mass is always expressed as an average. In contrast, natural polymers such as protein contains chain of identical length and hence, have a definite molecular mass.
+The molecular mass of a polymer is expressed as
+
+**(a) Number average molecular mass ($\bar{\mathrm{M}}_\mathrm{n}$)**
+$\bar{\mathrm{M}}_\mathrm{n} = \frac{\sum \mathrm{N_i M_i}}{\sum \mathrm{N_i}}$
+where N$_i$ is the number of molecules of molecular mass M$_i$.
+
+**(b) Weight average molecular mass ($\bar{\mathrm{M}}_\mathrm{w}$)**
+$\bar{\mathrm{M}}_\mathrm{w} = \frac{\sum \mathrm{N_i M_i^2}}{\sum \mathrm{N_i M_i}}$
+where N$_i$ is the number of molecules of molecular mass M$_i$. Methods such as light scattering and ultracentrifuge depend on the mass of the individual molecules and yield weight average molecular masses. $\bar{\mathrm{M}}_\mathrm{n}$ is determined by employing methods which depend upon the number of molecules present in the polymer sample viz. colligative properties like osmotic pressure.
+
+The ratio of the weight and number average molecular masses ( $\bar{\mathrm{M}}_\mathrm{w}$ / $\bar{\mathrm{M}}_\mathrm{n}$ ) is called Poly Dispersity Index (PDI). Some natural polymers, which are generally monodisperesed, the PDI is unity (i.e. $\bar{\mathrm{M}}_\mathrm{w} = \bar{\mathrm{M}}_\mathrm{n}$ ).
+In synthetic polymers, which are always polydispersed, PDI > 1 because $\bar{\mathrm{M}}_\mathrm{w}$ is always higher than $\bar{\mathrm{M}}_\mathrm{n}$ .
+
+## 17.0 COMMON POLYMERS
+
+| | Monomer | Repeating unit | Polymer |
+| :--- | :--- | :--- | :--- |
+| **1.** | CH$_2$=CH$_2$ <br> Ethylene | –CH$_2$–CH$_2$– | Polyethylene |
+| **2.** | CH$_2$=CH–CH$_2$ <br> Propene | –CH$_2$–$\underset{\underset{\mathrm{CH_3}}{|}}{\mathrm{CH}}$– | Polypropene |
+| **3.** | C$_6$H$_5$–CH=CH$_2$ <br> Styrene | –CH$_2$–$\underset{\underset{\mathrm{C_6H_5}}{|}}{\mathrm{CH}}$– | Polystyrene |
+
+---
+**192**
+
+***
+*Polymers*
+***
+
+| | Monomer | Repeating unit | Polymer |
+| :--- | :--- | :--- | :--- |
+| **4.** | CF$_2$=CF$_2$ <br> Tetrafluoroethylene | –CF$_2$–CF$_2$– | Polytetrafluoroethylene (PTFE), Teflon |
+| **5.** | CH$_2$=CH–Cl <br> Vinyl chloride | –CH$_2$–$\underset{\underset{\mathrm{Cl}}{|}}{\mathrm{CH}}$– | Polyvinyl Chloride(PVC) |
+| **6.** | CH$_2$=CH–CN <br> Vinyl cyanide or Acrylonitrile | –CH$_2$–$\underset{\underset{\mathrm{CN}}{|}}{\mathrm{CH}}$– | Polyvinyl cyanide, poly acrylonitrile, Orlon. |
+| **7.** | $\mathrm{H_2C}=\overset{\overset{\large\mathrm{O}}{||}}{\underset{\underset{\mathrm{COOCH_3}}{|}}{\mathrm{C}}}-\mathrm{CH_3}$ <br> Methyl methacrylate | $–\mathrm{CH_2}–\overset{\overset{\mathrm{COOCH_3}}{|}}{\underset{\underset{\mathrm{CH_3}}{|}}{\mathrm{C}}}–$ | Polymethyl methacrylate, Plexiglas, Lucite |
+| **8.** | $\mathrm{CH_2=CH-O-\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}-CH_3}$ <br> Vinyl acetate | $–\mathrm{CH_2}–\underset{\underset{\mathrm{OCOCH_3}}{|}}{\mathrm{CH}}–$ | Polyvinyl Acetate |
+| **9.** | CH$_2$=CH–CH=CH$_2$ <br> 1,3-butadiene | –CH$_2$–CH=CH–CH$_2$– | Polybutadiene, Buna rubber |
+| **10.** | CH$_2$=CH–Cl (vinyl chloride) <br> + <br> CH$_2$=CCl$_2$ (vinylidene chloride) | $–\mathrm{CH_2}–\underset{\underset{\mathrm{Cl}}{|}}{\mathrm{CH}}–\mathrm{CH_2}–\mathrm{CCl_2}–$ | Saran |
+| **11.** | C$_6$H$_5$–CH=CH$_2$ (Styrene) <br> + <br> CH$_2$=CH–CN (acrylonitrile) | $–\mathrm{CH_2}–\underset{\underset{\mathrm{C_6H_5}}{|}}{\mathrm{CH}}–\underset{\underset{\mathrm{CN}}{|}}{\mathrm{CH}}–\mathrm{CH_2}–$ | SAN |
+| **12.** | CH$_2$=CH–CN + CH$_2$=CH–CH=CH$_2$ <br> + <br> C$_6$H$_5$–CH=CH$_2$ | — | ABS |
+| **13.** | CH$_2$=C(CH$_3$)$_2$ + CH$_2$=C(CH$_3$)–CH=CH$_2$ | — | Butyl rubber |
+| **14. 15.** | C$_6$H$_5$-CH=CH$_2$ + CH$_2$=CH-CH=CH$_2$ <br> CH$_2$=CH-CN + CH$_2$=CH-CH=CH$_2$ | — | Buna S, SBR <br> Buna-N, NBR |
+| **16.** | CH$_2$=C(Cl)–CH=CH$_2$ <br> Chloroprene | $–\mathrm{CH_2}–\overset{\overset{\mathrm{Cl}}{|}}{\mathrm{C}}=\mathrm{CH}–\mathrm{CH_2}–$ | Neoprene |
+| **17.** | Terephthalic acid (`p-HOOC-C₆H₄-COOH`) + Ethylene glycol (`HO-CH₂-CH₂-OH`) | $–(\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}-\mathrm{C_6H_4(para)}-\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}-\mathrm{O}-\mathrm{CH_2}-\mathrm{CH_2}-\mathrm{O})–$ | Poly(ethylene terephthalate), Terylene, Dacron or Mylar |
+
+---
+**193**
+
+***
+JEE-Chemistry
+***
+
+| | Monomer | Repeating unit | Polymer |
+| :--- | :--- | :--- | :--- |
+| **18.** | Terephthalic acid (`p-HOOC-C₆H₄-COOH`) + Cyclohexane-1,4-dimethanol | $–(\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}-\mathrm{C_6H_4(para)}-\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}-\mathrm{O}-\mathrm{CH_2}-(cychex)-\mathrm{CH_2}-\mathrm{O})–$ | Kodel Polyster |
+| **19.** | Phthalic acid (`o-HOOC-C₆H₄-COOH`) + Ethylene glycol (`HO-CH₂-CH₂-OH`) | $–(\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}-\mathrm{C_6H_4(ortho)}-\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}-\mathrm{O}-\mathrm{CH_2}-\mathrm{CH_2}-\mathrm{O})–$ | Polyethylene phthalate alkyd resin (Glyptal) |
+| **20.** | Caprolactam | $–\mathrm{NH(CH_2)_5}\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}–$ | Nylon-6 |
+| **21.** | NH$_2$(CH$_2$)$_6$NH$_2$ (Hexamethylenediamine) + HOOC(CH$_2$)$_4$COOH (Adipic Acid) | $–\mathrm{NH}–(\mathrm{CH_2})_6–\mathrm{NH}–\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}–(\mathrm{CH_2})_4–\overset{\large\mathrm{O}}{\overset{||}{\mathrm{C}}}–$ | Nylon - 66 |
+| **22.** | Phenol + HCHO | — | Bakelite or resol |
+| **23.** | Urea (`NH₂-CO-NH₂`) + HCHO | — | Urea-formaldehyde resin |
+| **24.** | Melamine (`C₃N₃(NH₂)₃`) + HCHO | — | Melamine resin |
+
+_**Legend:** `cychex` represents a 1,4-disubstituted cyclohexane ring core (`–C₆H₁₀–`)._
+
+#	Monomer	Repeating Unit	Polymer
+1.	CH₂=CH₂Ethylene	–CH₂–CH₂–	Polyethylene
+2.	CH₂=CH–CH₃Propene	–CH₂–CH(CH₃)–	Polypropylene
+3.	C₆H₅–CH=CH₂Styrene	–CH₂–CH(C₆H₅)–	Polystyrene
+4.	CF₂=CF₂Tetrafluoroethylene	–CF₂–CF₂–	Polytetrafluoroethylene (PTFE), Teflon
+5.	CH₂=CH–ClVinyl chloride	–CH₂–CH(Cl)–	Polyvinyl chloride (PVC)
+6.	CH₂=CH–CNVinyl cyanide or Acrylonitrile	–CH₂–CH(CN)–	Polyacrylonitrile (PAN)
+7.	H₂C=C(CH₃)–COOCH₃Methyl methacrylate	–CH₂–C(CH₃)(COOCH₃)–	Polymethyl methacrylate (PMMA)
+8.	CH₂=CH–O–CO–CH₃Vinyl acetate	–CH₂–CH(O–CO–CH₃)–	Polyvinyl acetate (PVA)
+9.	CH₂=CH–CH=CH₂1,3-butadiene	–CH₂–CH=CH–CH₂–	Polybutadiene, Buna rubber
+10.	CH₂=CH–Cl (vinyl chloride)+CH₂=CCl₂ (vinylidene chloride)	–CH₂–CH(Cl)–CH₂–CCl₂–	Saran
+11.	C₆H₅–CH=CH₂ (Styrene)+CH₂=CH–CN (acrylonitrile)	–CH₂–CH(C₆H₅)–CH₂–CH(CN)–	SAN
+12.	CH₂=CH–CN + CH₂=CH–CH=CH₂+C₆H₅–CH=CH₂	—	ABS
+13.	CH₂=C(CH₃)₂ + CH₂=C(CH₃)–CH=CH₂	—	Butyl rubber
+14.	C₆H₅–CH=CH₂ + CH₂=CH–CH=CH₂	—	Buna S, SBR
+15.	CH₂=CH–CN + CH₂=CH–CH=CH₂	—	Buna-N, NBR
+16.	CH₂=C(Cl)–CH=CH₂Chloroprene	–CH₂–C(Cl)=CH–CH₂–	Neoprene
+17.	Terephthalic acid (p-HOOC–C₆H₄–COOH) + Ethylene glycol (HO–CH₂–CH₂–OH)	–(CO–C₆H₄–CO–O–CH₂–CH₂–O)–	Polyethylene terephthalate (PET), Dacron, Terylene
+18.	Terephthalic acid (p-HOOC–C₆H₄–COOH) + Cyclohexane-1,4-dimethanol	–(CO–C₆H₄–CO–O–CH₂–cychex–CH₂–O)–	Polyethylene terephthalate glycol (PETG)
+19.	Phthalic acid (o-HOOC–C₆H₄–COOH) + Ethylene glycol (HO–CH₂–CH₂–OH)	–(CO–C₆H₄–CO–O–CH₂–CH₂–O)–	Glyptal
+20.	Caprolactam	–NH(CH₂)₅CO–	Nylon-6
+21.	NH₂(CH₂)₆NH₂ (Hexamethylenediamine) + HOOC(CH₂)₄COOH (Adipic Acid)	–NH–(CH₂)₆–NH–CO–(CH₂)₄–CO–	Nylon-6,6
+22.	Phenol + HCHO	—	Bakelite or resol
+23.	Urea (NH₂–CO–NH₂) + HCHO	—	Urea-formaldehyde resin
+24.	Melamine (C₃N₃(NH₂)₃) + HCHO	—	Melamine resin
+
+### GOLDEN KEY POINTS
+*   Plasticizers fit between the polymer chains and thus weaken the attraction between the chains there by increasing the flexibility.
+*   Nylon-6(USA) or perlonl (Germany)) is prepared by prolonged heating of caprolactum at 540K.
+*   Saran is a copolymer of vinylidene chloride (85%) and vinyl chloride (15%).
+*   All surfactants consist of two characteristic groups, i.e., apolar head group which is water-soluble (hyudrophillic group) and a non-polar hydrocarbon tail which is oil-soluble (lyophilic or lipophilic group).
+
+---
+**194**
+
+***
+*Polymers*
+***
+
+*   Like soaps, detergents of the type, linear benzene sulphonate (LBS) in which the phenyl group is randomly attached to the various secondary positions of a long straight chain or n-alkyl hydrogen sulphates are 100% biodegradable.
+*   Congo red (azo dye) and martius yellow (nitro dye) are also called direct dyes.
