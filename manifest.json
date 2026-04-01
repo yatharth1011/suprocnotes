@@ -1,0 +1,1 @@
+﻿{ "name": "Suproc Notes", "short_name": "Suproc", "start_url": ".", "display": "standalone", "background_color": "#1e1e1e", "theme_color": "#007acc", "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png" }] }
