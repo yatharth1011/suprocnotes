@@ -1,6 +1,6 @@
-# SupRoc Notes
+# SuprOC Notes
 
-JEE Advanced-level chemistry notes: organic chemistry in depth, plus key inorganic and physical topics. Mostly handwritten notebook pages, with typed theory sheets and PDFs, browsable in a simple web viewer.
+**SuprOC** = **Super Organic Chemistry**. JEE Advanced-level chemistry notes: organic chemistry in depth, plus key inorganic and physical topics. Mostly handwritten notebook pages, with typed theory sheets and PDFs, browsable in a simple web viewer.
 
 ## What's inside
 
